@@ -18,27 +18,28 @@ annotations = sm.get_annotations(fdr, database, {'ids': dataset_id})
 grid_mask = np.load(f'{dataset_id}_grid_mask.npy')
 positions, grid_coords, n_rows, n_cols, spot_h, spot_w, mask_names = json.load(open(f'{dataset_id}_grid_params.json'))
 
-annotations = sm.get_annotations(fdr, database, {'ids': dataset_id})
-
+#Store all annotation images
 images = sm.dataset(id=dataset_id).all_annotation_images(fdr, database, True, True)
 images = dict(((img.formula, img.adduct), img[0]) for img in images)
 h, w = next(iter(images.values())).shape
 images_flat = np.array(list(images.values())).reshape(len(images), -1)
 
+#Create result matrix structure
 annotations_key = annotations.formula + annotations.adduct
 result_sum = pd.DataFrame(index=annotations.formula + annotations.adduct, columns=mask_names)
 result_mean = pd.DataFrame(index=annotations.formula + annotations.adduct, columns=mask_names)
 result_std = pd.DataFrame(index=annotations.formula + annotations.adduct, columns=mask_names)
 result_occ = pd.DataFrame(index=annotations.formula + annotations.adduct, columns=mask_names)
 
-for val, col in enumerate(mask_names):
-    spot_inds = np.flatnonzero(grid_mask == val)
-    for img, ann in annotations_key.iteritems():
-        pixels_from_spot = images_flat[img, spot_inds]
-        result_sum.loc[ann, col] = np.sum(pixels_from_spot)
-        result_mean.loc[ann, col] = np.average(pixels_from_spot)
-        result_std.loc[ann, col] = np.std(pixels_from_spot)
-        result_occ.loc[ann, col] = (np.count_nonzero(pixels_from_spot) / pixels_from_spot.size) * 100
+for val, col in enumerate(mask_names): #For each well
+    spot_inds = np.flatnonzero(grid_mask == val)   #Find all the pixel co-ordinates that are part of the well
+    for img, ann in annotations_key.iteritems():    #For each image
+        pixels_from_spot = images_flat[img, spot_inds]  #Load all the pixels in the well
+        #Update all result matrices
+        result_sum.loc[ann, col] = np.sum(pixels_from_spot) #Sum abundance in well
+        result_mean.loc[ann, col] = np.average(pixels_from_spot)  #Average abundance in well
+        result_std.loc[ann, col] = np.std(pixels_from_spot) #Standard deviation
+        result_occ.loc[ann, col] = (np.count_nonzero(pixels_from_spot) / pixels_from_spot.size) * 100 # % of pixels that have non-zero values
 
 targets = pd.read_csv('Molecules.csv', sep=',', header=None)  # Generated from plate randomizer
 
