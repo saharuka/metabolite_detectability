@@ -11,7 +11,12 @@ from definitions import ROOT_DIR
 
 #Load METASPACE Data
 sm = SMInstance()
-sm.login(email='luca.rappez@embl.de', password='Zeppar12')
+if not sm.logged_in():
+    print('Enter your API key from https://metaspace2020.eu/user/me')
+    sm.login(api_key='V3Qb9njStzFB')
+else:
+    print('Already logged in')
+
 dataset_id = '2020-03-12_17h55m21s'
 fdr = 0.5
 database = 'SwissLipids-2018-02-02'
