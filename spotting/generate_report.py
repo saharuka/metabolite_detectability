@@ -5,11 +5,9 @@ from metaspace.sm_annotation_utils import SMInstance
 import numpy as np
 import pandas as pd
 import re#gex
-import os
-from pathlib import Path
 import tkinter as tk
 from tkinter import filedialog
-
+from definitions import ROOT_DIR
 
 #Load METASPACE Data
 sm = SMInstance()
@@ -20,8 +18,8 @@ database = 'SwissLipids-2018-02-02'
 annotations = sm.get_annotations(fdr, database, {'ids': dataset_id})
 
 #Load pre-generated grid mask (Jupyter Notebook)
-grid_mask = np.load(f'{Path(os.getcwd()).parent}\\data\\grid_masks\\{dataset_id}.npy')
-mask_names = json.load(open(f'{Path(os.getcwd()).parent}\\data\\grid_masks\\{dataset_id}_mask_names.json'))
+grid_mask = np.load(f'{ROOT_DIR}\\data\\grid_masks\\{dataset_id}.npy')
+mask_names = json.load(open(f'{ROOT_DIR}\\data\\grid_masks\\{dataset_id}_mask_names.json'))
 
 #Store all annotation images
 images = sm.dataset(id=dataset_id).all_annotation_images(fdr, database, True, True)
