@@ -5,6 +5,11 @@ from metaspace.sm_annotation_utils import SMInstance
 import numpy as np
 import pandas as pd
 import re#gex
+import os
+from pathlib import Path
+import tkinter as tk
+from tkinter import filedialog
+
 
 #Load METASPACE Data
 sm = SMInstance()
@@ -15,8 +20,8 @@ database = 'SwissLipids-2018-02-02'
 annotations = sm.get_annotations(fdr, database, {'ids': dataset_id})
 
 #Load pre-generated grid mask (Jupyter Notebook)
-grid_mask = np.load(f'{dataset_id}_grid_mask.npy')
-positions, grid_coords, n_rows, n_cols, spot_h, spot_w, mask_names = json.load(open(f'{dataset_id}_grid_params.json'))
+grid_mask = np.load(f'{Path(os.getcwd()).parent}\\data\\grid_masks\\{dataset_id}.npy')
+mask_names = json.load(open(f'{Path(os.getcwd()).parent}\\data\\grid_masks\\{dataset_id}_mask_names.json'))
 
 #Store all annotation images
 images = sm.dataset(id=dataset_id).all_annotation_images(fdr, database, True, True)
@@ -55,9 +60,17 @@ for ann in annotations.formula + annotations.adduct:  #...for each annotation
             if (report.iloc[idx][1] < result_sum.loc[ann, well]): #...if the sum intensity is the highest so far for this well
                 report.iloc[idx] = [result_sum.loc[ann, well],result_mean.loc[ann, well],result_std.loc[ann, well],result_occ.loc[ann, well]]  #...report results for this well
 
+#Ask user for output folder
+print('Analysis complete, select output folder')
+root = tk.Tk()
+root.withdraw()
+outdir = filedialog.askdirectory()
+
 #Output a bunch of excel reports
-report.to_excel(f'{dataset_id}_{fdr}_{database}_report.xlsx')
-result_sum.to_excel(f'{dataset_id}_{fdr}_{database}_sum.xlsx')
-result_mean.to_excel(f'{dataset_id}_{fdr}_{database}_mean.xlsx')
-result_std.to_excel(f'{dataset_id}_{fdr}_{database}_std.xlsx')
-result_occ.to_excel(f'{dataset_id}_{fdr}_{database}_occ.xlsx')
+report.to_excel(f'{outdir}/{dataset_id}_{fdr}_{database}_report.xlsx')
+result_sum.to_excel(f'{outdir}/{dataset_id}_{fdr}_{database}_sum.xlsx')
+result_mean.to_excel(f'{outdir}/{dataset_id}_{fdr}_{database}_mean.xlsx')
+result_std.to_excel(f'{outdir}/{dataset_id}_{fdr}_{database}_std.xlsx')
+result_occ.to_excel(f'{outdir}/{dataset_id}_{fdr}_{database}_occ.xlsx')
+
+print('All done, have a wonderful day!')
