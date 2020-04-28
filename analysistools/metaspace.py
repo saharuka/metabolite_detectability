@@ -3,7 +3,7 @@ from metaspace import sm_annotation_utils as smau
 import pandas as pd
 
 
-def login_metaspace(email='luca.rappez@embl.de', password='Zeppar12'):
+def login_metaspace(email='', password=''):
     """
     Log in to https://metaspace2020.eu/
     :param email: (str)
