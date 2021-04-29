@@ -1,0 +1,183 @@
+well,name,formula,mass
+0,Off-sample region,,
+2,1-palmitoyl-2-oleoyl-sn-glycero-3-phospho-(1'-rac-glycerol) (sodium salt),C40H77O10P,748.525437
+10,Indole,C8H7N,117.057849
+11,Prostaglandin E1,C20H34O5,354.240625
+12,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphate (sodium salt),C37H71O8P,674.488657
+13,Cholesteryl ester 17:0,C44H78O2,638.60018
+14,all-trans-Retinoic acid,C20H28O2,300.20893
+15,1-oleoyl-rac-glycerol,C21H40O4,356.29266
+16,1-stearoyl-2-docosahexaenoyl-sn-glycerol,C43H72O5,668.537975
+17,Arachidonic acid,C20H32O2,304.24023
+18,Cholesteryl acetate,C29H48O2,428.36543
+19,4-nitrobenzyl pyridinium chloride,C12H11N2O2,215.082053
+20,Rhodamine B + Caffeine (fiducial spots),C28H31N2O3,443
+21,4-methoxybenzyl pyridinium chloride,C13H14NO,200.107539
+22,Cholesterol,C27H46O,386.354865
+23,Estradiol,C18H24O2,272.17763
+24,Palmitic acid,C16H32O2,256.24023
+25,Cholic acid,C24H40O5,408.287575
+26,Melatonin,C13H16N2O2,232.121178
+27,Cholecalciferol,C27H44O,384.339215
+28,Alpha-tocopherol,C29H50O2,430.38108
+29,Phylloquinone,C31H46O2,450.34978
+30,"1',3'-bis[1,2-dioleoyl-sn-glycero-3-phospho]-glycerol (sodium salt)",C81H150O17P2,1457.034829
+31,"1,2-dioleoyl-sn-glycero-3-phospho-(1'-myo-inositol-5'-phosphate) (ammonium salt)",C45H84O16P2,942.523464
+32,1-palmitoyl-2-hydroxy-sn-glycero-3-phospho-(1'-rac-glycerol) (sodium salt),C22H45O9P,484.280122
+33,1-pentadecanoyl-2-hydroxy-sn-glycero-3-phosphocholine,C23H48NO7P,481.316841
+34,N-behenoyl-D-erythro-sphingosine,C40H79NO3,621.605994
+35,N-palmitoyl-D-erythro-sphingosylphosphorylcholine,C39H79N2O6P,702.567575
+36,"3-O-sulfo-D-galactosyl-ß1-1'-N-[2""(S)-hydroxystearoyl]-D-erythro-sphingosine (ammonium salt), (synthetic)",C42H81NO12S,823.54795
+37,"D-glucosyl-ß-1,1'-N-stearoyl-D-erythro-sphingosine",C42H81NO8,727.596219
+38,Fumaric acid,C4H4O4,116.01096
+39,1-stearoyl-2-arachidonoyl-sn-glycero-3-phosphoethanolamine,C43H78NO8P,767.546506
+40,1-Stearoyl-2-Hydroxy-sn-Glycero-3-Phosphoethanolamine,C23H48NO7P,481.316841
+41,palmitoyl L-carnitine,C23H45NO4,399.334859
+42,1-(10Z-heptadecenoyl)-2-hydroxy-sn-glycero-3-phospho-(1'-myo-inositol) (ammonium salt),C26H49O12P,584.296167
+43,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoinositol (ammonium salt),C43H81O13P,836.541482
+44,1-(10Z-heptadecenoyl)-2-hydroxy-sn-glycero-3-[phospho-L-serine] (sodium salt),C23H44NO9P,509.275371
+45,1-O-hexadecyl-2-oleoyl-sn-glycero-3-phosphocholine,C42H84NO7P,745.598541
+46,"1,3-dipentadecanoyl-2-oleoyl-glycerol",C51H96O6,804.72069
+47,ß-D-glucosyl cholesterol,C33H56O6,548.40769
+48,1-oleoyl-2-hydroxy-sn-glycero-3-phosphate (sodium salt),C21H41O7P,436.258992
+49,1-palmitoyl-2-oleoyl-sn-glycero-3-phospho-L-serine (sodium salt),C40H76NO10P,761.520686
+50,"C18:0 GM3 Ganglioside (synthetic, ammonium salt)",C59H108N2O21,1180.744463
+51,1-pentadecanoyl-2-oleoyl-sn-glycero-3-phosphocholine,C41H80NO8P,745.562156
+52,Palmitoyl-CoA (Ammonium Salt),C37H66N7O17P3S,1005.34488
+53,4-methylbenzyl pyridinium chloride,C13H14N,184.112624
+54,4-cyanobenzyl pyridinium chloride,C20H17N2,285.139173
+55,4-chlorobenzyl pyridinium chloride,C12H11ClN,204.058002
+56,Blank,H2O,0
+57,Glucose 6-phosphate sodium salt,C6H13O9P,260.029722
+58,D-Ribose 5-phosphate disodium salt hydrate,C5H11O8P,230.019157
+59,L-Malic acid,C4H6O5,134.021525
+60,Cytidine,C9H13N3O5,243.085522
+61,(R)-Mevalonic acid lithium salt,C6H12O4,148.07356
+62,S-Adenosylhomocysteine,C14H20N6O5S,384.12159
+63,Glycerol 3-phosphate lithium salt,C3H9O6P,172.013677
+64,5-Methyltetrahydrofolic acid disodium salt,C20H25N7O6,459.186633
+65,NADH (reduced) disodium salt hydrate,C21H29N7O14P2,665.124777
+66,N-Acetyl-D-glucosamine,C8H15NO6,221.089939
+67,Cytidine monophosphate,C9H14N3O8P,323.051854
+68,Citric acid,C6H8O7,192.027005
+69,Uric acid,C5H4N4O3,168.028341
+70,Epinephrine,C9H13NO3,183.089544
+71,Rhodamine B + Caffeine (fiducial spots),C28H31N2O3,443
+72,Kynurenic acid,C10H7NO3,189.042594
+73,"4,5-Dihydroorotic acid",C5H6N2O4,158.032758
+74,N-Acetyl-D-galactosamine 1-phosphate,C8H16NO9P,301.056271
+75,Dihydroxyacetone phosphate dilithium salt,C3H7O6P,169.998027
+76,N-Acetylaspartylglutamic acid,C11H16N2O8,304.090668
+77,3-Hydroxymethylglutaric acid,C6H10O5,162.052825
+78,Acetyl-CoA,C23H38N7O17P3S,809.12578
+79,Uridine diphosphate-N-acetylglucosamine,C17H27N3O17P2,607.081576
+80,ADP,C10H15N5O10P2,427.029419
+81,Adenosine triphosphate,C10H16N5O13P3,506.995751
+82,"Argininosuccinic acid lithium salt (1,2 or 3 Li, they don't say)",C10H18N4O6,290.122636
+83,"N6,N6,N6-Trimethyl-L-lysine hydrochloride",C9H20N2O2,188.152478
+84,Acetoacetic acid lithium salt,C4H6O3,102.031695
+85,6-Phosphogluconic acid trisodium salt,C6H13O10P,276.024637
+86,Oxidized glutathione,C20H32N6O12S2,612.151966
+87,NAD nicotinamide adenine dinucleotide,C21H28N7O14P2,664.116952
+88,Cyclic AMP,C10H12N5O6P,329.052522
+89,N-Acetyl-L-aspartic acid,C6H9NO5,175.048074
+90,Adenine,C5H5N5,135.054495
+91,D-Glucose,C6H12O6,180.06339
+92,Butyric acid,C4H8O2,88.05243
+93,Glycine,C2H5NO2,75.032029
+94,"Carbamoyl phosphate dibasic hydrate, lithium salt",CH4NO5P,140.982711
+95,Glycerophosphocholine,C8H20NO6P,257.102826
+96,Phosphoenolpyruvic acid potassium salt,C3H5O6P,167.982377
+97,Flavin Mononucleotide sodium salt,C17H21N4O9P,456.104618
+98,3-Hydroxyanthranilic acid,C7H7NO3,153.042594
+99,Uridine diphosphoglucuronic acid trisodium salt,C15H22N2O18P2,580.034292
+100,Myo-inositol 1-phosphate dipotassium salt,C6H13O9P,260.029722
+101,D-Ribulose 5-phosphate disodium salt,C5H11O8P,230.019157
+102,Pyruvic acid,C3H4O3,88.016045
+103,3-Phosphoglyceric acid sodium salt,C3H7O7P,185.992942
+104,L-Lactic acid sodium salt,C3H6O3,90.031695
+105,Oxalacetic acid,C4H4O5,132.005875
+106,Glucosamine 6-phosphate,C6H14NO8P,259.045706
+107,Putrescine dihydrochloride,C4H12N2,88.100048
+108,Flavin adenine dinucleotide disodium salt hydrate,C27H33N9O15P2,785.15714
+109,L-Acetylcarnitine HCl,C9H17NO4,203.115759
+110,L-Carnitine,C7H15NO3,161.105194
+111,Taurine,C2H7NO3S,125.014665
+112,Glutathione,C10H17N3O6S,307.083808
+113,Succinic acid,C4H6O4,118.02661
+114,cis-Aconitic acid,C6H6O6,174.01644
+115,Spermine tetrahydrochloride,C10H26N4,202.215746
+116,Choline,C5H14NO,104.107539
+117,Phosphoserine,C3H8NO6P,185.008926
+118,L-Ribulose,C5H10O5,150.052825
+119,Pantetheine,C11H22N2O4S,278.130029
+120,Nicotinamide ribotide,C11H15N2O8P,334.056605
+121,Nicotinamide riboside chloride,C11H15N2O5,255.098098
+122,Uridine 5'-diphosphate,C9H14N2O12P2,404.002202
+123,L-Cysteine,C3H7NO2S,121.01975
+124,myo-Inositol,C6H12O6,180.06339
+125,Dihydroxyacetone,C3H6O3,90.031695
+126,Cytosine,C4H5N3O,111.043262
+127,L-Dopa,C9H11NO4,197.068809
+128,Urocanic acid,C6H6N2O2,138.042928
+129,Xanthine,C5H4N4O2,152.033426
+130,gamma-Aminobutyric acid,C4H9NO2,103.063329
+131,Oxoglutaric acid,C5H6O5,146.021525
+132,Carnosine,C9H14N4O3,226.106591
+133,Uracil,C4H4N2O2,112.027278
+134,Adenosine monophosphate,C10H14N5O7P,347.063087
+135,Hypoxanthine,C5H4N4O,136.038511
+136,Niacinamide,C6H6N2O,122.048013
+137,Thymine,C5H6N2O2,126.042928
+138,Nicotinic acid,C6H5NO2,123.032029
+139,Acetylcholine,C7H16NO2,146.118104
+140,Thiamine,C12H17N4OS,265.112307
+141,Riboflavin,C17H20N4O6,376.138286
+142,Pyridoxine,C8H11NO3,169.073894
+143,Biotin,C10H16N2O3S,244.088164
+144,Taurocholic acid,C26H45NO7S,515.291675
+145,L-Valine,C5H11NO2,117.078979
+146,Creatinine,C4H7N3O,113.058912
+147,L-Glutamic acid,C5H9NO4,147.053159
+148,Folic acid,C19H19N7O6,441.139683
+149,L-Phenylalanine,C9H11NO2,165.078979
+150,L-Tyrosine,C9H11NO3,181.073894
+151,Malonic acid,C3H4O4,104.01096
+152,Agmatine,C5H14N4,130.121846
+153,S-Adenosylmethionine,C15H23N6O5S,399.145065
+154,Phosphocreatine,C4H10N3O5P,211.035809
+155,L-Kynurenine,C10H12N2O3,208.084793
+156,L-Tryptophan,C11H12N2O2,204.089878
+157,5-Hydroxyindoleacetic acid,C10H9NO3,191.058244
+158,Propionylcarnitine,C10H19NO4,217.131409
+159,L-Arginine,C6H14N4O2,174.111676
+160,Citrulline,C6H13N3O3,175.095692
+161,Ornithine,C5H12N2O2,132.089878
+162,Homocysteine,C4H9NO2S,135.0354
+163,Uridine diphosphate glucose,C15H24N2O17P2,566.055027
+164,L-Proline,C5H9NO2,115.063329
+165,4-Hydroxyproline,C5H9NO3,131.058244
+166,Serotonin,C10H12N2O,176.094963
+167,Spermidine,C7H19N3,145.157897
+168,Histamine,C5H9N3,111.079647
+169,Glucosamine,C6H13NO5,179.079374
+170,"Fructose 1,6-bisphosphate",C6H14O12P2,339.996054
+171,Orotic acid,C5H4N2O4,156.017108
+172,Quinolinic acid,C7H5NO4,167.021859
+173,Creatine,C4H9N3O2,131.069477
+174,L-Glutamine,C5H10N2O3,146.069143
+175,Ascorbic acid,C6H8O6,176.03209
+176,Rhodamine B + Caffeine (fiducial spots),C28H31N2O3,443
+177,Dopamine,C8H11NO2,153.078979
+178,Guanine,C5H5N5O,151.04941
+179,L-Histidine,C6H9N3O2,155.069477
+180,L-Serine,C3H7NO3,105.042594
+181,Pantothenic acid,C9H17NO5,219.110674
+182,Uridine,C9H12N2O6,244.069538
+183,Gluconic acid,C6H12O7,196.058305
+184,L-Methionine,C5H11NO2S,149.05105
+185,L-Cystine,C6H12N2O4S2,240.02385
+186,L-Asparagine,C4H8N2O3,132.053493
+187,L-Aspartic acid,C4H7NO4,133.037509
+188,Ureidosuccinic acid,C5H8N2O5,176.043323
+189,Coenzyme A,C21H36N7O16P3S,767.115215
