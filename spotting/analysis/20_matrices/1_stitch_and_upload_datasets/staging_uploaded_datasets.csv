@@ -1,0 +1,21 @@
+matrix,polarity,ds_name,ds_id,extra_neutral_losses
+9-aminoacridine,Positive,9AA_pos_mz70-1510.imzML,2021-05-07_19h36m33s,['+C13H10N2']
+alpha-cyano-4-hydroxycinnamic acid,Positive,CHCA_pos_mz70-1510.imzML,2021-05-07_19h44m04s,['+C10H7NO3']
+4-chloro-alpha-cyanocinnamic acid,Positive,ClCCA_pos_mz70-1510.imzML,2021-05-07_19h50m14s,['+C10H6ClNO2']
+"1,5-diaminonaphthalene",Positive,DAN_pos_mz70-1510.imzML,2021-05-07_19h57m32s,"['+C10H10N2', '+C10H8N2']"
+"2,5-dihydroxyacetophenone",Positive,DHAP_pos_mz70-1510.imzML,2021-05-07_20h04m56s,['+C8H8O3']
+"2,5-dihydroxybenzoic acid",Positive,DHB_pos_mz70-1510.imzML,2021-05-07_20h11m30s,['+C7H6O4']
+Maleic anhydride proton sponge,Positive,MAPS_pos_mz70-1510.imzML,2021-05-07_20h17m40s,['+C18H18N2O3']
+N-(1-naphthyl)ethylenediamine dihydrochloride,Positive,NEDC_pos_mz70-1510.imzML,2021-05-07_20h24m04s,"['+C12H14N2', '+HCl']"
+norharmane,Positive,norharmane_pos_mz70-1510.imzML,2021-05-07_20h28m50s,['+C11H8N2']
+PNDI-T2,Positive,PNDIT2_pos_mz70-1510.imzML,2021-05-07_20h39m35s,[]
+9-aminoacridine,Negative,9AA_neg_mz70-1510.imzML,2021-05-17_22h31m53s,['+C13H10N2']
+alpha-cyano-4-hydroxycinnamic acid,Negative,CHCA_neg_mz70-1510.imzML,2021-05-17_22h36m03s,['+C10H7NO3']
+4-chloro-alpha-cyanocinnamic acid,Negative,ClCCA_neg_mz70-1510.imzML,2021-05-17_22h39m09s,['+C10H6ClNO2']
+"1,5-diaminonaphthalene",Negative,DAN_neg_mz70-1510.imzML,2021-05-17_22h43m48s,"['+C10H10N2', '+C10H8N2']"
+"2,5-dihydroxyacetophenone",Negative,DHAP_neg_mz70-1510.imzML,2021-05-17_22h46m04s,['+C8H8O3']
+"2,5-dihydroxybenzoic acid",Negative,DHB_neg_mz70-1510.imzML,2021-05-17_22h48m38s,['+C7H6O4']
+Maleic anhydride proton sponge,Negative,MAPS_neg_mz70-1510.imzML,2021-05-17_22h52m23s,['+C18H18N2O3']
+N-(1-naphthyl)ethylenediamine dihydrochloride,Negative,NEDC_neg_mz70-1510.imzML,2021-05-17_22h53m47s,"['+C12H14N2', '+HCl']"
+norharmane,Negative,norharmane_neg_mz70-1510.imzML,2021-05-17_22h58m18s,['+C11H8N2']
+PNDI-T2,Negative,PNDIT2_neg_mz70-1510.imzML,2021-05-17_23h03m16s,[]

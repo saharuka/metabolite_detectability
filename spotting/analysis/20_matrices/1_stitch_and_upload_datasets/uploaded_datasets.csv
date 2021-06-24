@@ -1,0 +1,25 @@
+,matrix,polarity,ds_name,ds_id,extra_neutral_losses
+0,9-aminoacridine,Negative,9AA_neg_mz70-1510.imzML,2021-06-18_10h37m54s,['+C13H10N2']
+1,alpha-cyano-4-hydroxycinnamic acid,Negative,CHCA_neg_mz70-1510.imzML,2021-06-18_10h41m59s,['+C10H7NO3']
+2,4-chloro-alpha-cyanocinnamic acid,Negative,ClCCA_neg_mz70-1510.imzML,2021-06-18_10h45m03s,['+C10H6ClNO2']
+3,"1,5-diaminonaphthalene",Negative,DAN_neg_mz70-1510.imzML,2021-06-18_10h49m47s,"['+C10H10N2', '+C10H8N2']"
+4,"2,5-dihydroxyacetophenone",Negative,DHAP_neg_mz70-1510.imzML,2021-06-18_10h52m02s,['+C8H8O3']
+5,"2,5-dihydroxybenzoic acid",Negative,DHB_neg_mz70-1510.imzML,2021-06-18_10h54m38s,['+C7H6O4']
+6,Maleic anhydride proton sponge,Negative,MAPS_neg_mz70-1510.imzML,2021-06-18_10h58m25s,['+C18H18N2O3']
+7,N-(1-naphthyl)ethylenediamine dihydrochloride,Negative,NEDC_neg_mz70-1510.imzML,2021-06-18_10h59m48s,"['+C12H14N2', '+HCl']"
+8,norharmane,Negative,norharmane_neg_mz70-1510.imzML,2021-06-18_11h04m19s,['+C11H8N2']
+9,PNDI-T2,Negative,PNDIT2_neg_mz70-1510.imzML,2021-06-18_11h09m13s,[]
+10,9-aminoacridine,Positive,9AA_pos_mz70-1510.imzML,2021-06-21_12h29m16s,['+C13H10N2']
+11,alpha-cyano-4-hydroxycinnamic acid,Positive,CHCA_pos_mz70-1510.imzML,2021-06-21_12h32m53s,['+C10H7NO3']
+12,4-chloro-alpha-cyanocinnamic acid,Positive,ClCCA_pos_mz70-1510.imzML,2021-06-21_12h34m54s,['+C10H6ClNO2']
+13,"1,5-diaminonaphthalene",Positive,DAN_pos_mz70-1510.imzML,2021-06-21_12h38m55s,"['+C10H10N2', '+C10H8N2']"
+14,"2,5-dihydroxyacetophenone",Positive,DHAP_pos_mz70-1510.imzML,2021-06-21_12h41m08s,['+C8H8O3']
+15,"2,5-dihydroxybenzoic acid",Positive,DHB_pos_mz70-1510.imzML,2021-06-21_12h45m04s,['+C7H6O4']
+16,Maleic anhydride proton sponge,Positive,MAPS_pos_mz70-1510.imzML,2021-06-21_12h48m21s,['+C18H18N2O3']
+17,N-(1-naphthyl)ethylenediamine dihydrochloride,Positive,NEDC_pos_mz70-1510.imzML,2021-06-21_12h50m44s,"['+C12H14N2', '+HCl']"
+18,norharmane,Positive,norharmane_pos_mz70-1510.imzML,2021-06-21_12h54m04s,['+C11H8N2']
+19,PNDI-T2,Positive,PNDIT2_pos_mz70-1510.imzML,2021-06-21_12h59m59s,[]
+20,4-Nitroaniline,Positive,pNA_pos_mz70-1510.imzML,2021-06-23_23h19m02s,['+C6H6N2O2']
+21,4-Nitroaniline,Negative,pNA_neg_mz70-1510.imzML,2021-06-21_15h10m30s,['+C6H6N2O2']
+
+

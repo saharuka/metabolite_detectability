@@ -1,0 +1,207 @@
+internal_id,name_short,coarse_class,fine_class
+0,D-Glucose,Carbohydrates,Carbohydrates
+1,Glucose 6-phosphate,Carbohydrates,Carbohydrate phosphates
+3,"Fructose 1,6-bisphosphate",Carbohydrates,Carbohydrate phosphates
+4,Dihydroxyacetone phosphate,Carbohydrates,Carbohydrate phosphates
+7,3-Phosphoglyceric acid,Carboxylic acids,Carboxylic acid phosphate
+7,3-Phosphoglyceric acid,Carboxylic acids,Hydroxy acids
+9,Phosphoenolpyruvic acid,Carboxylic acids,Carboxylic acid phosphate
+10,Pyruvic acid,Carboxylic acids,Keto acid
+11,Acetyl-CoA,Vitamins and cofactors,CoA and derivatives
+11,Acetyl-CoA,"Nucleosides, nucleotides, and analogues",Nucleotides
+12,L-Lactic acid,Carboxylic acids,Hydroxy acids
+14,6-Phosphogluconic acid,Carboxylic acids,Hydroxy acids
+14,6-Phosphogluconic acid,Carbohydrates,Carbohydrate phosphates
+15,D-Ribulose 5-phosphate,Carbohydrates,Carbohydrate phosphates
+16,D-Ribose 5-phosphate,Carbohydrates,Carbohydrate phosphates
+17,Dihydroxyacetone,Carbohydrates,Carbohydrates
+20,Gluconic acid,Carboxylic acids,Hydroxy acids
+20,Gluconic acid,Carbohydrates,Carbohydrates
+21,L-Ribulose,Carbohydrates,Carbohydrates
+22,Citric acid,Carboxylic acids,Carboxylic acids
+22,Citric acid,Carboxylic acids,Hydroxy acids
+24,cis-Aconitic acid,Carboxylic acids,Carboxylic acids
+26,Oxoglutaric acid,Carboxylic acids,Keto acid
+28,Succinic acid,Carboxylic acids,Carboxylic acids
+29,Fumaric acid,Carboxylic acids,Carboxylic acids
+30,L-Malic acid,Carboxylic acids,Hydroxy acids
+31,Oxalacetic acid,Carboxylic acids,Keto acid
+33,Uridine diphosphate glucose,"Nucleosides, nucleotides, and analogues",Nucleotides
+34,Uridine diphosphate glucuronic acid,"Nucleosides, nucleotides, and analogues",Nucleotides
+35,Glucosamine 6-phosphate,Carbohydrates,Carbohydrate phosphates
+35,Glucosamine 6-phosphate,Carbohydrates,Carbohydrate amines
+36,N-Acetyl-D-galactosamine 1-phosphate,Carbohydrates,Carbohydrate phosphates
+36,N-Acetyl-D-galactosamine 1-phosphate,Carbohydrates,Carbohydrate amines
+38,Uridine diphosphate-N-acetylglucosamine,"Nucleosides, nucleotides, and analogues",Nucleotides
+39,N-Acetyl-D-glucosamine,Carbohydrates,Carbohydrate amines
+40,myo-Inositol,Carbohydrates,Carbohydrates
+41,Ascorbic acid,Carboxylic acids,Hydroxy acids
+42,Myo-inositol 1-phosphate,Carbohydrates,Carbohydrate phosphates
+46,Palmitic acid,Lipids and lipid-like molecules,Fatty acyl
+50,Mevalonic acid,Carboxylic acids,Hydroxy acids
+51,Cholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives
+53,Malonic acid,Carboxylic acids,Carboxylic acids
+54,3-Hydroxymethylglutaric acid,Carboxylic acids,Hydroxy acids
+55,Palmityl-CoA,Lipids and lipid-like molecules,Fatty acyl
+55,Palmityl-CoA,"Nucleosides, nucleotides, and analogues",Nucleotides
+55,Palmityl-CoA,Vitamins and cofactors,CoA and derivatives
+56,L-Carnitine,"Amino acids, peptides, and analogues",Polar amino acids
+56,L-Carnitine,Amines,Quarternary ammonium amines
+58,Cholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives
+59,Glycine,"Amino acids, peptides, and analogues",Nonpolar amino acids
+60,Taurocholic acid,Lipids and lipid-like molecules,Steroids and steroid derivatives
+61,Estradiol,Lipids and lipid-like molecules,Steroids and steroid derivatives
+67,L-Asparagine,"Amino acids, peptides, and analogues",Polar amino acids
+68,L-Aspartic acid,"Amino acids, peptides, and analogues",Acidic amino acids
+69,N-Acetyl-L-aspartic acid,"Amino acids, peptides, and analogues",Acidic amino acids
+70,L-Glutamine,"Amino acids, peptides, and analogues",Polar amino acids
+71,L-Glutamic acid,"Amino acids, peptides, and analogues",Acidic amino acids
+72,N-Acetylaspartylglutamic acid,"Amino acids, peptides, and analogues",Acidic amino acids
+73,gamma-Aminobutyric acid,"Amino acids, peptides, and analogues",Polar amino acids
+74,L-Phenylalanine,"Amino acids, peptides, and analogues",Aromatic amino acids
+75,L-Tyrosine,"Amino acids, peptides, and analogues",Aromatic amino acids
+76,L-Dopa,"Amino acids, peptides, and analogues",Aromatic amino acids
+77,Dopamine,"Amino acids, peptides, and analogues",Aromatic amino acids
+79,Epinephrine,"Amino acids, peptides, and analogues",Aromatic amino acids
+83,Acetoacetic acid,Carboxylic acids,Keto acid
+84,L-Histidine,"Amino acids, peptides, and analogues",Histidine derivatives (imidazoles)
+85,Carnosine,"Amino acids, peptides, and analogues",Histidine derivatives (imidazoles)
+86,Urocanic acid,"Amino acids, peptides, and analogues",Histidine derivatives (imidazoles)
+89,Histamine,"Amino acids, peptides, and analogues",Histidine derivatives (imidazoles)
+89,Histamine,Amines,Other amines
+90,L-Arginine,"Amino acids, peptides, and analogues",Arginine derivatives (guanidines)
+91,Citrulline,"Amino acids, peptides, and analogues",Polar amino acids
+92,Argininosuccinic acid,"Amino acids, peptides, and analogues",Acidic amino acids
+93,Ornithine,"Amino acids, peptides, and analogues",Polar amino acids
+95,Carbamoyl phosphate,Amines,Other amines
+97,L-Proline,"Amino acids, peptides, and analogues",Nonpolar amino acids
+98,4-Hydroxyproline,"Amino acids, peptides, and analogues",Polar amino acids
+99,Putrescine,Amines,Other amines
+100,Spermidine,Amines,Other amines
+101,Spermine,Amines,Other amines
+103,Creatine,"Amino acids, peptides, and analogues",Arginine derivatives (guanidines)
+105,Creatinine,"Amino acids, peptides, and analogues",Arginine derivatives (guanidines)
+106,Agmatine,"Amino acids, peptides, and analogues",Arginine derivatives (guanidines)
+106,Agmatine,Amines,Other amines
+107,Folic acid,Vitamins and cofactors,Folates
+108,Tetrahydrofolic acid,Vitamins and cofactors,Folates
+110,L-Methionine,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+111,L-Cystine,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+113,Oxidized glutathione,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+114,Glutathione,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+117,Taurine,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+119,S-Adenosylmethionine,"Nucleosides, nucleotides, and analogues",Nucleosides
+119,S-Adenosylmethionine,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+120,S-Adenosylhomocysteine,"Nucleosides, nucleotides, and analogues",Nucleosides
+120,S-Adenosylhomocysteine,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+121,Homocysteine,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+123,L-Cysteine,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+125,"N6,N6,N6-Trimethyl-L-lysine","Amino acids, peptides, and analogues",Polar amino acids
+125,"N6,N6,N6-Trimethyl-L-lysine",Amines,Quarternary ammonium amines
+129,L-Valine,"Amino acids, peptides, and analogues",Nonpolar amino acids
+132,Pantothenic acid,Vitamins and cofactors,Vitamins and cofactors
+132,Pantothenic acid,"Amino acids, peptides, and analogues",Polar amino acids
+136,Pantetheine,"Amino acids, peptides, and analogues",Sulphur-containing amino acids
+138,Coenzyme A,Vitamins and cofactors,CoA and derivatives
+138,Coenzyme A,"Nucleosides, nucleotides, and analogues",Nucleotides
+141,L-Serine,"Amino acids, peptides, and analogues",Polar amino acids
+148,L-Tryptophan,"Amino acids, peptides, and analogues",Tryptophan derivatives (indoles)
+150,L-Kynurenine,"Amino acids, peptides, and analogues",Aromatic amino acids
+151,Kynurenic acid,Carboxylic acids,Aromatic acids
+154,3-Hydroxyanthranilic acid,"Amino acids, peptides, and analogues",Acidic amino acids
+155,Quinolinic acid,Carboxylic acids,Aromatic acids
+158,NAD nicotinamide adenine dinucleotide,Vitamins and cofactors,Nicotinamide derivatives
+158,NAD nicotinamide adenine dinucleotide,"Nucleosides, nucleotides, and analogues",Nicotinamide derivatives
+159,NADH (reduced),Vitamins and cofactors,Nicotinamide derivatives
+159,NADH (reduced),"Nucleosides, nucleotides, and analogues",Nicotinamide derivatives
+160,Niacinamide,Vitamins and cofactors,Nicotinamide derivatives
+161,Nicotinic acid,Carboxylic acids,Aromatic acids
+161,Nicotinic acid,Vitamins and cofactors,Nicotinamide derivatives
+165,Serotonin,"Amino acids, peptides, and analogues",Tryptophan derivatives (indoles)
+166,5-Hydroxyindoleacetic acid,"Amino acids, peptides, and analogues",Tryptophan derivatives (indoles)
+168,Melatonin,"Amino acids, peptides, and analogues",Tryptophan derivatives (indoles)
+169,Nicotinamide riboside,Vitamins and cofactors,Nicotinamide derivatives
+169,Nicotinamide riboside,"Nucleosides, nucleotides, and analogues",Nicotinamide derivatives
+170,Nicotinamide ribotide,Vitamins and cofactors,Nicotinamide derivatives
+170,Nicotinamide ribotide,"Nucleosides, nucleotides, and analogues",Nicotinamide derivatives
+184,Hypoxanthine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+185,Adenosine monophosphate,"Nucleosides, nucleotides, and analogues",Nucleotides
+187,Adenine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+190,Xanthine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+193,Guanine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+194,ADP,"Nucleosides, nucleotides, and analogues",Nucleotides
+195,Adenosine triphosphate,"Nucleosides, nucleotides, and analogues",Nucleotides
+198,Cyclic AMP,"Nucleosides, nucleotides, and analogues",Nucleotides
+204,Ureidosuccinic acid,"Amino acids, peptides, and analogues",Acidic amino acids
+205,"4,5-Dihydroorotic acid","Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+206,Orotic acid,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+209,Uridine,"Nucleosides, nucleotides, and analogues",Nucleosides
+210,Uracil,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+213,Thymine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+214,Cytidine monophosphate,"Nucleosides, nucleotides, and analogues",Nucleotides
+215,Cytidine,"Nucleosides, nucleotides, and analogues",Nucleosides
+216,Cytosine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+217,Uridine 5'-diphosphate,"Nucleosides, nucleotides, and analogues",Nucleotides
+226,Choline,Amines,Quarternary ammonium amines
+227,Acetylcholine,Amines,Quarternary ammonium amines
+231,Thiamine,Vitamins and cofactors,Vitamins and cofactors
+232,Riboflavin,Vitamins and cofactors,Flavins
+233,Pyridoxine,Vitamins and cofactors,Vitamins and cofactors
+235,Biotin,Vitamins and cofactors,Vitamins and cofactors
+236,Cholecalciferol,Lipids and lipid-like molecules,Steroids and steroid derivatives
+237,Alpha-tocopherol,Vitamins and cofactors,Vitamins and cofactors
+237,Alpha-tocopherol,Lipids and lipid-like molecules,Prenol lipids
+238,Phylloquinone,Vitamins and cofactors,Vitamins and cofactors
+238,Phylloquinone,Lipids and lipid-like molecules,Prenol lipids
+239,Flavin Mononucleotide,Vitamins and cofactors,Flavins
+239,Flavin Mononucleotide,"Nucleosides, nucleotides, and analogues",Nucleotides
+241,Flavin adenine dinucleotide,Vitamins and cofactors,Flavins
+241,Flavin adenine dinucleotide,"Nucleosides, nucleotides, and analogues",Nucleotides
+246,Phosphocreatine,"Amino acids, peptides, and analogues",Acidic amino acids
+246,Phosphocreatine,"Amino acids, peptides, and analogues",Arginine derivatives (guanidines)
+250,Glycerophosphocholine,Amines,Quarternary ammonium amines
+254,Propionylcarnitine,Amines,Quarternary ammonium amines
+257,L-Acetylcarnitine,Amines,Quarternary ammonium amines
+264,Phosphoserine,"Amino acids, peptides, and analogues",Acidic amino acids
+274,Uric acid,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
+276,Cholesteryl acetate,Lipids and lipid-like molecules,Steroids and steroid derivatives
+310,Indole,"Amino acids, peptides, and analogues",Tryptophan derivatives (indoles)
+318,Glucosamine,Carbohydrates,Carbohydrate amines
+322,Butyric acid,Carboxylic acids,Carboxylic acids
+323,Glycerol 3-phosphate,Carbohydrates,Carbohydrate phosphates
+326,all-trans-Retinoic acid,Vitamins and cofactors,Vitamins and cofactors
+326,all-trans-Retinoic acid,Lipids and lipid-like molecules,Prenol lipids
+501,Arachidonic acid,Lipids and lipid-like molecules,Fatty acyl
+502,15:0-18:1 PC,Lipids and lipid-like molecules,Glycerophospholipids
+503,15:0-18:1-15:0 TG,Lipids and lipid-like molecules,Glycerolipids
+504,18:1 MG,Lipids and lipid-like molecules,Glycerolipids
+505,beta-D-glucosyl cholesterol,Lipids and lipid-like molecules,Steroids and steroid derivatives
+506,18:1 Cardiolipin,Lipids and lipid-like molecules,Glycerophospholipids
+508,18:0-22:6 DG,Lipids and lipid-like molecules,Glycerolipids
+509,16:0-18:1 PS (POPS),Lipids and lipid-like molecules,Glycerophospholipids
+510,16:0-18:1 PG,Lipids and lipid-like molecules,Glycerophospholipids
+511,16:0-18:1 PA,Lipids and lipid-like molecules,Glycerophospholipids
+512,17:1 Lyso PI,Lipids and lipid-like molecules,Glycerophospholipids
+513,16:0-18:1 PI,Lipids and lipid-like molecules,Glycerophospholipids
+514,18:1 PI(5)P,Lipids and lipid-like molecules,Glycerophospholipids
+515,18:0-20:4 PE,Lipids and lipid-like molecules,Glycerophospholipids
+516,15:0 Lyso PC,Lipids and lipid-like molecules,Glycerophospholipids
+517,18:0 Lyso PE,Lipids and lipid-like molecules,Glycerophospholipids
+518,18:1 Lyso PA,Lipids and lipid-like molecules,Glycerophospholipids
+519,16:0 Lyso PG,Lipids and lipid-like molecules,Glycerophospholipids
+520,17:1 Lyso PS,Lipids and lipid-like molecules,Glycerophospholipids
+521,C18:0 GM3 Ganglioside,Lipids and lipid-like molecules,Sphingolipids
+522,Cer(d18:1/22:0),Lipids and lipid-like molecules,Sphingolipids
+523,GlcCer(d18:1/18:0),Lipids and lipid-like molecules,Sphingolipids
+524,16:0 SM (d18:1/16:0),Lipids and lipid-like molecules,Sphingolipids
+525,18:0(2S-OH) Sulfo GalCer,Lipids and lipid-like molecules,Sphingolipids
+526,CAR 16:0,Amines,Quarternary ammonium amines
+526,CAR 16:0,Lipids and lipid-like molecules,Fatty acyl
+527,C16-18:1 PC (O),Lipids and lipid-like molecules,Glycerophospholipids
+528,Prostaglandin E1,Lipids and lipid-like molecules,Fatty acyl
+529,Cholesteryl ester 17:0,Lipids and lipid-like molecules,Steroids and steroid derivatives
+901,thermometer 1,Thermometers,Thermometers
+902,thermometer 2,Thermometers,Thermometers
+903,thermometer 3,Thermometers,Thermometers
+904,thermometer 4,Thermometers,Thermometers
+905,thermometer 5,Thermometers,Thermometers

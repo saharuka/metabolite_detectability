@@ -1,0 +1,7 @@
+adducts = ['[M]+', '+H', '+Na', '+K']
+adducts = ['[M]-', '-H', '+Cl']
+neutral_losses = ['-H2O', '-H2', '+H2', #redox
+                  '-CO2', '-CH2O3', '-CH2O2', #CO2+H2O, formic acid?
+                  '-HPO3', '-H3PO4', # phosphate
+                  '-NH3'
+                 ] + extra_neutral_losses

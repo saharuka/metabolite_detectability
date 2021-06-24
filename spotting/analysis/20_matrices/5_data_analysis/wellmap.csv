@@ -1,0 +1,183 @@
+well,name_short,formula,internal_id
+91,D-Glucose,C6H12O6,0
+57,Glucose 6-phosphate,C6H13O9P,1
+170,"Fructose 1,6-bisphosphate",C6H14O12P2,3
+75,Dihydroxyacetone phosphate,C3H7O6P,4
+103,3-Phosphoglyceric acid,C3H7O7P,7
+96,Phosphoenolpyruvic acid,C3H5O6P,9
+102,Pyruvic acid,C3H4O3,10
+78,Acetyl-CoA,C23H38N7O17P3S,11
+104,L-Lactic acid,C3H6O3,12
+85,6-Phosphogluconic acid,C6H13O10P,14
+101,D-Ribulose 5-phosphate,C5H11O8P,15
+58,D-Ribose 5-phosphate,C5H11O8P,16
+125,Dihydroxyacetone,C3H6O3,17
+183,Gluconic acid,C6H12O7,20
+118,L-Ribulose,C5H10O5,21
+68,Citric acid,C6H8O7,22
+114,cis-Aconitic acid,C6H6O6,24
+131,Oxoglutaric acid,C5H6O5,26
+113,Succinic acid,C4H6O4,28
+38,Fumaric acid,C4H4O4,29
+59,L-Malic acid,C4H6O5,30
+105,Oxalacetic acid,C4H4O5,31
+163,Uridine diphosphate glucose,C15H24N2O17P2,33
+99,Uridine diphosphate glucuronic acid,C15H22N2O18P2,34
+106,Glucosamine 6-phosphate,C6H14NO8P,35
+74,N-Acetyl-D-galactosamine 1-phosphate,C8H16NO9P,36
+79,Uridine diphosphate-N-acetylglucosamine,C17H27N3O17P2,38
+66,N-Acetyl-D-glucosamine,C8H15NO6,39
+124,myo-Inositol,C6H12O6,40
+175,Ascorbic acid,C6H8O6,41
+100,Myo-inositol 1-phosphate,C6H13O9P,42
+24,Palmitic acid,C16H32O2,46
+61,Mevalonic acid,C6H12O4,50
+22,Cholesterol,C27H46O,51
+151,Malonic acid,C3H4O4,53
+77,3-Hydroxymethylglutaric acid,C6H10O5,54
+52,Palmityl-CoA,C37H66N7O17P3S,55
+110,L-Carnitine,C7H15NO3,56
+25,Cholic acid,C24H40O5,58
+93,Glycine,C2H5NO2,59
+144,Taurocholic acid,C26H45NO7S,60
+23,Estradiol,C18H24O2,61
+186,L-Asparagine,C4H8N2O3,67
+187,L-Aspartic acid,C4H7NO4,68
+89,N-Acetyl-L-aspartic acid,C6H9NO5,69
+174,L-Glutamine,C5H10N2O3,70
+147,L-Glutamic acid,C5H9NO4,71
+76,N-Acetylaspartylglutamic acid,C11H16N2O8,72
+130,gamma-Aminobutyric acid,C4H9NO2,73
+149,L-Phenylalanine,C9H11NO2,74
+150,L-Tyrosine,C9H11NO3,75
+127,L-Dopa,C9H11NO4,76
+177,Dopamine,C8H11NO2,77
+70,Epinephrine,C9H13NO3,79
+84,Acetoacetic acid,C4H6O3,83
+179,L-Histidine,C6H9N3O2,84
+132,Carnosine,C9H14N4O3,85
+128,Urocanic acid,C6H6N2O2,86
+168,Histamine,C5H9N3,89
+159,L-Arginine,C6H14N4O2,90
+160,Citrulline,C6H13N3O3,91
+82,Argininosuccinic acid,C10H18N4O6,92
+161,Ornithine,C5H12N2O2,93
+94,Carbamoyl phosphate,CH4NO5P,95
+164,L-Proline,C5H9NO2,97
+165,4-Hydroxyproline,C5H9NO3,98
+107,Putrescine,C4H12N2,99
+167,Spermidine,C7H19N3,100
+115,Spermine,C10H26N4,101
+173,Creatine,C4H9N3O2,103
+146,Creatinine,C4H7N3O,105
+152,Agmatine,C5H14N4,106
+148,Folic acid,C19H19N7O6,107
+64,Tetrahydrofolic acid,C20H25N7O6,108
+184,L-Methionine,C5H11NO2S,110
+185,L-Cystine,C6H12N2O4S2,111
+86,Oxidized glutathione,C20H32N6O12S2,113
+112,Glutathione,C10H17N3O6S,114
+111,Taurine,C2H7NO3S,117
+153,S-Adenosylmethionine,C15H23N6O5S,119
+62,S-Adenosylhomocysteine,C14H20N6O5S,120
+162,Homocysteine,C4H9NO2S,121
+123,L-Cysteine,C3H7NO2S,123
+83,"N6,N6,N6-Trimethyl-L-lysine",C9H20N2O2,125
+145,L-Valine,C5H11NO2,129
+181,Pantothenic acid,C9H17NO5,132
+119,Pantetheine,C11H22N2O4S,136
+189,Coenzyme A,C21H36N7O16P3S,138
+180,L-Serine,C3H7NO3,141
+156,L-Tryptophan,C11H12N2O2,148
+155,L-Kynurenine,C10H12N2O3,150
+72,Kynurenic acid,C10H7NO3,151
+98,3-Hydroxyanthranilic acid,C7H7NO3,154
+172,Quinolinic acid,C7H5NO4,155
+87,NAD nicotinamide adenine dinucleotide,C21H28N7O14P2,158
+65,NADH (reduced),C21H29N7O14P2,159
+136,Niacinamide,C6H6N2O,160
+138,Nicotinic acid,C6H5NO2,161
+166,Serotonin,C10H12N2O,165
+157,5-Hydroxyindoleacetic acid,C10H9NO3,166
+26,Melatonin,C13H16N2O2,168
+121,Nicotinamide riboside,C11H15N2O5,169
+120,Nicotinamide ribotide,C11H15N2O8P,170
+135,Hypoxanthine,C5H4N4O,184
+134,Adenosine monophosphate,C10H14N5O7P,185
+90,Adenine,C5H5N5,187
+129,Xanthine,C5H4N4O2,190
+178,Guanine,C5H5N5O,193
+80,ADP,C10H15N5O10P2,194
+81,Adenosine triphosphate,C10H16N5O13P3,195
+88,Cyclic AMP,C10H12N5O6P,198
+188,Ureidosuccinic acid,C5H8N2O5,204
+73,"4,5-Dihydroorotic acid",C5H6N2O4,205
+171,Orotic acid,C5H4N2O4,206
+182,Uridine,C9H12N2O6,209
+133,Uracil,C4H4N2O2,210
+137,Thymine,C5H6N2O2,213
+67,Cytidine monophosphate,C9H14N3O8P,214
+60,Cytidine,C9H13N3O5,215
+126,Cytosine,C4H5N3O,216
+122,Uridine 5'-diphosphate,C9H14N2O12P2,217
+116,Choline,C5H14NO,226
+139,Acetylcholine,C7H16NO2,227
+140,Thiamine,C12H17N4OS,231
+141,Riboflavin,C17H20N4O6,232
+142,Pyridoxine,C8H11NO3,233
+143,Biotin,C10H16N2O3S,235
+27,Cholecalciferol,C27H44O,236
+28,Alpha-tocopherol,C29H50O2,237
+29,Phylloquinone,C31H46O2,238
+97,Flavin Mononucleotide,C17H21N4O9P,239
+108,Flavin adenine dinucleotide,C27H33N9O15P2,241
+154,Phosphocreatine,C4H10N3O5P,246
+95,Glycerophosphocholine,C8H20NO6P,250
+158,Propionylcarnitine,C10H19NO4,254
+109,L-Acetylcarnitine,C9H17NO4,257
+117,Phosphoserine,C3H8NO6P,264
+69,Uric acid,C5H4N4O3,274
+18,Cholesteryl acetate,C29H48O2,276
+10,Indole,C8H7N,310
+169,Glucosamine,C6H13NO5,318
+92,Butyric acid,C4H8O2,322
+63,Glycerol 3-phosphate,C3H9O6P,323
+14,all-trans-Retinoic acid,C20H28O2,326
+20,fiducials,C28H31N2O3,443
+71,fiducials,C28H31N2O3,443
+176,fiducials,C28H31N2O3,443
+56,blank,B,444
+0,off-sample region,OS,445
+17,Arachidonic acid,C20H32O2,501
+51,15:0-18:1 PC,C41H80NO8P,502
+46,15:0-18:1-15:0 TG,C51H96O6,503
+15,18:1 MG,C21H40O4,504
+47,beta-D-glucosyl cholesterol,C33H56O6,505
+30,18:1 Cardiolipin,C81H150O17P2,506
+16,18:0-22:6 DG,C43H72O5,508
+49,16:0-18:1 PS (POPS),C40H76NO10P,509
+2,16:0-18:1 PG,C40H77O10P,510
+12,16:0-18:1 PA,C37H71O8P,511
+42,17:1 Lyso PI,C26H49O12P,512
+43,16:0-18:1 PI,C43H81O13P,513
+31,18:1 PI(5)P,C45H84O16P2,514
+39,18:0-20:4 PE,C43H78NO8P,515
+33,15:0 Lyso PC,C23H48NO7P,516
+40,18:0 Lyso PE,C23H48NO7P,517
+48,18:1 Lyso PA,C21H41O7P,518
+32,16:0 Lyso PG,C22H45O9P,519
+44,17:1 Lyso PS,C23H44NO9P,520
+50,C18:0 GM3 Ganglioside,C59H108N2O21,521
+34,Cer(d18:1/22:0),C40H79NO3,522
+37,GlcCer(d18:1/18:0),C42H81NO8,523
+35,16:0 SM (d18:1/16:0),C39H79N2O6P,524
+36,18:0(2S-OH) Sulfo GalCer,C42H81NO12S,525
+41,CAR 16:0,C23H45NO4,526
+45,C16-18:1 PC (O),C42H84NO7P,527
+11,Prostaglandin E1,C20H34O5,528
+13,Cholesteryl ester 17:0,C44H78O2,529
+19,thermometer 1,C12H11N2O2,901
+21,thermometer 2,C13H14NO,902
+53,thermometer 3,C13H14N,903
+54,thermometer 4,C20H17N2,904
+55,thermometer 5,C12H11ClN,905
