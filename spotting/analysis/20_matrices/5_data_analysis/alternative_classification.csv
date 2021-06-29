@@ -1,0 +1,173 @@
+internal_id,name_short,morgan_class,hmdb_func_group_class,property_class
+0,D-Glucose,cyclic carbohydrates,5,acidic aqueous
+1,Glucose 6-phosphate,cyclic carbohydrates,5,large strong amphoteric
+3,"Fructose 1,6-bisphosphate",cyclic carbohydrates,5,large strong amphoteric
+4,Dihydroxyacetone phosphate,linear carbohydrates,3,small strong amphoteric
+7,3-Phosphoglyceric acid,linear carbohydrates,3,small strong amphoteric
+9,Phosphoenolpyruvic acid,linear carbohydrates,2,small strong amphoteric
+10,Pyruvic acid,carboxylic acids,2,small strong amphoteric
+11,Acetyl-CoA,nucleo*ides,5,polar basic
+12,L-Lactic acid,amino acids and peptides,2,acidic aqueous
+14,6-Phosphogluconic acid,linear carbohydrates,3,large strong amphoteric
+15,D-Ribulose 5-phosphate,linear carbohydrates,3,large strong amphoteric
+16,D-Ribose 5-phosphate,cyclic carbohydrates,5,large strong amphoteric
+17,Dihydroxyacetone,linear carbohydrates,3,acidic aqueous
+20,Gluconic acid,linear carbohydrates,3,large strong amphoteric
+21,L-Ribulose,cyclic carbohydrates,5,acidic aqueous
+22,Citric acid,carboxylic acids,2,large strong amphoteric
+24,cis-Aconitic acid,carboxylic acids,2,small strong amphoteric
+26,Oxoglutaric acid,carboxylic acids,2,small strong amphoteric
+28,Succinic acid,carboxylic acids,2,acidic aqueous
+29,Fumaric acid,carboxylic acids,2,small strong amphoteric
+30,L-Malic acid,amino acids and peptides,2,acidic aqueous
+31,Oxalacetic acid,carboxylic acids,2,small strong amphoteric
+33,Uridine diphosphate glucose,cyclic carbohydrates,4,polar basic
+34,Uridine diphosphate glucuronic acid,cyclic carbohydrates,3,polar basic
+35,Glucosamine 6-phosphate,cyclic carbohydrates,5,large basic
+36,N-Acetyl-D-galactosamine 1-phosphate,cyclic carbohydrates,5,large strong amphoteric
+38,Uridine diphosphate-N-acetylglucosamine,cyclic carbohydrates,4,polar basic
+39,N-Acetyl-D-glucosamine,cyclic carbohydrates,5,acidic aqueous
+40,myo-Inositol,cyclic carbohydrates,3,acidic aqueous
+41,Ascorbic acid,linear carbohydrates,3,acidic aqueous
+42,Myo-inositol 1-phosphate,cyclic carbohydrates,3,large strong amphoteric
+46,Palmitic acid,carboxylic acids,2,acidic lipids
+50,Mevalonic acid,carboxylic acids,2,acidic aqueous
+51,Cholesterol,steriods,2,acidic lipids
+53,Malonic acid,carboxylic acids,2,acidic aqueous
+54,3-Hydroxymethylglutaric acid,carboxylic acids,2,acidic aqueous
+55,Palmityl-CoA,nucleo*ides,4,polar basic
+56,L-Carnitine,4o amines,6,small strong amphoteric
+58,Cholic acid,steriods,2,small strong amphoteric
+59,Glycine,carboxylic acids,1,basic aqueous
+60,Taurocholic acid,steriods,2,amphoteric lipids
+61,Estradiol,steriods,2,acidic lipids
+67,L-Asparagine,amino acids and peptides,1,basic aqueous
+68,L-Aspartic acid,amino acids and peptides,1,basic aqueous
+69,N-Acetyl-L-aspartic acid,amino acids and peptides,5,small strong amphoteric
+70,L-Glutamine,amino acids and peptides,1,basic aqueous
+71,L-Glutamic acid,amino acids and peptides,1,basic aqueous
+72,N-Acetylaspartylglutamic acid,amino acids and peptides,5,large strong amphoteric
+73,gamma-Aminobutyric acid,carboxylic acids,1,basic aqueous
+74,L-Phenylalanine,aromatics,7,small basic
+75,L-Tyrosine,aromatics,7,small basic
+76,L-Dopa,aromatics,7,large basic
+77,Dopamine,aromatics,7,weak amphoteric
+79,Epinephrine,aromatics,7,weak amphoteric
+83,Acetoacetic acid,carboxylic acids,2,acidic aqueous
+84,L-Histidine,aromatics,1,basic aqueous
+85,Carnosine,aromatics,1,large basic
+86,Urocanic acid,aromatics,0,small basic
+89,Histamine,aromatics,0,weak amphoteric
+90,L-Arginine,amino acids and peptides,1,large basic
+91,Citrulline,amino acids and peptides,1,basic aqueous
+92,Argininosuccinic acid,amino acids and peptides,1,large basic
+93,Ornithine,amino acids and peptides,1,basic aqueous
+95,Carbamoyl phosphate,linear carbohydrates,0,small strong amphoteric
+97,L-Proline,carboxylic acids,1,basic aqueous
+98,4-Hydroxyproline,carboxylic acids,1,basic aqueous
+99,Putrescine,amines,1,basic aqueous
+100,Spermidine,amines,1,small basic
+101,Spermine,amines,1,small basic
+103,Creatine,carboxylic acids,0,small basic
+105,Creatinine,aromatics,0,weak amphoteric
+106,Agmatine,amines,1,small basic
+107,Folic acid,amino acids and peptides,0,polar basic
+108,Tetrahydrofolic acid,amino acids and peptides,0,polar basic
+110,L-Methionine,amino acids and peptides,0,small basic
+111,L-Cystine,amino acids and peptides,1,large basic
+113,Oxidized glutathione,amino acids and peptides,1,polar basic
+114,Glutathione,amino acids and peptides,1,large basic
+117,Taurine,amines,1,basic aqueous
+119,S-Adenosylmethionine,nucleo*ides,4,large basic
+120,S-Adenosylhomocysteine,nucleo*ides,4,large basic
+121,Homocysteine,amino acids and peptides,1,small basic
+123,L-Cysteine,amino acids and peptides,1,small basic
+125,"N6,N6,N6-Trimethyl-L-lysine",4o amines,1,small basic
+129,L-Valine,amino acids and peptides,1,basic aqueous
+132,Pantothenic acid,carboxylic acids,1,small strong amphoteric
+136,Pantetheine,nucleo*ides,5,weak amphoteric
+138,Coenzyme A,nucleo*ides,4,polar basic
+141,L-Serine,amino acids and peptides,1,basic aqueous
+148,L-Tryptophan,aromatics,7,small basic
+150,L-Kynurenine,aromatics,7,small basic
+151,Kynurenic acid,aromatics,0,small strong amphoteric
+154,3-Hydroxyanthranilic acid,aromatics,7,small basic
+155,Quinolinic acid,aromatics,0,small basic
+158,NAD nicotinamide adenine dinucleotide,nucleo*ides,4,polar basic
+159,NADH (reduced),nucleo*ides,4,polar basic
+160,Niacinamide,aromatics,0,weak amphoteric
+161,Nicotinic acid,aromatics,0,small basic
+165,Serotonin,aromatics,7,weak amphoteric
+166,5-Hydroxyindoleacetic acid,aromatics,7,small strong amphoteric
+168,Melatonin,aromatics,7,weak amphoteric
+169,Nicotinamide riboside,cyclic carbohydrates,4,weak amphoteric
+170,Nicotinamide ribotide,cyclic carbohydrates,4,large strong amphoteric
+184,Hypoxanthine,aromatics,0,weak amphoteric
+185,Adenosine monophosphate,nucleo*ides,4,large basic
+187,Adenine,aromatics,0,weak amphoteric
+190,Xanthine,aromatics,0,weak amphoteric
+193,Guanine,aromatics,0,weak amphoteric
+194,ADP,nucleo*ides,4,polar basic
+195,Adenosine triphosphate,nucleo*ides,4,polar basic
+198,Cyclic AMP,nucleo*ides,4,large basic
+204,Ureidosuccinic acid,amino acids and peptides,0,small strong amphoteric
+205,"4,5-Dihydroorotic acid",carboxylic acids,0,small strong amphoteric
+206,Orotic acid,aromatics,0,small strong amphoteric
+209,Uridine,cyclic carbohydrates,0,weak amphoteric
+210,Uracil,aromatics,0,weak amphoteric
+213,Thymine,aromatics,0,weak amphoteric
+214,Cytidine monophosphate,cyclic carbohydrates,4,large strong amphoteric
+215,Cytidine,cyclic carbohydrates,4,weak amphoteric
+216,Cytosine,aromatics,0,weak amphoteric
+217,Uridine 5'-diphosphate,cyclic carbohydrates,4,large strong amphoteric
+226,Choline,4o amines,6,weak amphoteric
+227,Acetylcholine,4o amines,6,small strong amphoteric
+231,Thiamine,aromatics,0,weak amphoteric
+232,Riboflavin,linear carbohydrates,0,large strong amphoteric
+233,Pyridoxine,aromatics,0,weak amphoteric
+235,Biotin,carboxylic acids,0,small strong amphoteric
+236,Cholecalciferol,steriods,2,acidic lipids
+237,Alpha-tocopherol,steriods,7,acidic lipids
+238,Phylloquinone,steriods,2,amphoteric lipids
+239,Flavin Mononucleotide,linear carbohydrates,4,large strong amphoteric
+241,Flavin adenine dinucleotide,nucleo*ides,4,polar basic
+246,Phosphocreatine,carboxylic acids,0,large basic
+250,Glycerophosphocholine,4o amines,6,small strong amphoteric
+254,Propionylcarnitine,4o amines,6,small strong amphoteric
+257,L-Acetylcarnitine,4o amines,6,small strong amphoteric
+264,Phosphoserine,linear carbohydrates,1,large basic
+274,Uric acid,aromatics,0,weak amphoteric
+276,Cholesteryl acetate,steriods,2,amphoteric lipids
+310,Indole,aromatics,7,weak amphoteric
+318,Glucosamine,cyclic carbohydrates,5,acidic aqueous
+322,Butyric acid,carboxylic acids,2,acidic aqueous
+323,Glycerol 3-phosphate,linear carbohydrates,3,small strong amphoteric
+326,all-trans-Retinoic acid,carboxylic acids,2,acidic lipids
+501,Arachidonic acid,carboxylic acids,2,acidic lipids
+502,15:0-18:1 PC,4o amines,6,amphoteric lipids
+503,15:0-18:1-15:0 TG,lipids,3,amphoteric lipids
+504,18:1 MG,lipids,3,acidic lipids
+505,beta-D-glucosyl cholesterol,steriods,5,amphoteric lipids
+506,18:1 Cardiolipin,lipids,3,amphoteric lipids
+508,18:0-22:6 DG,lipids,3,acidic lipids
+509,16:0-18:1 PS (POPS),lipids,6,amphoteric lipids
+510,16:0-18:1 PG,lipids,3,amphoteric lipids
+511,16:0-18:1 PA,lipids,3,amphoteric lipids
+512,17:1 Lyso PI,lipids,3,amphoteric lipids
+513,16:0-18:1 PI,lipids,3,amphoteric lipids
+514,18:1 PI(5)P,lipids,3,amphoteric lipids
+515,18:0-20:4 PE,lipids,6,amphoteric lipids
+516,15:0 Lyso PC,4o amines,6,amphoteric lipids
+517,18:0 Lyso PE,lipids,6,amphoteric lipids
+518,18:1 Lyso PA,lipids,3,amphoteric lipids
+519,16:0 Lyso PG,lipids,3,amphoteric lipids
+520,17:1 Lyso PS,lipids,6,amphoteric lipids
+521,C18:0 GM3 Ganglioside,lipids,5,polar basic
+522,Cer(d18:1/22:0),lipids,5,acidic lipids
+523,GlcCer(d18:1/18:0),lipids,5,acidic lipids
+524,16:0 SM (d18:1/16:0),4o amines,6,amphoteric lipids
+525,18:0(2S-OH) Sulfo GalCer,lipids,5,amphoteric lipids
+526,CAR 16:0,4o amines,6,amphoteric lipids
+527,C16-18:1 PC (O),4o amines,6,amphoteric lipids
+528,Prostaglandin E1,carboxylic acids,2,small strong amphoteric
+529,Cholesteryl ester 17:0,steriods,2,amphoteric lipids
