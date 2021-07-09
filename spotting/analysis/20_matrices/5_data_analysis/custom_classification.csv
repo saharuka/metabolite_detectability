@@ -30,8 +30,8 @@ internal_id,name_short,coarse_class,fine_class
 34,Uridine diphosphate glucuronic acid,"Nucleosides, nucleotides, and analogues",Nucleotides
 35,Glucosamine 6-phosphate,Carbohydrates,Carbohydrate phosphates
 35,Glucosamine 6-phosphate,Carbohydrates,Carbohydrate amines
-36,N-Acetyl-D-galactosamine 1-phosphate,Carbohydrates,Carbohydrate phosphates
-36,N-Acetyl-D-galactosamine 1-phosphate,Carbohydrates,Carbohydrate amines
+36,N-Acetyl-D-galactosamine 6-phosphate,Carbohydrates,Carbohydrate phosphates
+36,N-Acetyl-D-galactosamine 6-phosphate,Carbohydrates,Carbohydrate amines
 38,Uridine diphosphate-N-acetylglucosamine,"Nucleosides, nucleotides, and analogues",Nucleotides
 39,N-Acetyl-D-glucosamine,Carbohydrates,Carbohydrate amines
 40,myo-Inositol,Carbohydrates,Carbohydrates
@@ -129,7 +129,7 @@ internal_id,name_short,coarse_class,fine_class
 187,Adenine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
 190,Xanthine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
 193,Guanine,"Nucleosides, nucleotides, and analogues",Nucleobases and analogs
-194,ADP,"Nucleosides, nucleotides, and analogues",Nucleotides
+194,Adenosine diphosphate,"Nucleosides, nucleotides, and analogues",Nucleotides
 195,Adenosine triphosphate,"Nucleosides, nucleotides, and analogues",Nucleotides
 198,Cyclic AMP,"Nucleosides, nucleotides, and analogues",Nucleotides
 204,Ureidosuccinic acid,"Amino acids, peptides, and analogues",Acidic amino acids

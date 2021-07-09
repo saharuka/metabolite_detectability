@@ -24,7 +24,7 @@ internal_id,name_short,morgan_class,hmdb_func_group_class,property_class
 33,Uridine diphosphate glucose,cyclic carbohydrates,4,polar basic
 34,Uridine diphosphate glucuronic acid,cyclic carbohydrates,3,polar basic
 35,Glucosamine 6-phosphate,cyclic carbohydrates,5,large basic
-36,N-Acetyl-D-galactosamine 1-phosphate,cyclic carbohydrates,5,large strong amphoteric
+36,N-Acetyl-D-galactosamine 6-phosphate,cyclic carbohydrates,5,large strong amphoteric
 38,Uridine diphosphate-N-acetylglucosamine,cyclic carbohydrates,4,polar basic
 39,N-Acetyl-D-glucosamine,cyclic carbohydrates,5,acidic aqueous
 40,myo-Inositol,cyclic carbohydrates,3,acidic aqueous
@@ -107,7 +107,7 @@ internal_id,name_short,morgan_class,hmdb_func_group_class,property_class
 187,Adenine,aromatics,0,weak amphoteric
 190,Xanthine,aromatics,0,weak amphoteric
 193,Guanine,aromatics,0,weak amphoteric
-194,ADP,nucleo*ides,4,polar basic
+194,Adenosine diphosphate,nucleo*ides,4,polar basic
 195,Adenosine triphosphate,nucleo*ides,4,polar basic
 198,Cyclic AMP,nucleo*ides,4,large basic
 204,Ureidosuccinic acid,amino acids and peptides,0,small strong amphoteric
