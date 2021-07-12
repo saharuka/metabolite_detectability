@@ -21,5 +21,8 @@
 19,PNDI-T2,Positive,PNDIT2_pos_mz70-1510.imzML,2021-06-21_12h59m59s,[]
 20,4-Nitroaniline,Positive,pNA_pos_mz70-1510.imzML,2021-06-23_23h19m02s,['+C6H6N2O2']
 21,4-Nitroaniline,Negative,pNA_neg_mz70-1510.imzML,2021-06-21_15h10m30s,['+C6H6N2O2']
+22,5-Chloro-2-mercaptobenzothiazole,Positive,CMBT_pos_mz70-1510.imzML,2021-07-10_00h13m11s,['+C7H4ClNS2']
+23,5-Chloro-2-mercaptobenzothiazole,Negative,CMBT_neg_mz70-1510.imzML,2021-07-10_00h16m39s,['+C7H4ClNS2']
+
 
 
