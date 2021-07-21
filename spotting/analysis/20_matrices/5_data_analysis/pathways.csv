@@ -18,7 +18,7 @@ internal_id,coarse_path,fine_path,name_short
 276,Lipid metabolism,Cholesterol metabolism,Cholesteryl acetate
 505,Lipid metabolism,Cholesterol metabolism,Glucosyl cholesterol
 529,Lipid metabolism,Cholesterol metabolism,Cholesteryl ester 17:0
-11,Lipid metabolism,Cholesterol sybthesis,Acetyl-CoA
+11,Lipid metabolism,Cholesterol synthesis,Acetyl-CoA
 50,Lipid metabolism,Cholesterol synthesis,Mevalonic acid
 51,Lipid metabolism,Cholesterol synthesis,Cholesterol
 54,Lipid metabolism,Cholesterol synthesis,3-Hydroxymethylglutaric acid
