@@ -5,5 +5,3 @@ __pycache__
 spotting/analysis/20_matrices/1_stitch_and_upload_datasets/**/*.i*
 spotting/analysis/20_matrices/4_model_evaluation/**/*.png
 spotting/analysis/20_matrices/4_model_evaluation/**/*.hdf5
-spotting/analysis/20_matrices/6_plots/q2_plots/**/*
-
