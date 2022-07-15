@@ -3,12 +3,11 @@
 __pycache__
 .idea
 spotting/analysis/20_matrices/1_stitch_and_upload_datasets/**/*.i*
-spotting/analysis/20_matrices/*_model_*/**/*.zip
-spotting/analysis/20_matrices/*_model_*/**/*.hdf5
-*.png
+spotting/analysis/20_matrices/*_model_*/**/*
+spotting/analysis/20_matrices/**/catboost/**/*.png
 *.tif
-*.pdf
 *.svg
 *Martijn*
 *Bishoy*
 *Draft*
+spotting/analysis/20_matrices/5_data_analysis/data_for_sharing/*
