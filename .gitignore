@@ -3,11 +3,13 @@
 __pycache__
 .idea
 **/1_stitch_and_upload_datasets/**/*.i*
-**/*_model_*/**/*
 **/manually_labelled_images_first_analysis_without_ML/*
 **/catboost/*
 **/additional_plots/*
+**/data_for_sharing/**/*
 *.tif
+*.hdf5
+*.png
 *.svg
 *Martijn*
 *Bishoy*
