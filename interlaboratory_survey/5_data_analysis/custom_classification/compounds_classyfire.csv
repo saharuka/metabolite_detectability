@@ -1,0 +1,181 @@
+internal_id,hmdb_primary,is_hmdbid_matching,kingdom,super_class,classorg,sub_class,parent,framework,name_short
+0,HMDB0000122,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexoses,Aliphatic heteromonocyclic compounds,Glucose
+1,HMDB0001401,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexose phosphates,Aliphatic heteromonocyclic compounds,Glucose 6-phosphate
+3,HMDB0001058,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexose phosphates,Aliphatic heteromonocyclic compounds,"Fructose 1,6-bisphosphate"
+4,HMDB0001473,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharide phosphates,Aliphatic acyclic compounds,Dihydroxyacetone phosphate
+7,HMDB0000807,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Aliphatic acyclic compounds,3-Phosphoglyceric acid
+9,HMDB0000263,TRUE,Organic compounds,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,Phosphate esters,Aliphatic acyclic compounds,Phosphoenolpyruvic acid
+10,HMDB0000243,TRUE,Organic compounds,Organic acids and derivatives,Keto acids and derivatives,Alpha-keto acids and derivatives,Alpha-keto acids and derivatives,Aliphatic acyclic compounds,Pyruvic acid
+11,HMDB0001206,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,O-glucuronides,Aromatic heteromonocyclic compounds,Acetyl-CoA
+12,HMDB0000190,TRUE,Organic compounds,Organic acids and derivatives,Hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Alpha hydroxy acids and derivatives,Aliphatic acyclic compounds,Lactic acid
+14,HMDB0001316,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharide phosphates,Aliphatic acyclic compounds,6-Phosphogluconic acid
+15,HMDB0000618,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Pentose phosphates,Aliphatic acyclic compounds,Ribulose 5-phosphate
+16,HMDB0001548,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Pentose phosphates,Aliphatic heteromonocyclic compounds,Ribose 5-phosphate
+17,HMDB0001882,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Monosaccharides,Aliphatic acyclic compounds,Dihydroxyacetone
+20,HMDB0000625,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Sugar acids and derivatives,Aliphatic acyclic compounds,Gluconic acid
+21,HMDB0003371,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Pentoses,Aliphatic heteromonocyclic compounds,Ribulose
+22,HMDB0000094,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Tricarboxylic acids and derivatives,Aliphatic acyclic compounds,Citric acid
+24,HMDB0000072,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Tricarboxylic acids and derivatives,Tricarboxylic acids and derivatives,Aliphatic acyclic compounds,cis-Aconitic acid
+26,HMDB0000208,TRUE,Organic compounds,Organic acids and derivatives,Keto acids and derivatives,Gamma-keto acids and derivatives,Gamma-keto acids and derivatives,Aliphatic acyclic compounds,2-Oxoglutaric acid
+28,HMDB0000254,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,Aliphatic acyclic compounds,Succinic acid
+29,HMDB0000134,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,Aliphatic acyclic compounds,Fumaric acid
+30,HMDB0000156,TRUE,Organic compounds,Organic acids and derivatives,Hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Beta hydroxy acids and derivatives,Aliphatic acyclic compounds,Malic acid
+31,HMDB0000223,TRUE,Organic compounds,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds,Oxalacetic acid
+33,HMDB0000286,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine nucleotide sugars,Pyrimidine nucleotide sugars,Aromatic heteromonocyclic compounds,Uridine diphosphate glucose
+34,HMDB0000935,TRUE,Organic compounds,Organoheterocyclic compounds,Lactones,Gamma butyrolactones,Gamma butyrolactones,Aliphatic heteromonocyclic compounds,Uridine diphosphate glucuronic acid
+35,HMDB0001254,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexose phosphates,Aliphatic heteromonocyclic compounds,Glucosamine 6-phosphate
+36,HMDB0006480,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,N-acyl-alpha-hexosamines,Aliphatic heteromonocyclic compounds,N-Acetylgalactosamine 6-phosphate
+38,HMDB0000290,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine nucleotide sugars,Pyrimidine nucleotide sugars,Aromatic heteromonocyclic compounds,Uridine diphosphate-N-acetylglucosamine
+39,HMDB0000215,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Acylaminosugars,Aliphatic heteromonocyclic compounds,N-Acetylglucosamine
+40,HMDB0000211,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Cyclohexanols,Aliphatic homomonocyclic compounds,myo-Inositol
+41,HMDB0000044,TRUE,Organic compounds,Organoheterocyclic compounds,Dihydrofurans,Furanones,Butenolides,Aliphatic heteromonocyclic compounds,Ascorbic acid
+42,HMDB0000213,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Inositol phosphates,Aliphatic homomonocyclic compounds,Myo-inositol 1-phosphate
+46,HMDB0000220,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Aliphatic acyclic compounds,Palmitic acid
+50,HMDB0000227,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,Aliphatic acyclic compounds,Mevalonic acid
+51,HMDB0000067,TRUE,Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Cholestane steroids,Cholesterols and derivatives,Aliphatic homopolycyclic compounds,Cholesterol
+53,HMDB0000691,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,Dicarboxylic acids and derivatives,Dicarboxylic acids and derivatives,Aliphatic acyclic compounds,Malonic acid
+54,HMDB0000355,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Hydroxy fatty acids,Aliphatic acyclic compounds,3-Hydroxymethylglutaric acid
+55,HMDB0001338,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acyl thioesters,Long-chain fatty acyl CoAs,Aromatic heteropolycyclic compounds,Palmitoyl-CoA
+56,HMDB0000062,TRUE,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Carnitines,Aliphatic acyclic compounds,Carnitine
+58,HMDB0000619,TRUE,Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Trihydroxy bile acids, alcohols and derivatives",Aliphatic homopolycyclic compounds,Cholic acid
+59,HMDB0000123,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids,Aliphatic acyclic compounds,Glycine
+60,HMDB0000036,TRUE,Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,"Bile acids, alcohols and derivatives","Trihydroxy bile acids, alcohols and derivatives",Aliphatic homopolycyclic compounds,Taurocholic acid
+61,HMDB0000151,TRUE,Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Estrane steroids,Estrogens and derivatives,Aromatic homopolycyclic compounds,Estradiol
+67,HMDB0000168,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Asparagine and derivatives,Aliphatic acyclic compounds,Asparagine
+68,HMDB0000191,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives,Aliphatic acyclic compounds,Aspartic acid
+69,HMDB0000812,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives,Aliphatic acyclic compounds,N-Acetylaspartic acid
+70,HMDB0000641,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,Aliphatic acyclic compounds,Glutamine
+71,HMDB0000148,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Glutamic acid and derivatives,Aliphatic acyclic compounds,Glutamic acid
+72,HMDB0001067,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Dipeptides,Aliphatic acyclic compounds,N-Acetylaspartylglutamic acid
+73,HMDB0000112,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Gamma amino acids and derivatives,Aliphatic acyclic compounds,gamma-Aminobutyric acid
+74,HMDB0000159,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Phenylalanine and derivatives,Aromatic homomonocyclic compounds,Phenylalanine
+75,HMDB0000158,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Tyrosine and derivatives,Aromatic homomonocyclic compounds,Tyrosine
+76,HMDB0000181,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Tyrosine and derivatives,Aromatic homomonocyclic compounds,L-Dopa
+77,HMDB0000073,TRUE,Organic compounds,Benzenoids,Phenols,Benzenediols,Catecholamines and derivatives,Aromatic homomonocyclic compounds,Dopamine
+79,HMDB0000068,TRUE,Organic compounds,Benzenoids,Phenols,Benzenediols,Catechols,Aromatic homomonocyclic compounds,Epinephrine
+83,HMDB0000060,TRUE,Organic compounds,Organic acids and derivatives,Keto acids and derivatives,Short-chain keto acids and derivatives,Short-chain keto acids and derivatives,Aliphatic acyclic compounds,Acetoacetic acid
+84,HMDB0000177,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Histidine and derivatives,Aromatic heteromonocyclic compounds,Histidine
+85,HMDB0000033,TRUE,Organic compounds,Organic acids and derivatives,Peptidomimetics,Hybrid peptides,Hybrid peptides,Aromatic heteromonocyclic compounds,Carnosine
+86,HMDB0000301,TRUE,Organic compounds,Organoheterocyclic compounds,Azoles,Imidazoles,Imidazolyl carboxylic acids and derivatives,Aromatic heteromonocyclic compounds,Urocanic acid
+89,HMDB0000870,TRUE,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Amines,2-arylethylamines,Aromatic heteromonocyclic compounds,Histamine
+90,HMDB0000517,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,Aliphatic acyclic compounds,Arginine
+91,HMDB0000904,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,Aliphatic acyclic compounds,Citrulline
+92,HMDB0000052,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives,Aliphatic acyclic compounds,Argininosuccinic acid
+93,HMDB0000214,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,Aliphatic acyclic compounds,Ornithine
+95,HMDB0001096,TRUE,Organic compounds,Organic acids and derivatives,Organic phosphoric acids and derivatives,,Organic phosphoric acids and derivatives,Aliphatic acyclic compounds,Carbamoyl phosphate
+97,HMDB0000162,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Proline and derivatives,Aliphatic heteromonocyclic compounds,Proline
+98,HMDB0000725,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Proline and derivatives,Aliphatic heteromonocyclic compounds,4-Hydroxyproline
+99,HMDB0001414,TRUE,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Amines,Monoalkylamines,Aliphatic acyclic compounds,Putrescine
+100,HMDB0001257,TRUE,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Amines,Dialkylamines,Aliphatic acyclic compounds,Spermidine
+101,HMDB0001256,TRUE,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Amines,Dialkylamines,Aliphatic acyclic compounds,Spermine
+103,HMDB0000064,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,Aliphatic acyclic compounds,Creatine
+105,HMDB0000562,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,Aliphatic heteromonocyclic compounds,Creatinine
+106,HMDB0001432,TRUE,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Guanidines,Guanidines,Aliphatic acyclic compounds,Agmatine
+107,HMDB0000121,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Glutamic acid and derivatives,,Folic acid
+108,HMDB0001846,TRUE,Organic compounds,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Xanthines,Aromatic heteropolycyclic compounds,Tetrahydrofolic acid
+110,HMDB0000696,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Methionine and derivatives,,Methionine
+111,HMDB0000192,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-cysteine-S-conjugates,Aliphatic acyclic compounds,Cystine
+113,HMDB0003337,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Aliphatic acyclic compounds,Oxidized glutathione
+114,HMDB0000125,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Peptides,Aliphatic acyclic compounds,Glutathione
+117,HMDB0000251,TRUE,Organic compounds,Organic acids and derivatives,Organic sulfonic acids and derivatives,Organosulfonic acids and derivatives,Organosulfonic acids,Aliphatic acyclic compounds,Taurine
+119,HMDB0001185,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides,5'-deoxy-5'-thionucleosides,5'-deoxy-5'-thionucleosides,Aromatic heteropolycyclic compounds,S-Adenosylmethionine
+120,HMDB0000939,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",5'-deoxyribonucleosides,5'-deoxy-5'-thionucleosides,5'-deoxy-5'-thionucleosides,Aromatic heteropolycyclic compounds,S-Adenosylhomocysteine
+121,HMDB0000742,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,Aliphatic acyclic compounds,Homocysteine
+123,HMDB0000574,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Cysteine and derivatives,Aliphatic acyclic compounds,Cysteine
+125,HMDB0001325,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,Aliphatic acyclic compounds,"N6,N6,N6-Trimethyllysine"
+129,HMDB0000883,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Valine and derivatives,Aliphatic acyclic compounds,Valine
+132,HMDB0000210,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,Secondary alcohols,Aliphatic acyclic compounds,Pantothenic acid
+136,HMDB0003426,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Beta amino acids and derivatives,Aliphatic acyclic compounds,Pantetheine
+138,HMDB0001423,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Coenzyme A and derivatives,Aromatic heteropolycyclic compounds,Coenzyme A
+141,HMDB0000187,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Serine and derivatives,Aliphatic acyclic compounds,Serine
+148,HMDB0000929,TRUE,Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Indolyl carboxylic acids and derivatives,Aromatic heteropolycyclic compounds,Tryptophan
+150,HMDB0000684,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,Alkyl-phenylketones,Aromatic homomonocyclic compounds,Kynurenine
+151,HMDB0000715,TRUE,Organic compounds,Organoheterocyclic compounds,Quinolines and derivatives,Quinoline carboxylic acids,Quinoline carboxylic acids,Aromatic heteropolycyclic compounds,Kynurenic acid
+154,HMDB0001476,TRUE,Organic compounds,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Hydroxybenzoic acid derivatives,Aromatic homomonocyclic compounds,3-Hydroxyanthranilic acid
+155,HMDB0000232,TRUE,Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Pyridinecarboxylic acids,Aromatic heteromonocyclic compounds,Quinolinic acid
+158,HMDB0000902,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",(5'->5')-dinucleotides,,(5'->5')-dinucleotides,Aromatic heteropolycyclic compounds,Nicotinamide adenine dinucleotide (NAD)
+159,HMDB0001487,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",(5'->5')-dinucleotides,,(5'->5')-dinucleotides,Aromatic heteropolycyclic compounds,"Nicotinamide adenine dinucleotide, reduced (NADH)"
+160,HMDB0001406,TRUE,Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Nicotinamides,Aromatic heteromonocyclic compounds,Niacinamide
+161,HMDB0001488,TRUE,Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Pyridinecarboxylic acids and derivatives,Pyridinecarboxylic acids,Aromatic heteromonocyclic compounds,Nicotinic acid
+165,HMDB0000259,TRUE,Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Tryptamines and derivatives,Serotonins,Aromatic heteropolycyclic compounds,Serotonin
+166,HMDB0000763,TRUE,Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Indolyl carboxylic acids and derivatives,Indole-3-acetic acid derivatives,Aromatic heteropolycyclic compounds,5-Hydroxyindoleacetic acid
+168,HMDB0001389,TRUE,Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Indoles,3-alkylindoles,Aromatic heteropolycyclic compounds,Melatonin
+169,HMDB0000855,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Glycosylamines,Aromatic heteromonocyclic compounds,Nicotinamide riboside
+170,HMDB0000229,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Pyridine nucleotides,Nicotinamide nucleotides,Nicotinamide nucleotides,Aromatic heteromonocyclic compounds,Nicotinamide ribotide
+184,HMDB0000157,TRUE,Organic compounds,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Hypoxanthines,Aromatic heteropolycyclic compounds,Hypoxanthine
+185,HMDB0000045,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside monophosphates,Aromatic heteropolycyclic compounds,Adenosine monophosphate
+187,HMDB0000034,TRUE,Organic compounds,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,6-aminopurines,,Adenine
+190,HMDB0000292,TRUE,Organic compounds,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Xanthines,Aromatic heteropolycyclic compounds,Xanthine
+193,HMDB0000132,TRUE,Organic compounds,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Purines and purine derivatives,Aromatic heteropolycyclic compounds,Guanine
+194,HMDB0001341,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside diphosphates,Aromatic heteropolycyclic compounds,Adenosine diphosphate
+195,HMDB0000538,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,Purine ribonucleoside triphosphates,Aromatic heteropolycyclic compounds,Adenosine triphosphate
+198,HMDB0000058,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Cyclic purine nucleotides,"3',5'-cyclic purine nucleotides",Aromatic heteropolycyclic compounds,Cyclic adenosine monophosphate
+204,HMDB0000828,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Aspartic acid and derivatives,Aliphatic acyclic compounds,Ureidosuccinic acid
+205,HMDB0000528,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,Aliphatic heteromonocyclic compounds,"4,5-Dihydroorotic acid"
+206,HMDB0000226,TRUE,Organic compounds,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidinecarboxylic acids,Aromatic heteromonocyclic compounds,Orotic acid
+209,HMDB0000296,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,,Pyrimidine nucleosides,Aromatic heteromonocyclic compounds,Uridine
+210,HMDB0000300,TRUE,Organic compounds,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidones,Aromatic heteromonocyclic compounds,Uracil
+213,HMDB0000262,TRUE,Organic compounds,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Hydroxypyrimidines,Aromatic heteromonocyclic compounds,Thymine
+214,HMDB0000095,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine ribonucleotides,Pyrimidine ribonucleoside monophosphates,Aromatic heteromonocyclic compounds,Cytidine monophosphate
+215,HMDB0000089,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleosides,,Pyrimidine nucleosides,Aromatic heteromonocyclic compounds,Cytidine
+216,HMDB0000630,TRUE,Organic compounds,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Pyrimidones,Aromatic heteromonocyclic compounds,Cytosine
+217,HMDB0000295,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Pyrimidine nucleotides,Pyrimidine ribonucleotides,Pyrimidine ribonucleoside diphosphates,Aromatic heteromonocyclic compounds,Uridine diphosphate
+226,HMDB0000097,TRUE,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Cholines,Aliphatic acyclic compounds,Choline
+227,HMDB0000895,TRUE,Organic compounds,Organic nitrogen compounds,Organonitrogen compounds,Quaternary ammonium salts,Acyl cholines,Aliphatic acyclic compounds,Acetylcholine
+231,HMDB0000235,TRUE,Organic compounds,Organoheterocyclic compounds,Diazines,Pyrimidines and pyrimidine derivatives,Thiamines,Aromatic heteromonocyclic compounds,Thiamine
+232,HMDB0000244,TRUE,Organic compounds,Organoheterocyclic compounds,Pteridines and derivatives,Alloxazines and isoalloxazines,Flavins,Aromatic heteropolycyclic compounds,Riboflavin
+233,HMDB0000239,TRUE,Organic compounds,Organoheterocyclic compounds,Pyridines and derivatives,Pyridoxines,Pyridoxines,Aromatic heteromonocyclic compounds,Pyridoxine
+235,HMDB0000030,TRUE,Organic compounds,Organoheterocyclic compounds,Biotin and derivatives,,Biotin and derivatives,Aliphatic heteropolycyclic compounds,Biotin
+236,HMDB0000876,TRUE,Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Vitamin D and derivatives,Vitamin D and derivatives,Aliphatic homopolycyclic compounds,Cholecalciferol
+237,HMDB0001893,TRUE,Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,Tocopherols,Aromatic heteropolycyclic compounds,alpha-tocopherol
+238,HMDB0003555,TRUE,Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Quinone and hydroquinone lipids,Vitamin K compounds,Aromatic homopolycyclic compounds,Phylloquinone
+239,HMDB0001520,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Flavin nucleotides,,Flavin nucleotides,Aromatic heteropolycyclic compounds,Flavin mononucleotide
+241,HMDB0001248,TRUE,Organic compounds,"Nucleosides, nucleotides, and analogues",Flavin nucleotides,,Flavin nucleotides,Aromatic heteropolycyclic compounds,Flavin adenine dinucleotide
+246,HMDB0001511,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",Alpha amino acids and derivatives,Aliphatic acyclic compounds,Phosphocreatine
+250,HMDB0000086,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Glycerophosphocholines,Aliphatic acyclic compounds,Glycerophosphocholine
+254,HMDB0000824,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Acyl carnitines,Aliphatic acyclic compounds,Propionylcarnitine
+257,HMDB0000201,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Acyl carnitines,Aliphatic acyclic compounds,Acetylcarnitine
+264,HMDB0000272,TRUE,Organic compounds,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-alpha-amino acids,Aliphatic acyclic compounds,Phosphoserine
+274,HMDB0000289,TRUE,Organic compounds,Organoheterocyclic compounds,Imidazopyrimidines,Purines and purine derivatives,Xanthines,Aromatic heteropolycyclic compounds,Uric acid
+276,HMDB0003822,TRUE,Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,Cholesteryl esters,Aliphatic homopolycyclic compounds,Cholesteryl acetate
+310,HMDB0000738,TRUE,Organic compounds,Organoheterocyclic compounds,Indoles and derivatives,Indoles,Indoles,Aromatic heteropolycyclic compounds,Indole
+318,HMDB0001514,TRUE,Organic compounds,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,Hexoses,Aliphatic heteromonocyclic compounds,Glucosamine
+322,HMDB0000039,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Straight chain fatty acids,Aliphatic acyclic compounds,Butyric acid
+323,HMDB0000126,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,Glycerophosphates,Aliphatic acyclic compounds,Glycerol 3-phosphate
+326,HMDB0001852,TRUE,Organic compounds,Lipids and lipid-like molecules,Prenol lipids,Retinoids,Retinoids,Aliphatic homomonocyclic compounds,Retinoic acid
+443,custom,,,,,,,,fiducials
+444,custom,,,,,,,,blank
+445,custom,,,,,,,,off-sample region
+501,HMDB0001043,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,Long-chain fatty acids,Aliphatic acyclic compounds,Arachidonic acid
+502,HMDB0007939,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,Phosphatidylcholines,Aliphatic acyclic compounds,PC 15:0-18:1
+503,HMDB0043250,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerolipids,Triradylcglycerols,Triacylglycerols,Aliphatic acyclic compounds,TG 15:0-18:1-15:0
+504,HMDB0011567,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerolipids,Monoradylglycerols,1-monoacylglycerols,Aliphatic acyclic compounds,MG 18:1
+505,HMDB0010330,FALSE,Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroidal glycosides,Steroid glucuronide conjugates,Aliphatic heteropolycyclic compounds,Glucosyl cholesterol
+506,HMDB0010691,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerophosphoglycerols,Cardiolipins,Aliphatic acyclic compounds,Cardiolipin 18:1
+508,HMDB0007179,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerolipids,Diradylglycerols,"1,2-diacylglycerols",Aliphatic acyclic compounds,DG 18:0-22:6
+509,HMDB0012357,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,Phosphatidylserines,Aliphatic acyclic compounds,PS (POPS) 16:0-18:1
+510,HMDB0010574,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,Phosphatidylglycerols,Aliphatic acyclic compounds,PG 16:0-18:1
+511,HMDB0007859,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,"1,2-diacylglycerol-3-phosphates",Aliphatic acyclic compounds,PA 16:0-18:1
+512,HMDB0061693,FALSE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,1-acyl-sn-glycerol-3-phosphoinositols,Aliphatic homomonocyclic compounds,Lyso PI 17:1
+513,HMDB0009783,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositols,Phosphatidylinositols,Aliphatic homomonocyclic compounds,PI 16:0-18:1
+514,HMDB0009974,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoinositol phosphates,Glycerophosphoinositol phosphates,Aliphatic homomonocyclic compounds,PI(5)P 18:1
+515,HMDB0009003,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,Phosphatidylethanolamines,Aliphatic acyclic compounds,PE 18:0-20:4
+516,HMDB0010381,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,1-acyl-sn-glycero-3-phosphocholines,Aliphatic acyclic compounds,Lyso PC 15:0
+517,HMDB0011130,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,1-acyl-sn-glycero-3-phosphoethanolamines,Aliphatic acyclic compounds,Lyso PE 18:0
+518,HMDB0007855,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphates,1-acylglycerol-3-phosphates,Aliphatic acyclic compounds,Lyso PA 18:1
+519,HMDB0240601,TRUE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoglycerols,Lysophosphatidylglycerols,Aliphatic acyclic compounds,Lyso PG 16:0
+520,HMDB0240603,FALSE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoserines,1-acyl-glycerol-3-phosphoserines,Aliphatic acyclic compounds,Lyso PS 17:1
+521,HMDB0004845,TRUE,Organic compounds,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,Gangliosides,Aliphatic heteromonocyclic compounds,GM3 Ganglioside 18:0
+522,HMDB0004952,TRUE,Organic compounds,Lipids and lipid-like molecules,Sphingolipids,Ceramides,Ceramides,Aliphatic acyclic compounds,Cer d8:1/22:0 Cer
+523,HMDB0004972,TRUE,Organic compounds,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,Glycosyl-N-acylsphingosines,Aliphatic heteromonocyclic compounds,GlcCer d18:1/18:0
+524,HMDB0010169,TRUE,Organic compounds,Lipids and lipid-like molecules,Sphingolipids,Phosphosphingolipids,Phosphosphingolipids,Aliphatic acyclic compounds,SM d18:1-16:0
+525,HMDB0012314,FALSE,Organic compounds,Lipids and lipid-like molecules,Sphingolipids,Glycosphingolipids,Sulfatides,Aliphatic heteromonocyclic compounds,Sulfo GalCer 18:0(2S-OH)
+526,HMDB0000222,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Fatty acid esters,Acyl carnitines,Aliphatic acyclic compounds,CAR 16:0
+527,HMDB0013426,FALSE,Organic compounds,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphocholines,"1-alkyl,2-acylglycero-3-phosphocholines",Aliphatic acyclic compounds,PC (O) C16-18:1
+528,HMDB0001442,TRUE,Organic compounds,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Prostaglandins and related compounds,Aliphatic homomonocyclic compounds,Prostaglandin E1
+529,HMDB0060059,TRUE,Organic compounds,Lipids and lipid-like molecules,Steroids and steroid derivatives,Steroid esters,Cholesteryl esters,Aliphatic homopolycyclic compounds,Cholesteryl ester 17:0
+901,custom,,,,,,,,thermometer 1
+902,custom,,,,,,,,thermometer 2
+903,custom,,,,,,,,thermometer 3
+904,custom,,,,,,,,thermometer 4
+905,custom,,,,,,,,thermometer 5
