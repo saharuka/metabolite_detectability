@@ -1,7 +1,0 @@
-ds_id,Slide,Polarity,Mass Range,Group,Source,Analyzer,RP,Mref,Matrix,Rotation,Mergeable,Link,Mergewith,Done,Px_x,Px_y,Clone
-2021-12-07_17h42m27s,15C,negative,70-1510,EMBL,AP-MALDI,Orbitrap,140000,200,pNA,0,,,,,150,150,2022-06-01_18h21m54s
-2021-12-07_17h42m06s,15C,positive,70-1510,EMBL,AP-MALDI,Orbitrap,140000,200,pNA,0,,,,,150,150,2022-06-01_18h21m59s
-2021-07-10_00h16m39s,3C,negative,70-1510,EMBL,AP-MALDI,Orbitrap,140000,200,CMBT,0,,,,,150,150,2022-06-01_18h22m01s
-2021-07-10_00h13m11s,3C,positive,70-1510,EMBL,AP-MALDI,Orbitrap,140000,200,CMBT,0,,,,,150,150,2022-06-01_18h22m03s
-2021-11-08_17h35m34s,,,,,,,,,,,,,,,,,2021-11-08_17h35m34s
-2022-03-14_22h35m48s,,,,,,,,,,,,,,,,,2022-03-14_22h35m48s

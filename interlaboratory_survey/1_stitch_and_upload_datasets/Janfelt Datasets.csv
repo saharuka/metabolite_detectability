@@ -1,9 +1,0 @@
-﻿ds_id,Slide,Polarity,Mass Range,Group,Source,Analyzer,RP,Mref,Matrix,Rotation,Mergeable,Link,Mergewith,Done,Px_x,Px_y,Clone
-2021-04-24_23h00m42s,5H,Pos,Low,Janfelt,DESI,Orbitrap,140000,200,None,1,No,,,,150,150,2022-03-11_12h02m34s
-2021-04-24_23h00m44s,5H,Pos,Low,Janfelt,DESI,Orbitrap,140000,400,None,1,No,,,,150,150,2022-03-11_12h02m35s
-2021-04-24_23h00m46s,5J,Pos,High,Janfelt,DESI,Orbitrap,140000,400,None,1,No,,,,150,150,2022-03-11_12h02m36s
-2021-04-24_23h00m48s,5J,Pos,High,Janfelt,DESI,Orbitrap,140000,400,None,1,No,,,,150,150,2022-03-11_12h02m37s
-2021-04-24_23h00m50s,5G,Neg,Low,Janfelt,DESI,Orbitrap,140000,400,None,1,No,,,,150,150,2022-03-11_12h02m38s
-2021-04-24_23h00m52s,5G,Neg,Low,Janfelt,DESI,Orbitrap,140000,400,None,1,No,,,,150,150,2022-03-11_12h02m39s
-2021-04-24_23h00m55s,5I,Neg,High,Janfelt,DESI,Orbitrap,140000,400,None,1,No,,,,150,150,2022-03-11_12h02m40s
-2021-04-24_23h00m57s,5I,Neg,High,Janfelt,DESI,Orbitrap,140000,400,None,1,No,,,,150,150,2022-03-11_12h02m41s
