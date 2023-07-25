@@ -1,9 +1,0 @@
-pandas==1.0.3
-metaspace2020>=1.7.2
-scikit-image
-scikit-learn
-seaborn
-matplotlib
-pyimzml
-catboost
-scipy
