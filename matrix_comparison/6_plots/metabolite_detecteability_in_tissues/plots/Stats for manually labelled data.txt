@@ -1,5 +1,0 @@
-On average, in DHB+  94.7% of metabolites deteteted in tissue were also detected in reference sample
-On average, in DHB+  12.9% of metabolites not deteteted in reference sample were detected in tissue
-
-On average, in DAN-  78.2% of metabolites deteteted in tissue were also detected in reference sample
-On average, in DAN-  24.3% of metabolites not deteteted in reference sample were detected in tissue

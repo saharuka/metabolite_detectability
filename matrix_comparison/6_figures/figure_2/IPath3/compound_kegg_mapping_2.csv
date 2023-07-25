@@ -1,0 +1,198 @@
+,name_short,hmdb_primary,internal_id,kegg_id,coarse_class
+0,Glucose,HMDB0000122,0,C00221,Carbohydrates
+1,Glucose 6-phosphate,HMDB0001401,1,C00092,Carbohydrates
+2,"Fructose 1,6-bisphosphate",HMDB0001058,3,C05378,Carbohydrates
+3,Dihydroxyacetone phosphate,HMDB0001473,4,C00111,Carbohydrates
+4,3-Phosphoglyceric acid,HMDB0000807,7,C00597,Carboxylic acids
+5,3-Phosphoglyceric acid,HMDB0000807,7,C00597,Carboxylic acids
+6,Phosphoenolpyruvic acid,HMDB0000263,9,C00074,Carboxylic acids
+7,Pyruvic acid,HMDB0000243,10,C00022,Carboxylic acids
+8,Acetyl-CoA,HMDB0001206,11,C00024,Vitamins and cofactors
+9,Acetyl-CoA,HMDB0001206,11,C00024,"Nucleosides, nucleotides, and analogues"
+10,Lactic acid,HMDB0000190,12,C00186,Carboxylic acids
+11,6-Phosphogluconic acid,HMDB0001316,14,C00345,Carbohydrates
+12,6-Phosphogluconic acid,HMDB0001316,14,C00345,Carboxylic acids
+13,Ribulose 5-phosphate,HMDB0000618,15,C00199,Carbohydrates
+14,Ribose 5-phosphate,HMDB0001548,16,C03736,Carbohydrates
+15,Dihydroxyacetone,HMDB0001882,17,C00184,Carbohydrates
+16,Gluconic acid,HMDB0000625,20,C00257,Carbohydrates
+17,Gluconic acid,HMDB0000625,20,C00257,Carboxylic acids
+18,Ribulose,HMDB0003371,21,C00508,Carbohydrates
+19,Citric acid,HMDB0000094,22,C00158,Carboxylic acids
+20,Citric acid,HMDB0000094,22,C00158,Carboxylic acids
+21,cis-Aconitic acid,HMDB0000072,24,C00417,Carboxylic acids
+22,2-Oxoglutaric acid,HMDB0000208,26,C00026,Carboxylic acids
+23,Succinic acid,HMDB0000254,28,C00042,Carboxylic acids
+24,Fumaric acid,HMDB0000134,29,C00122,Carboxylic acids
+25,Malic acid,HMDB0000156,30,C00149,Carboxylic acids
+26,Oxalacetic acid,HMDB0000223,31,C00036,Carboxylic acids
+27,Uridine diphosphate glucose,HMDB0000286,33,C00029,"Nucleosides, nucleotides, and analogues"
+28,Uridine diphosphate glucuronic acid,HMDB0000935,34,C00167,"Nucleosides, nucleotides, and analogues"
+29,Glucosamine 6-phosphate,HMDB0001254,35,C00352,Carbohydrates
+30,Glucosamine 6-phosphate,HMDB0001254,35,C00352,Carbohydrates
+31,N-Acetylgalactosamine 6-phosphate,HMDB0006480,36,C06376,Carbohydrates
+32,N-Acetylgalactosamine 6-phosphate,HMDB0006480,36,C06376,Carbohydrates
+33,Uridine diphosphate-N-acetylglucosamine,HMDB0000290,38,C00043,"Nucleosides, nucleotides, and analogues"
+34,N-Acetylglucosamine,HMDB0000215,39,C00140,Carbohydrates
+35,myo-Inositol,HMDB0000211,40,C00137,Carbohydrates
+36,Ascorbic acid,HMDB0000044,41,C01041,Carboxylic acids
+37,Myo-inositol 1-phosphate,HMDB0000213,42,C01177,Carbohydrates
+38,Palmitic acid,HMDB0000220,46,C00249,Lipids and lipid-like molecules
+39,Mevalonic acid,HMDB0000227,50,C00418,Carboxylic acids
+40,Cholesterol,HMDB0000067,51,C00187,Lipids and lipid-like molecules
+41,Malonic acid,HMDB0000691,53,C04025,Carboxylic acids
+42,3-Hydroxymethylglutaric acid,HMDB0000355,54,C03761,Carboxylic acids
+43,Palmitoyl-CoA,HMDB0001338,55,C00154,Vitamins and cofactors
+44,Palmitoyl-CoA,HMDB0001338,55,C00154,Lipids and lipid-like molecules
+45,Palmitoyl-CoA,HMDB0001338,55,C00154,"Nucleosides, nucleotides, and analogues"
+46,Carnitine,HMDB0000062,56,C00318,"Amino acids, peptides, and analogues"
+47,Carnitine,HMDB0000062,56,C00318,Amines
+48,Cholic acid,HMDB0000619,58,C00695,Lipids and lipid-like molecules
+49,Glycine,HMDB0000123,59,C00037,"Amino acids, peptides, and analogues"
+50,Taurocholic acid,HMDB0000036,60,C05122,Lipids and lipid-like molecules
+51,Estradiol,HMDB0000151,61,C00951,Lipids and lipid-like molecules
+52,Asparagine,HMDB0000168,67,C00152,"Amino acids, peptides, and analogues"
+53,Aspartic acid,HMDB0000191,68,C00049,"Amino acids, peptides, and analogues"
+54,N-Acetylaspartic acid,HMDB0000812,69,C01042,"Amino acids, peptides, and analogues"
+55,Glutamine,HMDB0000641,70,C00064,"Amino acids, peptides, and analogues"
+56,Glutamic acid,HMDB0000148,71,C00025,"Amino acids, peptides, and analogues"
+57,N-Acetylaspartylglutamic acid,HMDB0001067,72,C12270,"Amino acids, peptides, and analogues"
+58,gamma-Aminobutyric acid,HMDB0000112,73,C00334,"Amino acids, peptides, and analogues"
+59,Phenylalanine,HMDB0000159,74,C00079,"Amino acids, peptides, and analogues"
+60,Tyrosine,HMDB0000158,75,C00082,"Amino acids, peptides, and analogues"
+61,L-Dopa,HMDB0000181,76,C00355,"Amino acids, peptides, and analogues"
+62,Dopamine,HMDB0000073,77,C03758,"Amino acids, peptides, and analogues"
+63,Epinephrine,HMDB0000068,79,C00788,"Amino acids, peptides, and analogues"
+64,Acetoacetic acid,HMDB0000060,83,C00164,Carboxylic acids
+65,Histidine,HMDB0000177,84,C00135,"Amino acids, peptides, and analogues"
+66,Carnosine,HMDB0000033,85,C00386,"Amino acids, peptides, and analogues"
+67,Urocanic acid,HMDB0000301,86,C00785,"Amino acids, peptides, and analogues"
+68,Histamine,HMDB0000870,89,C00388,"Amino acids, peptides, and analogues"
+69,Histamine,HMDB0000870,89,C00388,Amines
+70,Arginine,HMDB0000517,90,C00062,"Amino acids, peptides, and analogues"
+71,Citrulline,HMDB0000904,91,C00327,"Amino acids, peptides, and analogues"
+72,Argininosuccinic acid,HMDB0000052,92,C03406,"Amino acids, peptides, and analogues"
+73,Ornithine,HMDB0000214,93,C00077,"Amino acids, peptides, and analogues"
+74,Carbamoyl phosphate,HMDB0001096,95,C00169,Amines
+75,Proline,HMDB0000162,97,C00148,"Amino acids, peptides, and analogues"
+76,4-Hydroxyproline,HMDB0000725,98,C01157,"Amino acids, peptides, and analogues"
+77,Putrescine,HMDB0001414,99,C00134,Amines
+78,Spermidine,HMDB0001257,100,C00315,Amines
+79,Spermine,HMDB0001256,101,C00750,Amines
+80,Creatine,HMDB0000064,103,C00300,"Amino acids, peptides, and analogues"
+81,Creatinine,HMDB0000562,105,C00791,"Amino acids, peptides, and analogues"
+82,Agmatine,HMDB0001432,106,C00179,"Amino acids, peptides, and analogues"
+83,Agmatine,HMDB0001432,106,C00179,Amines
+84,Folic acid,HMDB0000121,107,C00504,Vitamins and cofactors
+85,Tetrahydrofolic acid,HMDB0001846,108,C00101,Vitamins and cofactors
+86,Methionine,HMDB0000696,110,C00073,"Amino acids, peptides, and analogues"
+87,Cystine,HMDB0000192,111,C00491,"Amino acids, peptides, and analogues"
+88,Oxidized glutathione,HMDB0003337,113,C00127,"Amino acids, peptides, and analogues"
+89,Glutathione,HMDB0000125,114,C00051,"Amino acids, peptides, and analogues"
+90,Taurine,HMDB0000251,117,C00245,"Amino acids, peptides, and analogues"
+91,S-Adenosylmethionine,HMDB0001185,119,C00019,"Nucleosides, nucleotides, and analogues"
+92,S-Adenosylmethionine,HMDB0001185,119,C00019,"Amino acids, peptides, and analogues"
+93,S-Adenosylhomocysteine,HMDB0000939,120,C00021,"Nucleosides, nucleotides, and analogues"
+94,S-Adenosylhomocysteine,HMDB0000939,120,C00021,"Amino acids, peptides, and analogues"
+95,Homocysteine,HMDB0000742,121,C00155,"Amino acids, peptides, and analogues"
+96,Cysteine,HMDB0000574,123,C00097,"Amino acids, peptides, and analogues"
+97,"N6,N6,N6-Trimethyllysine",HMDB0001325,125,C03793,"Amino acids, peptides, and analogues"
+98,"N6,N6,N6-Trimethyllysine",HMDB0001325,125,C03793,Amines
+99,Valine,HMDB0000883,129,C00183,"Amino acids, peptides, and analogues"
+100,Pantothenic acid,HMDB0000210,132,C00864,"Amino acids, peptides, and analogues"
+101,Pantothenic acid,HMDB0000210,132,C00864,Vitamins and cofactors
+102,Pantetheine,HMDB0003426,136,C00831,"Amino acids, peptides, and analogues"
+103,Coenzyme A,HMDB0001423,138,C00010,Vitamins and cofactors
+104,Coenzyme A,HMDB0001423,138,C00010,"Nucleosides, nucleotides, and analogues"
+105,Serine,HMDB0000187,141,C00065,"Amino acids, peptides, and analogues"
+106,Tryptophan,HMDB0000929,148,C00078,"Amino acids, peptides, and analogues"
+107,Kynurenine,HMDB0000684,150,C00328,"Amino acids, peptides, and analogues"
+108,Kynurenic acid,HMDB0000715,151,C01717,Carboxylic acids
+109,3-Hydroxyanthranilic acid,HMDB0001476,154,C00632,"Amino acids, peptides, and analogues"
+110,Quinolinic acid,HMDB0000232,155,C03722,Carboxylic acids
+111,Nicotinamide adenine dinucleotide (NAD),HMDB0000902,158,C00003,"Nucleosides, nucleotides, and analogues"
+112,"Nicotinamide adenine dinucleotide, reduced (NADH)",HMDB0001487,159,C00004,"Nucleosides, nucleotides, and analogues"
+113,Niacinamide,HMDB0001406,160,C00153,Vitamins and cofactors
+114,Nicotinic acid,HMDB0001488,161,C00253,Carboxylic acids
+115,Nicotinic acid,HMDB0001488,161,C00253,Vitamins and cofactors
+116,Serotonin,HMDB0000259,165,C00780,"Amino acids, peptides, and analogues"
+117,5-Hydroxyindoleacetic acid,HMDB0000763,166,C05635,"Amino acids, peptides, and analogues"
+118,Melatonin,HMDB0001389,168,C01598,"Amino acids, peptides, and analogues"
+119,Nicotinamide riboside,HMDB0000855,169,C03150,"Nucleosides, nucleotides, and analogues"
+120,Nicotinamide ribotide,HMDB0000229,170,C00455,"Nucleosides, nucleotides, and analogues"
+121,Hypoxanthine,HMDB0000157,184,C00262,"Nucleosides, nucleotides, and analogues"
+122,Adenosine monophosphate,HMDB0000045,185,C00020,"Nucleosides, nucleotides, and analogues"
+123,Adenine,HMDB0000034,187,C00147,"Nucleosides, nucleotides, and analogues"
+124,Xanthine,HMDB0000292,190,C00385,"Nucleosides, nucleotides, and analogues"
+125,Guanine,HMDB0000132,193,C00242,"Nucleosides, nucleotides, and analogues"
+126,Adenosine diphosphate,HMDB0001341,194,C00008,"Nucleosides, nucleotides, and analogues"
+127,Adenosine triphosphate,HMDB0000538,195,C00002,"Nucleosides, nucleotides, and analogues"
+128,Cyclic adenosine monophosphate,HMDB0000058,198,C00575,"Nucleosides, nucleotides, and analogues"
+129,Ureidosuccinic acid,HMDB0000828,204,C00438,"Amino acids, peptides, and analogues"
+130,"4,5-Dihydroorotic acid",HMDB0000528,205,C00337,"Nucleosides, nucleotides, and analogues"
+131,Orotic acid,HMDB0000226,206,C00295,"Nucleosides, nucleotides, and analogues"
+132,Uridine,HMDB0000296,209,C00299,"Nucleosides, nucleotides, and analogues"
+133,Uracil,HMDB0000300,210,C00106,"Nucleosides, nucleotides, and analogues"
+134,Thymine,HMDB0000262,213,C00178,"Nucleosides, nucleotides, and analogues"
+135,Cytidine monophosphate,HMDB0000095,214,C00055,"Nucleosides, nucleotides, and analogues"
+136,Cytidine,HMDB0000089,215,C00475,"Nucleosides, nucleotides, and analogues"
+137,Cytosine,HMDB0000630,216,C00380,"Nucleosides, nucleotides, and analogues"
+138,Uridine diphosphate,HMDB0000295,217,C00015,"Nucleosides, nucleotides, and analogues"
+139,Choline,HMDB0000097,226,C00114,Amines
+140,Acetylcholine,HMDB0000895,227,C01996,Amines
+141,Thiamine,HMDB0000235,231,C00378,Vitamins and cofactors
+142,Riboflavin,HMDB0000244,232,C00255,Vitamins and cofactors
+143,Pyridoxine,HMDB0000239,233,C00314,Vitamins and cofactors
+144,Biotin,HMDB0000030,235,C00120,Vitamins and cofactors
+145,Cholecalciferol,HMDB0000876,236,C05443,Lipids and lipid-like molecules
+146,alpha-tocopherol,HMDB0001893,237,C02477,Lipids and lipid-like molecules
+147,alpha-tocopherol,HMDB0001893,237,C02477,Vitamins and cofactors
+148,Phylloquinone,HMDB0003555,238,C05850,Lipids and lipid-like molecules
+149,Phylloquinone,HMDB0003555,238,C05850,Vitamins and cofactors
+150,Flavin mononucleotide,HMDB0001520,239,C00061,Vitamins and cofactors
+151,Flavin mononucleotide,HMDB0001520,239,C00061,"Nucleosides, nucleotides, and analogues"
+152,Flavin adenine dinucleotide,HMDB0001248,241,C00016,Vitamins and cofactors
+153,Flavin adenine dinucleotide,HMDB0001248,241,C00016,"Nucleosides, nucleotides, and analogues"
+154,Phosphocreatine,HMDB0001511,246,C02305,"Amino acids, peptides, and analogues"
+155,Phosphocreatine,HMDB0001511,246,C02305,"Amino acids, peptides, and analogues"
+156,Glycerophosphocholine,HMDB0000086,250,C00670,Amines
+157,Propionylcarnitine,HMDB0000824,254,C03017,Amines
+158,Acetylcarnitine,HMDB0000201,257,C02571,Amines
+159,Phosphoserine,HMDB0000272,264,C01005,"Amino acids, peptides, and analogues"
+160,Uric acid,HMDB0000289,274,C00366,"Nucleosides, nucleotides, and analogues"
+161,Cholesteryl acetate,HMDB0003822,276,C02530,Lipids and lipid-like molecules
+162,Indole,HMDB0000738,310,C00463,"Amino acids, peptides, and analogues"
+163,Glucosamine,HMDB0001514,318,C00329,Carbohydrates
+164,Butyric acid,HMDB0000039,322,C00246,Carboxylic acids
+165,Glycerol 3-phosphate,HMDB0000126,323,C00093,Carbohydrates
+166,Retinoic acid,HMDB0001852,326,C00777,Lipids and lipid-like molecules
+167,Retinoic acid,HMDB0001852,326,C00777,Vitamins and cofactors
+168,Arachidonic acid,HMDB0001043,501,C00219,Lipids and lipid-like molecules
+169,PC 15:0-18:1,HMDB0007939,502,C00157,Lipids and lipid-like molecules
+170,TG 15:0-18:1-15:0,HMDB0043250,503,C00422,Lipids and lipid-like molecules
+171,MG 18:1,HMDB0011567,504,C01885,Lipids and lipid-like molecules
+172,Glucosyl cholesterol,HMDB0010330,505,C03033,Lipids and lipid-like molecules
+173,Cardiolipin 18:1,HMDB0010691,506,C05980,Lipids and lipid-like molecules
+174,DG 18:0-22:6,HMDB0007179,508,C00165,Lipids and lipid-like molecules
+175,PS (POPS) 16:0-18:1,HMDB0012357,509,C02737,Lipids and lipid-like molecules
+176,PG 16:0-18:1,HMDB0010574,510,C00344,Lipids and lipid-like molecules
+177,PA 16:0-18:1,HMDB0007859,511,C00416,Lipids and lipid-like molecules
+178,Lyso PI 17:1,HMDB0061693,512,C03819,Lipids and lipid-like molecules
+179,PI 16:0-18:1,HMDB0009783,513,C01194,Lipids and lipid-like molecules
+180,PI(5)P 18:1,HMDB0009974,514,C00626,Lipids and lipid-like molecules
+181,PE 18:0-20:4,HMDB0009003,515,C00350,Lipids and lipid-like molecules
+182,Lyso PC 15:0,HMDB0010381,516,C04230,Lipids and lipid-like molecules
+183,Lyso PE 18:0,HMDB0011130,517,C04438,Lipids and lipid-like molecules
+184,Lyso PA 18:1,HMDB0007855,518,C00681,Lipids and lipid-like molecules
+185,Lyso PG 16:0,HMDB0240601,519,C18126,Lipids and lipid-like molecules
+186,Lyso PS 17:1,HMDB0240603,520,C18125,Lipids and lipid-like molecules
+187,GM3 Ganglioside 18:0,HMDB0004845,521,C04730,Lipids and lipid-like molecules
+188,Cer d8:1/22:0 Cer,HMDB0004952,522,C00195,Lipids and lipid-like molecules
+189,GlcCer d18:1/18:0,HMDB0004972,523,C01190,Lipids and lipid-like molecules
+190,SM d18:1-16:0,HMDB0010169,524,C00550,Lipids and lipid-like molecules
+191,Sulfo GalCer 18:0(2S-OH),HMDB0012314,525,C06125,Lipids and lipid-like molecules
+192,CAR 16:0,HMDB0000222,526,C02990,Lipids and lipid-like molecules
+193,CAR 16:0,HMDB0000222,526,C02990,Amines
+194,PC (O) C16-18:1,HMDB0013426,527,C05212,Lipids and lipid-like molecules
+195,Prostaglandin E1,HMDB0001442,528,C04741,Lipids and lipid-like molecules
+196,Cholesteryl ester 17:0,HMDB0060059,529,C02530,Lipids and lipid-like molecules
