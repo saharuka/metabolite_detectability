@@ -9,3 +9,5 @@ __pycache__
 *.png
 *.svg
 **/catboost/*
+*/**/2021*.csv
+*/**/2022*.csv
