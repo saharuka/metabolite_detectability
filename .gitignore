@@ -8,9 +8,4 @@ __pycache__
 *.hdf5
 *.png
 *.svg
-*Draft*
-**/data_for_sharing/*
-**/manually_labelled_images_first_analysis_without_ML/*
 **/catboost/*
-**/additional_plots/*
-**/data_for_sharing/**/*

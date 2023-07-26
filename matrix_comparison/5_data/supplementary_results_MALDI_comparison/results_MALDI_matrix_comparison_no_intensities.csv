@@ -1,0 +1,1205 @@
+name_short,adduct,9AA,CHCA,CMBT,ClCCA,DAN,DHAP,DHB,MAPS,NEDC,NOR,PNDI,pNA
+2-Oxoglutaric acid,+H,-,-,-,-,-,-,-,-,-,-,-,X
+2-Oxoglutaric acid,+Na,-,V,-,V,V,V,V,-,-,-,-,-
+2-Oxoglutaric acid,+K,-,-,-,-,V,-,-,-,-,-,-,-
+2-Oxoglutaric acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,X
+2-Oxoglutaric acid,-H,V,V,V,V,V,V,V,V,-,V,V,V
+2-Oxoglutaric acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+2-Oxoglutaric acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+3-Hydroxyanthranilic acid,+H,-,V,-,V,-,V,X,-,-,-,V,-
+3-Hydroxyanthranilic acid,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+3-Hydroxyanthranilic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+3-Hydroxyanthranilic acid,[M]+,-,-,-,-,X,-,V,-,-,-,-,-
+3-Hydroxyanthranilic acid,-H,V,-,-,-,X,-,-,V,-,-,-,-
+3-Hydroxyanthranilic acid,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+3-Hydroxyanthranilic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+3-Hydroxymethylglutaric acid,+H,-,-,V,V,-,V,-,-,-,-,-,-
+3-Hydroxymethylglutaric acid,+Na,-,-,V,V,-,V,-,V,V,-,-,-
+3-Hydroxymethylglutaric acid,+K,-,-,V,V,-,V,X,-,-,-,-,-
+3-Hydroxymethylglutaric acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+3-Hydroxymethylglutaric acid,-H,-,-,V,V,-,V,-,V,V,-,-,-
+3-Hydroxymethylglutaric acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+3-Hydroxymethylglutaric acid,[M]-,-,-,-,-,X,-,-,-,-,-,-,-
+3-Phosphoglyceric acid,+H,-,V,-,V,-,-,V,-,-,-,-,-
+3-Phosphoglyceric acid,+Na,-,V,-,V,-,-,V,-,-,-,-,-
+3-Phosphoglyceric acid,+K,-,V,-,V,-,-,V,-,-,-,-,-
+3-Phosphoglyceric acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+3-Phosphoglyceric acid,-H,V,V,-,V,V,V,V,-,V,V,-,V
+3-Phosphoglyceric acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+3-Phosphoglyceric acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+"4,5-Dihydroorotic acid",+H,-,V,-,V,-,-,V,-,-,-,-,-
+"4,5-Dihydroorotic acid",+Na,-,V,V,V,V,V,V,-,-,-,-,V
+"4,5-Dihydroorotic acid",+K,-,V,-,-,-,-,-,-,-,-,-,-
+"4,5-Dihydroorotic acid",[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+"4,5-Dihydroorotic acid",-H,V,V,V,V,V,V,V,-,-,V,-,V
+"4,5-Dihydroorotic acid",+Cl,V,-,V,-,-,-,-,-,-,-,-,-
+"4,5-Dihydroorotic acid",[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+4-Hydroxyproline,+H,-,V,V,V,V,V,V,-,-,-,-,V
+4-Hydroxyproline,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+4-Hydroxyproline,+K,-,X,V,V,-,V,X,-,-,-,-,V
+4-Hydroxyproline,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+4-Hydroxyproline,-H,V,-,-,-,V,V,-,-,-,V,-,V
+4-Hydroxyproline,+Cl,V,X,-,-,V,-,-,-,-,-,-,-
+4-Hydroxyproline,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+5-Hydroxyindoleacetic acid,+H,-,X,V,V,-,V,V,-,-,-,-,-
+5-Hydroxyindoleacetic acid,+Na,-,X,V,V,V,V,V,-,-,V,-,V
+5-Hydroxyindoleacetic acid,+K,-,X,V,V,V,V,V,-,-,-,-,V
+5-Hydroxyindoleacetic acid,[M]+,-,X,V,V,X,V,V,-,-,X,-,X
+5-Hydroxyindoleacetic acid,-H,V,X,-,-,V,V,-,-,-,-,-,-
+5-Hydroxyindoleacetic acid,+Cl,-,-,-,-,-,-,X,-,-,-,-,-
+5-Hydroxyindoleacetic acid,[M]-,X,-,-,-,-,-,-,-,-,-,-,-
+6-Phosphogluconic acid,+H,-,V,-,-,-,-,-,-,-,-,-,-
+6-Phosphogluconic acid,+Na,-,V,-,V,-,-,V,-,-,-,-,-
+6-Phosphogluconic acid,+K,-,V,-,V,-,-,V,-,-,-,-,-
+6-Phosphogluconic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+6-Phosphogluconic acid,-H,V,V,-,V,-,-,V,-,-,V,-,V
+6-Phosphogluconic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+6-Phosphogluconic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Acetoacetic acid,+H,-,-,-,-,-,-,-,-,-,X,-,-
+Acetoacetic acid,+Na,-,X,X,-,X,X,X,-,-,X,-,-
+Acetoacetic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Acetoacetic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Acetoacetic acid,-H,X,-,X,-,X,X,X,X,X,X,X,X
+Acetoacetic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Acetoacetic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Acetyl-CoA,+H,-,V,-,V,-,-,V,-,-,V,-,V
+Acetyl-CoA,+Na,-,V,-,V,-,-,V,-,-,V,-,V
+Acetyl-CoA,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Acetyl-CoA,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Acetyl-CoA,-H,V,V,-,V,V,-,V,-,-,V,-,V
+Acetyl-CoA,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Acetyl-CoA,[M]-,-,V,-,-,-,-,-,-,-,V,-,V
+Acetylcarnitine,+H,V,V,V,V,V,V,V,-,V,V,-,V
+Acetylcarnitine,+Na,V,V,V,V,V,V,V,X,V,V,-,V
+Acetylcarnitine,+K,V,V,-,V,V,V,V,-,-,X,-,V
+Acetylcarnitine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Acetylcarnitine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Acetylcarnitine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Acetylcarnitine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Acetylcholine,+H,-,V,-,-,-,-,-,-,-,-,-,-
+Acetylcholine,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Acetylcholine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Acetylcholine,[M]+,V,V,V,V,V,V,V,V,V,V,V,V
+Acetylcholine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Acetylcholine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Acetylcholine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Adenine,+H,-,V,V,V,-,V,V,-,-,-,-,V
+Adenine,+Na,-,-,V,-,-,-,V,-,-,-,-,V
+Adenine,+K,-,-,-,-,-,-,-,-,-,-,-,V
+Adenine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Adenine,-H,V,-,-,-,V,-,-,V,-,V,-,V
+Adenine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Adenine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Adenosine diphosphate,+H,-,V,-,V,-,-,V,-,-,-,-,-
+Adenosine diphosphate,+Na,-,V,-,V,-,-,V,-,-,-,-,-
+Adenosine diphosphate,+K,-,V,-,V,-,-,V,-,-,V,-,-
+Adenosine diphosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Adenosine diphosphate,-H,V,V,-,V,-,-,V,-,-,V,-,-
+Adenosine diphosphate,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Adenosine diphosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Adenosine monophosphate,+H,V,V,V,V,V,V,V,-,-,V,-,V
+Adenosine monophosphate,+Na,V,V,V,V,V,V,V,-,-,V,-,-
+Adenosine monophosphate,+K,-,V,-,V,-,V,V,-,-,-,-,-
+Adenosine monophosphate,[M]+,-,-,-,X,-,X,-,-,-,-,-,-
+Adenosine monophosphate,-H,V,-,-,V,-,V,V,-,V,V,X,-
+Adenosine monophosphate,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Adenosine monophosphate,[M]-,-,-,-,-,-,-,-,-,-,-,X,-
+Adenosine triphosphate,+H,-,V,-,V,-,-,-,-,-,-,-,-
+Adenosine triphosphate,+Na,-,V,-,V,-,-,V,-,-,-,-,V
+Adenosine triphosphate,+K,-,V,-,-,-,-,-,-,-,-,-,-
+Adenosine triphosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Adenosine triphosphate,-H,V,V,-,V,V,-,V,-,-,V,-,V
+Adenosine triphosphate,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Adenosine triphosphate,[M]-,-,-,-,-,-,-,-,-,-,-,X,-
+Agmatine,+H,V,V,V,V,V,V,V,-,V,V,-,V
+Agmatine,+Na,V,V,V,V,V,V,V,-,-,-,-,V
+Agmatine,+K,-,V,V,-,-,V,V,-,-,X,-,-
+Agmatine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Agmatine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Agmatine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Agmatine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Arachidonic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Arachidonic acid,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Arachidonic acid,+K,-,-,-,-,-,-,-,-,X,-,-,-
+Arachidonic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Arachidonic acid,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Arachidonic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Arachidonic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Arginine,+H,V,V,V,V,V,V,V,V,V,V,V,V
+Arginine,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+Arginine,+K,-,V,V,V,V,V,V,-,-,-,-,V
+Arginine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Arginine,-H,V,V,-,-,V,V,-,-,-,V,-,V
+Arginine,+Cl,V,-,-,-,V,-,-,-,-,V,-,-
+Arginine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Argininosuccinic acid,+H,V,V,V,V,-,V,V,-,V,V,X,V
+Argininosuccinic acid,+Na,-,V,V,V,-,V,V,-,-,-,-,V
+Argininosuccinic acid,+K,-,V,V,V,-,-,V,-,-,-,-,V
+Argininosuccinic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Argininosuccinic acid,-H,V,V,-,-,V,V,-,-,-,V,-,V
+Argininosuccinic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Argininosuccinic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Ascorbic acid,+H,-,V,-,V,-,-,V,-,-,-,-,-
+Ascorbic acid,+Na,-,V,-,V,-,-,V,-,-,-,X,X
+Ascorbic acid,+K,-,V,-,V,-,-,V,-,-,-,-,V
+Ascorbic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Ascorbic acid,-H,V,V,-,V,V,V,V,-,-,V,-,V
+Ascorbic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Ascorbic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Asparagine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Asparagine,+Na,-,V,V,V,V,V,V,-,V,V,-,V
+Asparagine,+K,-,V,V,V,V,V,V,-,-,-,-,V
+Asparagine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Asparagine,-H,V,-,V,-,V,V,-,-,-,V,-,V
+Asparagine,+Cl,-,-,V,-,V,-,-,-,-,-,-,X
+Asparagine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Aspartic acid,+H,-,V,V,V,-,-,V,-,-,-,-,V
+Aspartic acid,+Na,-,V,V,V,V,-,V,-,-,-,V,V
+Aspartic acid,+K,-,V,-,-,-,-,-,-,-,-,-,-
+Aspartic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Aspartic acid,-H,V,V,V,-,V,-,V,-,-,V,-,V
+Aspartic acid,+Cl,-,-,-,-,V,-,X,-,-,-,-,-
+Aspartic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Biotin,+H,-,X,V,V,-,V,V,-,-,-,-,-
+Biotin,+Na,-,V,V,V,V,V,V,-,-,-,V,V
+Biotin,+K,-,V,V,V,V,V,V,-,-,-,-,-
+Biotin,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Biotin,-H,-,-,-,-,X,-,-,-,-,V,-,-
+Biotin,+Cl,-,-,V,-,-,-,-,-,-,-,-,-
+Biotin,[M]-,X,-,-,-,X,-,-,-,-,-,-,-
+Butyric acid,+H,-,-,-,-,-,-,-,-,-,X,-,-
+Butyric acid,+Na,-,X,-,-,-,-,X,-,-,-,-,-
+Butyric acid,+K,-,X,-,-,-,-,-,-,-,-,-,-
+Butyric acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Butyric acid,-H,X,-,X,-,X,-,X,X,X,X,X,X
+Butyric acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Butyric acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+CAR 16:0,+H,V,V,V,V,V,V,V,V,V,V,-,V
+CAR 16:0,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+CAR 16:0,+K,V,V,V,V,V,V,V,-,V,V,-,V
+CAR 16:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+CAR 16:0,-H,-,-,-,-,-,-,-,-,-,-,-,-
+CAR 16:0,+Cl,-,-,-,-,-,-,-,-,V,-,-,-
+CAR 16:0,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Carbamoyl phosphate,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Carbamoyl phosphate,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Carbamoyl phosphate,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Carbamoyl phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Carbamoyl phosphate,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Carbamoyl phosphate,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Carbamoyl phosphate,[M]-,X,-,-,-,-,-,-,-,-,-,-,-
+Cardiolipin 18:1,+H,-,-,-,V,-,-,V,-,-,-,-,-
+Cardiolipin 18:1,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+Cardiolipin 18:1,+K,-,-,-,-,-,-,V,-,-,-,-,-
+Cardiolipin 18:1,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cardiolipin 18:1,-H,V,V,-,-,V,V,V,V,V,V,-,V
+Cardiolipin 18:1,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Cardiolipin 18:1,[M]-,V,V,V,-,V,V,V,V,V,V,-,V
+Carnitine,+H,V,V,V,V,V,V,V,-,V,V,-,V
+Carnitine,+Na,V,V,V,V,V,V,V,X,-,X,-,V
+Carnitine,+K,-,V,V,V,-,V,V,-,-,-,-,V
+Carnitine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Carnitine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Carnitine,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Carnitine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Carnosine,+H,-,V,V,V,V,V,V,-,-,V,-,V
+Carnosine,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Carnosine,+K,-,V,V,V,-,V,V,-,-,-,-,X
+Carnosine,[M]+,-,V,-,-,-,-,-,-,-,-,-,-
+Carnosine,-H,V,V,V,V,V,V,V,-,-,V,-,V
+Carnosine,+Cl,V,-,V,V,V,-,-,-,-,V,-,-
+Carnosine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cer d8:1/22:0 Cer,+H,-,V,V,V,V,V,V,V,V,V,-,V
+Cer d8:1/22:0 Cer,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Cer d8:1/22:0 Cer,+K,-,V,V,V,V,V,V,-,-,-,-,V
+Cer d8:1/22:0 Cer,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cer d8:1/22:0 Cer,-H,V,-,-,-,V,V,-,V,-,V,-,-
+Cer d8:1/22:0 Cer,+Cl,V,-,V,-,V,V,-,V,V,V,-,-
+Cer d8:1/22:0 Cer,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cholecalciferol,+H,-,-,-,-,V,-,V,-,V,-,-,-
+Cholecalciferol,+Na,-,-,-,-,V,-,-,-,V,-,-,-
+Cholecalciferol,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Cholecalciferol,[M]+,-,-,-,V,-,-,-,-,-,-,-,-
+Cholecalciferol,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Cholecalciferol,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Cholecalciferol,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesterol,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesterol,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesterol,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesterol,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesterol,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesterol,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesterol,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl acetate,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl acetate,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl acetate,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl acetate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl acetate,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl acetate,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl acetate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl ester 17:0,+H,-,-,-,-,-,-,V,-,-,-,-,-
+Cholesteryl ester 17:0,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+Cholesteryl ester 17:0,+K,-,V,V,V,-,V,V,-,-,-,-,V
+Cholesteryl ester 17:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl ester 17:0,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl ester 17:0,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Cholesteryl ester 17:0,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cholic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Cholic acid,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Cholic acid,+K,-,V,V,V,V,V,V,-,-,-,-,V
+Cholic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cholic acid,-H,V,V,-,V,V,V,-,V,V,V,-,-
+Cholic acid,+Cl,-,-,-,-,-,V,-,-,-,-,-,-
+Cholic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Choline,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Choline,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Choline,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Choline,[M]+,V,V,V,V,V,V,V,V,V,V,V,V
+Choline,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Choline,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Choline,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Citric acid,+H,-,V,-,-,-,-,-,-,-,-,-,-
+Citric acid,+Na,-,V,V,V,-,V,V,-,-,V,-,V
+Citric acid,+K,-,V,X,V,-,-,V,-,-,-,-,V
+Citric acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Citric acid,-H,V,V,V,V,V,V,V,-,-,V,-,V
+Citric acid,+Cl,-,-,-,-,-,-,-,-,-,-,X,-
+Citric acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Citrulline,+H,-,V,V,V,V,-,V,-,-,V,-,V
+Citrulline,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Citrulline,+K,-,V,V,V,V,-,V,-,-,V,-,V
+Citrulline,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Citrulline,-H,V,V,-,V,V,-,-,-,-,V,-,V
+Citrulline,+Cl,V,-,V,V,V,-,-,-,-,V,-,-
+Citrulline,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Coenzyme A,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Coenzyme A,+Na,-,V,-,V,V,V,V,-,-,-,-,V
+Coenzyme A,+K,-,V,-,V,-,-,-,-,-,-,-,V
+Coenzyme A,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Coenzyme A,-H,V,V,-,V,V,V,V,-,-,V,-,-
+Coenzyme A,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Coenzyme A,[M]-,-,-,-,-,-,-,-,-,-,V,-,V
+Creatine,+H,-,V,V,V,V,V,V,-,-,V,-,V
+Creatine,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Creatine,+K,-,V,V,V,V,V,V,-,-,-,-,V
+Creatine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Creatine,-H,V,-,-,-,V,V,-,-,-,V,-,-
+Creatine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Creatine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Creatinine,+H,-,V,V,V,V,V,V,-,V,V,V,V
+Creatinine,+Na,V,V,V,V,V,V,V,-,-,V,V,V
+Creatinine,+K,V,V,V,V,V,V,V,-,V,V,-,V
+Creatinine,[M]+,-,V,-,-,-,-,V,-,-,V,-,V
+Creatinine,-H,V,-,-,-,V,-,V,-,-,V,-,V
+Creatinine,+Cl,-,-,-,-,-,-,-,-,-,-,-,X
+Creatinine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cyclic adenosine monophosphate,+H,V,V,-,V,-,-,V,-,-,V,X,-
+Cyclic adenosine monophosphate,+Na,V,V,V,V,V,V,V,-,-,V,-,-
+Cyclic adenosine monophosphate,+K,-,-,-,V,-,-,V,-,-,-,-,V
+Cyclic adenosine monophosphate,[M]+,-,-,-,-,-,-,-,-,-,-,X,-
+Cyclic adenosine monophosphate,-H,-,-,-,-,-,V,V,-,-,-,-,-
+Cyclic adenosine monophosphate,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Cyclic adenosine monophosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cysteine,+H,-,V,-,V,-,V,V,-,V,V,-,V
+Cysteine,+Na,-,V,-,V,-,V,V,-,V,V,-,V
+Cysteine,+K,-,-,-,V,-,-,-,-,-,-,-,-
+Cysteine,[M]+,-,V,-,V,-,-,-,-,-,-,-,-
+Cysteine,-H,V,V,-,V,V,V,-,V,-,V,-,V
+Cysteine,+Cl,-,-,-,-,V,-,-,-,-,-,-,-
+Cysteine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cystine,+H,-,V,-,-,-,-,V,-,-,-,-,-
+Cystine,+Na,-,V,-,-,-,-,V,-,-,-,-,-
+Cystine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Cystine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cystine,-H,V,-,-,-,V,-,-,-,-,-,-,-
+Cystine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Cystine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cytidine,+H,-,V,V,V,V,V,V,-,-,V,-,V
+Cytidine,+Na,V,V,V,V,V,V,V,-,V,V,-,V
+Cytidine,+K,-,V,V,V,V,V,V,-,-,-,-,-
+Cytidine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cytidine,-H,V,-,-,-,V,-,-,-,-,V,-,V
+Cytidine,+Cl,-,-,-,-,V,-,-,-,-,-,-,-
+Cytidine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cytidine monophosphate,+H,-,V,-,V,-,-,V,-,-,-,-,V
+Cytidine monophosphate,+Na,V,V,V,V,V,-,V,-,-,V,-,V
+Cytidine monophosphate,+K,V,V,V,V,-,-,V,-,-,V,-,V
+Cytidine monophosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cytidine monophosphate,-H,-,-,-,-,-,-,-,-,-,V,-,-
+Cytidine monophosphate,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Cytidine monophosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Cytosine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Cytosine,+Na,V,V,V,V,V,V,V,-,V,V,-,V
+Cytosine,+K,-,V,-,V,V,V,V,-,-,-,-,V
+Cytosine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Cytosine,-H,V,-,-,-,V,-,-,-,-,-,-,V
+Cytosine,+Cl,X,-,-,-,-,-,-,-,-,-,-,-
+Cytosine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+DG 18:0-22:6,+H,-,-,-,-,-,-,-,-,-,-,-,-
+DG 18:0-22:6,+Na,-,V,V,V,-,V,V,-,-,-,-,-
+DG 18:0-22:6,+K,-,-,V,V,-,V,-,-,-,-,-,-
+DG 18:0-22:6,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+DG 18:0-22:6,-H,-,-,-,-,-,-,-,-,-,-,-,-
+DG 18:0-22:6,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+DG 18:0-22:6,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Dihydroxyacetone,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Dihydroxyacetone,+Na,-,-,X,X,X,-,X,-,-,-,-,-
+Dihydroxyacetone,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Dihydroxyacetone,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Dihydroxyacetone,-H,X,-,X,-,-,-,X,X,X,X,-,-
+Dihydroxyacetone,+Cl,-,-,X,-,-,-,-,-,X,-,-,-
+Dihydroxyacetone,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Dihydroxyacetone phosphate,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Dihydroxyacetone phosphate,+Na,-,V,-,V,-,V,V,-,-,-,-,-
+Dihydroxyacetone phosphate,+K,-,V,-,V,-,-,-,-,-,-,-,-
+Dihydroxyacetone phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Dihydroxyacetone phosphate,-H,V,V,-,-,-,-,V,-,-,V,-,-
+Dihydroxyacetone phosphate,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Dihydroxyacetone phosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Dopamine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Dopamine,+Na,-,-,V,V,-,V,V,-,-,V,-,V
+Dopamine,+K,-,-,-,-,-,V,-,-,-,-,-,-
+Dopamine,[M]+,-,V,V,V,-,V,V,-,-,V,-,V
+Dopamine,-H,V,-,-,-,V,V,-,-,-,V,-,V
+Dopamine,+Cl,-,-,-,-,V,-,X,-,-,V,-,-
+Dopamine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Epinephrine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Epinephrine,+Na,-,V,V,-,-,V,V,-,-,X,-,V
+Epinephrine,+K,-,X,-,-,-,-,-,-,-,-,-,-
+Epinephrine,[M]+,-,V,V,V,X,-,V,-,-,-,-,-
+Epinephrine,-H,V,-,-,-,V,V,-,-,-,V,-,V
+Epinephrine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Epinephrine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Estradiol,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Estradiol,+Na,-,-,-,-,-,-,V,-,-,-,-,-
+Estradiol,+K,-,-,-,-,X,-,-,-,-,-,-,-
+Estradiol,[M]+,-,V,-,V,-,V,V,-,-,-,V,V
+Estradiol,-H,-,-,-,-,V,-,-,-,-,-,V,-
+Estradiol,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Estradiol,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Flavin adenine dinucleotide,+H,-,V,-,V,-,-,V,-,-,-,-,V
+Flavin adenine dinucleotide,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+Flavin adenine dinucleotide,+K,-,-,-,-,-,-,-,-,-,-,-,V
+Flavin adenine dinucleotide,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Flavin adenine dinucleotide,-H,V,V,-,V,V,-,V,-,-,V,-,-
+Flavin adenine dinucleotide,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Flavin adenine dinucleotide,[M]-,V,-,V,V,V,-,V,-,-,V,-,V
+Flavin mononucleotide,+H,V,V,V,V,V,-,V,-,-,V,-,V
+Flavin mononucleotide,+Na,V,V,V,V,V,X,V,V,-,V,-,V
+Flavin mononucleotide,+K,V,V,V,V,V,-,X,-,-,V,-,V
+Flavin mononucleotide,[M]+,-,X,-,V,-,-,V,-,-,-,-,-
+Flavin mononucleotide,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Flavin mononucleotide,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Flavin mononucleotide,[M]-,V,-,V,-,-,-,-,-,-,V,-,-
+Folic acid,+H,-,-,V,V,-,V,V,-,-,-,-,V
+Folic acid,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Folic acid,+K,V,-,V,V,V,-,V,-,-,-,-,V
+Folic acid,[M]+,-,-,V,V,-,-,V,-,-,X,-,-
+Folic acid,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Folic acid,+Cl,-,X,-,-,X,-,-,-,-,-,-,-
+Folic acid,[M]-,-,-,V,-,-,-,-,X,-,-,-,V
+"Fructose 1,6-bisphosphate",+H,-,-,-,-,-,-,-,-,-,-,-,-
+"Fructose 1,6-bisphosphate",+Na,-,V,-,V,-,V,V,-,-,V,-,-
+"Fructose 1,6-bisphosphate",+K,-,V,-,V,-,-,V,-,-,-,-,-
+"Fructose 1,6-bisphosphate",[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+"Fructose 1,6-bisphosphate",-H,V,V,-,V,-,V,V,-,-,V,-,-
+"Fructose 1,6-bisphosphate",+Cl,-,-,X,-,-,-,-,-,-,-,-,-
+"Fructose 1,6-bisphosphate",[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Fumaric acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Fumaric acid,+Na,-,V,V,-,V,X,V,-,-,-,-,-
+Fumaric acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Fumaric acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Fumaric acid,-H,X,V,V,V,V,X,V,V,V,V,V,V
+Fumaric acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Fumaric acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+GM3 Ganglioside 18:0,+H,-,-,-,-,-,V,V,-,-,-,-,-
+GM3 Ganglioside 18:0,+Na,-,V,V,V,V,V,V,-,V,V,-,V
+GM3 Ganglioside 18:0,+K,-,V,V,V,-,V,V,-,-,-,-,V
+GM3 Ganglioside 18:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+GM3 Ganglioside 18:0,-H,V,V,V,-,V,V,V,-,-,V,-,-
+GM3 Ganglioside 18:0,+Cl,V,-,-,-,-,-,-,-,-,V,-,-
+GM3 Ganglioside 18:0,[M]-,-,-,V,-,V,-,-,-,-,V,-,V
+GlcCer d18:1/18:0,+H,-,V,V,V,V,V,V,V,V,V,-,V
+GlcCer d18:1/18:0,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+GlcCer d18:1/18:0,+K,V,V,V,V,V,V,V,V,V,V,-,V
+GlcCer d18:1/18:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+GlcCer d18:1/18:0,-H,V,-,-,V,V,V,-,V,V,V,-,V
+GlcCer d18:1/18:0,+Cl,V,-,-,-,V,V,-,V,V,V,-,V
+GlcCer d18:1/18:0,[M]-,-,-,-,-,-,-,-,-,-,-,V,V
+Gluconic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Gluconic acid,+Na,-,V,V,V,V,-,V,-,-,-,-,V
+Gluconic acid,+K,-,V,-,V,-,-,V,-,-,-,X,-
+Gluconic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Gluconic acid,-H,V,V,V,V,V,V,V,-,-,V,-,V
+Gluconic acid,+Cl,-,-,-,-,-,-,-,-,-,-,X,-
+Gluconic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glucosamine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Glucosamine,+Na,-,V,V,V,V,V,V,-,-,V,-,-
+Glucosamine,+K,-,V,-,V,-,V,V,-,-,-,-,-
+Glucosamine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glucosamine,-H,-,-,-,-,V,-,-,-,-,-,-,-
+Glucosamine,+Cl,X,X,-,-,X,-,-,X,V,X,X,-
+Glucosamine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glucosamine 6-phosphate,+H,-,V,-,V,-,-,V,-,-,-,X,V
+Glucosamine 6-phosphate,+Na,-,V,V,V,-,V,V,-,-,-,-,V
+Glucosamine 6-phosphate,+K,-,V,-,V,-,-,V,-,-,-,-,V
+Glucosamine 6-phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glucosamine 6-phosphate,-H,V,V,-,-,V,V,V,-,-,V,X,V
+Glucosamine 6-phosphate,+Cl,V,-,-,-,V,-,-,-,-,V,-,-
+Glucosamine 6-phosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glucose,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Glucose,+Na,-,V,-,V,V,V,V,-,-,-,X,V
+Glucose,+K,-,X,X,V,-,V,X,-,-,-,-,-
+Glucose,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glucose,-H,V,-,-,-,V,V,-,-,-,V,-,V
+Glucose,+Cl,V,-,-,-,V,-,-,-,-,V,-,-
+Glucose,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glucose 6-phosphate,+H,-,V,-,-,-,-,-,-,-,-,X,-
+Glucose 6-phosphate,+Na,-,V,-,V,-,-,-,-,-,-,-,V
+Glucose 6-phosphate,+K,-,V,-,V,-,-,-,-,-,-,-,-
+Glucose 6-phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glucose 6-phosphate,-H,V,V,-,-,V,-,-,-,-,V,-,V
+Glucose 6-phosphate,+Cl,V,-,-,-,-,-,-,-,-,V,-,-
+Glucose 6-phosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glucosyl cholesterol,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Glucosyl cholesterol,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Glucosyl cholesterol,+K,-,V,V,V,V,V,V,-,-,V,-,V
+Glucosyl cholesterol,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glucosyl cholesterol,-H,V,-,-,-,V,-,-,V,-,V,-,V
+Glucosyl cholesterol,+Cl,V,-,V,-,V,V,-,V,V,V,-,V
+Glucosyl cholesterol,[M]-,-,-,-,-,-,-,-,-,-,-,-,V
+Glutamic acid,+H,-,V,V,V,V,-,V,-,-,-,-,V
+Glutamic acid,+Na,-,V,V,V,V,-,V,-,-,V,-,V
+Glutamic acid,+K,-,X,-,V,V,-,V,-,-,-,-,-
+Glutamic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glutamic acid,-H,V,V,V,V,V,V,V,-,-,V,-,V
+Glutamic acid,+Cl,V,X,-,-,V,-,-,-,-,-,-,-
+Glutamic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glutamine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Glutamine,+Na,V,V,V,V,V,V,V,-,-,X,-,V
+Glutamine,+K,-,V,-,V,V,V,V,-,-,-,-,V
+Glutamine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glutamine,-H,V,-,-,-,V,V,-,-,-,V,-,V
+Glutamine,+Cl,V,-,-,-,V,-,-,-,-,-,-,-
+Glutamine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glutathione,+H,-,X,V,V,V,V,V,-,-,-,-,V
+Glutathione,+Na,V,V,V,V,V,V,V,-,-,V,-,-
+Glutathione,+K,-,V,V,V,-,V,V,-,-,V,-,V
+Glutathione,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glutathione,-H,V,-,-,V,V,V,V,-,-,V,-,V
+Glutathione,+Cl,-,-,-,-,-,-,-,-,-,-,X,-
+Glutathione,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glycerol 3-phosphate,+H,-,X,-,-,-,X,-,-,-,-,-,-
+Glycerol 3-phosphate,+Na,-,V,-,V,-,-,-,-,-,-,-,-
+Glycerol 3-phosphate,+K,-,V,-,V,-,-,-,-,-,-,-,-
+Glycerol 3-phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glycerol 3-phosphate,-H,V,V,-,-,V,-,-,-,-,V,-,-
+Glycerol 3-phosphate,+Cl,V,-,-,-,-,-,-,-,V,-,-,-
+Glycerol 3-phosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glycerophosphocholine,+H,V,V,V,V,V,V,V,-,V,V,-,V
+Glycerophosphocholine,+Na,V,V,V,V,V,-,V,-,-,V,-,V
+Glycerophosphocholine,+K,V,V,V,V,V,X,V,-,-,V,-,V
+Glycerophosphocholine,[M]+,-,-,-,-,X,-,-,-,-,-,-,-
+Glycerophosphocholine,-H,-,-,-,-,X,-,-,-,-,-,-,-
+Glycerophosphocholine,+Cl,X,-,-,-,X,-,-,-,-,X,-,-
+Glycerophosphocholine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Glycine,+H,-,V,-,-,-,-,-,-,-,-,-,-
+Glycine,+Na,-,V,-,V,-,V,V,-,-,-,-,V
+Glycine,+K,-,V,-,V,-,-,-,-,-,-,-,-
+Glycine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Glycine,-H,V,-,-,-,-,-,-,-,-,V,-,-
+Glycine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Glycine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Guanine,+H,-,-,-,V,-,-,V,-,-,-,-,V
+Guanine,+Na,V,-,V,V,V,-,V,-,-,V,-,V
+Guanine,+K,-,-,-,-,-,-,V,-,-,-,-,V
+Guanine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Guanine,-H,V,-,-,-,V,-,-,-,-,V,-,V
+Guanine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Guanine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Histamine,+H,V,V,V,V,V,V,V,-,V,V,-,V
+Histamine,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Histamine,+K,-,V,-,V,-,V,V,-,-,-,-,V
+Histamine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Histamine,-H,V,-,-,-,V,-,-,-,-,V,-,V
+Histamine,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Histamine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Histidine,+H,-,V,V,V,V,V,V,-,X,V,-,X
+Histidine,+Na,V,V,V,V,V,-,V,-,-,V,-,V
+Histidine,+K,-,V,V,V,-,-,V,-,-,V,-,V
+Histidine,[M]+,-,-,-,-,X,-,-,-,X,-,-,X
+Histidine,-H,V,V,V,-,V,V,-,-,-,V,V,V
+Histidine,+Cl,-,-,V,-,X,-,-,-,-,-,-,-
+Histidine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Homocysteine,+H,-,V,-,V,V,V,V,-,-,-,-,V
+Homocysteine,+Na,-,-,-,V,-,V,V,-,-,-,-,V
+Homocysteine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Homocysteine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Homocysteine,-H,-,-,-,-,V,-,-,-,-,V,-,V
+Homocysteine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Homocysteine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Hypoxanthine,+H,-,V,V,V,-,V,V,-,-,-,-,V
+Hypoxanthine,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Hypoxanthine,+K,V,V,-,V,-,V,V,-,-,-,-,V
+Hypoxanthine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Hypoxanthine,-H,V,V,-,-,V,V,V,-,-,V,-,V
+Hypoxanthine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Hypoxanthine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Indole,+H,-,X,-,-,X,-,-,-,-,-,-,X
+Indole,+Na,-,X,-,-,X,-,-,-,-,X,-,X
+Indole,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Indole,[M]+,-,-,-,-,X,-,-,-,-,-,-,X
+Indole,-H,-,X,-,-,X,-,-,X,-,X,-,X
+Indole,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Indole,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Kynurenic acid,+H,-,X,V,V,-,V,V,-,-,-,-,V
+Kynurenic acid,+Na,-,X,V,X,V,V,V,-,-,-,-,V
+Kynurenic acid,+K,-,-,-,X,-,-,V,-,-,-,-,-
+Kynurenic acid,[M]+,-,X,-,-,X,-,-,-,-,X,-,-
+Kynurenic acid,-H,V,X,V,X,X,-,-,V,V,X,-,V
+Kynurenic acid,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Kynurenic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Kynurenine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Kynurenine,+Na,V,V,V,V,V,V,V,-,V,-,-,V
+Kynurenine,+K,-,X,V,-,V,V,V,-,-,-,-,V
+Kynurenine,[M]+,-,-,-,V,-,-,-,-,-,-,-,X
+Kynurenine,-H,V,-,-,-,V,-,-,V,-,V,-,V
+Kynurenine,+Cl,-,-,-,-,V,-,-,-,-,-,-,-
+Kynurenine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+L-Dopa,+H,-,V,-,V,-,V,V,-,-,-,-,V
+L-Dopa,+Na,-,V,-,V,-,V,V,-,-,V,-,V
+L-Dopa,+K,-,-,-,V,-,-,V,-,-,-,-,V
+L-Dopa,[M]+,-,-,-,-,X,-,V,-,-,-,-,-
+L-Dopa,-H,V,-,-,-,V,V,-,-,-,V,-,V
+L-Dopa,+Cl,-,-,-,-,V,-,X,-,-,V,-,V
+L-Dopa,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Lactic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Lactic acid,+Na,-,-,X,-,X,-,X,-,-,X,-,-
+Lactic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Lactic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Lactic acid,-H,X,-,-,-,-,X,X,X,X,X,-,X
+Lactic acid,+Cl,-,-,-,-,-,-,-,-,X,-,-,-
+Lactic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PA 18:1,+H,-,V,-,V,-,-,V,-,-,-,-,-
+Lyso PA 18:1,+Na,V,V,V,V,V,V,V,-,V,V,-,V
+Lyso PA 18:1,+K,-,V,V,V,-,V,V,-,V,V,-,V
+Lyso PA 18:1,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PA 18:1,-H,-,-,-,-,-,V,-,V,-,-,-,-
+Lyso PA 18:1,+Cl,V,-,-,-,-,-,-,-,V,-,-,-
+Lyso PA 18:1,[M]-,-,V,V,-,-,-,-,-,-,-,-,V
+Lyso PC 15:0,+H,V,V,V,V,V,V,V,V,V,V,-,V
+Lyso PC 15:0,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Lyso PC 15:0,+K,V,V,V,V,V,V,V,-,V,V,-,V
+Lyso PC 15:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PC 15:0,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PC 15:0,+Cl,V,-,-,-,V,V,-,-,V,V,-,-
+Lyso PC 15:0,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PE 18:0,+H,-,V,V,V,V,V,V,V,V,V,-,V
+Lyso PE 18:0,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Lyso PE 18:0,+K,-,V,V,V,V,V,V,-,V,V,-,V
+Lyso PE 18:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PE 18:0,-H,V,-,-,V,-,V,V,V,V,V,-,-
+Lyso PE 18:0,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PE 18:0,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PG 16:0,+H,-,V,V,V,-,V,X,-,V,-,-,V
+Lyso PG 16:0,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Lyso PG 16:0,+K,-,V,V,V,-,V,V,-,V,V,-,V
+Lyso PG 16:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PG 16:0,-H,V,V,-,V,V,V,V,V,V,-,-,-
+Lyso PG 16:0,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PG 16:0,[M]-,-,-,V,-,-,-,-,-,-,-,-,V
+Lyso PI 17:1,+H,-,V,V,V,-,V,V,-,-,-,-,-
+Lyso PI 17:1,+Na,V,V,V,V,V,V,V,-,V,V,-,V
+Lyso PI 17:1,+K,-,V,V,V,-,V,V,-,V,-,-,V
+Lyso PI 17:1,[M]+,-,-,-,-,-,-,-,X,-,-,-,-
+Lyso PI 17:1,-H,V,V,V,V,V,V,V,V,V,V,V,V
+Lyso PI 17:1,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PI 17:1,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Lyso PS 17:1,+H,-,V,V,V,V,V,V,V,V,V,-,V
+Lyso PS 17:1,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Lyso PS 17:1,+K,-,V,V,V,V,V,V,X,V,V,-,V
+Lyso PS 17:1,[M]+,-,-,V,-,-,-,-,-,-,-,-,-
+Lyso PS 17:1,-H,V,V,V,V,V,V,V,V,V,V,-,V
+Lyso PS 17:1,+Cl,V,-,-,-,-,-,-,-,-,V,-,-
+Lyso PS 17:1,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+MG 18:1,+H,-,-,V,V,-,-,V,-,-,-,-,-
+MG 18:1,+Na,V,V,V,V,V,V,V,-,-,V,-,-
+MG 18:1,+K,-,-,V,V,-,V,V,-,-,-,-,-
+MG 18:1,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+MG 18:1,-H,-,-,-,-,-,-,-,-,-,-,-,-
+MG 18:1,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+MG 18:1,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Malic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Malic acid,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+Malic acid,+K,-,V,-,V,V,-,V,-,-,-,-,V
+Malic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,X
+Malic acid,-H,V,V,V,V,V,V,V,V,V,V,V,V
+Malic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Malic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Malonic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Malonic acid,+Na,-,V,-,V,-,V,V,-,-,V,-,-
+Malonic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Malonic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Malonic acid,-H,V,V,-,V,-,V,V,-,V,V,-,V
+Malonic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Malonic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Melatonin,+H,-,V,V,V,V,V,V,-,-,-,-,-
+Melatonin,+Na,-,V,V,V,V,V,V,-,V,V,-,V
+Melatonin,+K,-,-,V,V,V,V,V,-,-,-,-,-
+Melatonin,[M]+,-,V,V,V,V,V,V,-,-,-,-,V
+Melatonin,-H,V,-,-,-,V,-,-,-,-,V,-,-
+Melatonin,+Cl,-,-,-,-,-,-,-,X,-,-,-,-
+Melatonin,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Methionine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Methionine,+Na,-,V,V,-,V,V,V,-,-,-,-,V
+Methionine,+K,-,V,-,-,-,-,V,-,-,-,-,-
+Methionine,[M]+,-,V,-,-,-,-,-,-,-,-,-,-
+Methionine,-H,V,-,-,-,V,-,-,-,-,V,-,V
+Methionine,+Cl,-,-,-,-,V,-,-,-,-,-,-,-
+Methionine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Mevalonic acid,+H,-,V,-,-,-,-,V,-,-,-,-,-
+Mevalonic acid,+Na,V,V,X,X,V,V,V,-,-,-,-,X
+Mevalonic acid,+K,-,X,-,-,-,X,V,-,-,-,-,-
+Mevalonic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Mevalonic acid,-H,V,V,-,-,V,V,-,-,-,V,-,V
+Mevalonic acid,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Mevalonic acid,[M]-,-,-,-,-,X,-,-,-,-,-,-,-
+Myo-inositol 1-phosphate,+H,-,V,-,V,-,-,-,-,-,-,-,-
+Myo-inositol 1-phosphate,+Na,-,V,-,V,-,V,-,-,-,-,-,-
+Myo-inositol 1-phosphate,+K,-,V,-,V,-,-,-,-,-,-,-,-
+Myo-inositol 1-phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Myo-inositol 1-phosphate,-H,V,V,-,V,V,-,V,-,-,V,-,V
+Myo-inositol 1-phosphate,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Myo-inositol 1-phosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+N-Acetylaspartic acid,+H,-,V,V,V,-,V,V,-,-,-,-,V
+N-Acetylaspartic acid,+Na,-,V,V,V,V,V,V,-,-,-,-,V
+N-Acetylaspartic acid,+K,-,V,-,V,V,V,V,-,-,-,-,V
+N-Acetylaspartic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+N-Acetylaspartic acid,-H,V,V,V,V,V,V,V,V,-,V,-,V
+N-Acetylaspartic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+N-Acetylaspartic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+N-Acetylaspartylglutamic acid,+H,-,V,V,V,-,V,V,-,-,-,-,-
+N-Acetylaspartylglutamic acid,+Na,V,V,V,V,V,V,V,-,V,V,-,V
+N-Acetylaspartylglutamic acid,+K,V,V,V,V,-,-,V,-,-,-,-,V
+N-Acetylaspartylglutamic acid,[M]+,-,-,-,-,-,X,-,-,-,-,-,-
+N-Acetylaspartylglutamic acid,-H,V,V,V,V,V,V,V,-,V,V,-,V
+N-Acetylaspartylglutamic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+N-Acetylaspartylglutamic acid,[M]-,-,-,-,-,-,X,-,-,-,-,-,-
+N-Acetylgalactosamine 6-phosphate,+H,-,V,-,V,-,-,V,-,-,-,X,-
+N-Acetylgalactosamine 6-phosphate,+Na,-,-,V,V,-,V,V,-,-,-,-,V
+N-Acetylgalactosamine 6-phosphate,+K,-,V,-,V,-,-,V,-,-,-,-,-
+N-Acetylgalactosamine 6-phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+N-Acetylgalactosamine 6-phosphate,-H,V,-,-,V,V,V,V,-,-,V,-,-
+N-Acetylgalactosamine 6-phosphate,+Cl,-,-,-,-,-,X,-,-,-,-,-,-
+N-Acetylgalactosamine 6-phosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+N-Acetylglucosamine,+H,-,V,V,V,-,V,V,-,-,V,-,V
+N-Acetylglucosamine,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+N-Acetylglucosamine,+K,-,V,V,V,-,V,V,-,V,V,X,V
+N-Acetylglucosamine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+N-Acetylglucosamine,-H,V,-,-,-,V,-,-,-,-,V,-,V
+N-Acetylglucosamine,+Cl,V,-,V,V,V,-,-,-,-,V,-,-
+N-Acetylglucosamine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+"N6,N6,N6-Trimethyllysine",+H,V,V,V,V,V,V,V,-,V,V,-,V
+"N6,N6,N6-Trimethyllysine",+Na,V,V,V,V,V,V,V,-,-,V,-,V
+"N6,N6,N6-Trimethyllysine",+K,V,V,-,V,-,V,V,-,-,V,-,V
+"N6,N6,N6-Trimethyllysine",[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+"N6,N6,N6-Trimethyllysine",-H,-,-,-,-,-,-,-,-,-,-,-,-
+"N6,N6,N6-Trimethyllysine",+Cl,V,-,-,-,V,-,-,-,-,V,-,V
+"N6,N6,N6-Trimethyllysine",[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Niacinamide,+H,-,V,V,V,-,V,V,-,-,-,V,-
+Niacinamide,+Na,-,-,V,-,-,-,V,-,-,-,-,X
+Niacinamide,+K,-,-,-,-,-,-,-,-,-,-,-,X
+Niacinamide,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Niacinamide,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Niacinamide,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Niacinamide,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide adenine dinucleotide (NAD),+H,-,-,-,-,-,-,-,-,-,-,X,-
+Nicotinamide adenine dinucleotide (NAD),+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide adenine dinucleotide (NAD),+K,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide adenine dinucleotide (NAD),[M]+,V,V,-,V,-,-,V,-,-,V,X,V
+Nicotinamide adenine dinucleotide (NAD),-H,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide adenine dinucleotide (NAD),+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide adenine dinucleotide (NAD),[M]-,V,-,-,-,V,-,V,-,-,V,-,-
+"Nicotinamide adenine dinucleotide, reduced (NADH)",+H,-,V,X,V,-,-,V,-,-,-,X,-
+"Nicotinamide adenine dinucleotide, reduced (NADH)",+Na,V,V,-,V,V,-,V,-,-,V,-,-
+"Nicotinamide adenine dinucleotide, reduced (NADH)",+K,-,-,-,-,-,-,V,-,-,-,-,-
+"Nicotinamide adenine dinucleotide, reduced (NADH)",[M]+,-,-,-,-,-,X,-,-,-,-,-,-
+"Nicotinamide adenine dinucleotide, reduced (NADH)",-H,V,V,-,V,V,-,V,-,-,V,-,-
+"Nicotinamide adenine dinucleotide, reduced (NADH)",+Cl,-,-,-,-,-,-,-,-,-,-,-,V
+"Nicotinamide adenine dinucleotide, reduced (NADH)",[M]-,-,-,-,-,-,X,-,-,-,V,-,-
+Nicotinamide riboside,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide riboside,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide riboside,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide riboside,[M]+,V,V,V,V,V,V,V,-,-,V,-,V
+Nicotinamide riboside,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide riboside,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide riboside,[M]-,-,-,-,-,V,-,-,-,-,-,-,-
+Nicotinamide ribotide,+H,V,V,-,V,-,V,V,-,-,-,-,V
+Nicotinamide ribotide,+Na,-,V,-,V,-,-,V,-,-,-,-,V
+Nicotinamide ribotide,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide ribotide,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide ribotide,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinamide ribotide,+Cl,-,-,X,-,-,-,-,-,-,-,X,-
+Nicotinamide ribotide,[M]-,-,-,-,-,-,-,-,X,-,-,-,-
+Nicotinic acid,+H,-,V,V,V,-,V,V,-,-,-,-,-
+Nicotinic acid,+Na,-,-,-,-,-,-,-,-,-,-,-,X
+Nicotinic acid,+K,-,-,-,-,-,-,-,-,-,-,-,X
+Nicotinic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinic acid,-H,V,-,-,-,V,V,-,-,-,V,-,X
+Nicotinic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Nicotinic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,X
+Ornithine,+H,-,V,V,V,V,V,V,-,V,V,-,V
+Ornithine,+Na,-,V,V,V,V,V,V,-,-,-,-,V
+Ornithine,+K,-,V,-,V,-,V,-,-,-,-,-,X
+Ornithine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Ornithine,-H,V,-,-,-,V,-,-,-,-,V,-,V
+Ornithine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Ornithine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Orotic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Orotic acid,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Orotic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Orotic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Orotic acid,-H,V,V,-,V,V,V,V,-,V,V,-,X
+Orotic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Orotic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Oxalacetic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Oxalacetic acid,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Oxalacetic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Oxalacetic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Oxalacetic acid,-H,X,V,-,-,-,-,-,-,-,-,-,-
+Oxalacetic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Oxalacetic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Oxidized glutathione,+H,V,V,V,V,-,V,V,-,-,V,-,V
+Oxidized glutathione,+Na,V,V,V,V,V,V,V,-,V,V,-,V
+Oxidized glutathione,+K,V,V,V,V,-,-,V,-,-,V,-,V
+Oxidized glutathione,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Oxidized glutathione,-H,V,V,-,V,V,V,V,-,-,V,-,V
+Oxidized glutathione,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Oxidized glutathione,[M]-,-,-,-,-,X,-,-,-,-,-,-,-
+PA 16:0-18:1,+H,-,V,-,V,-,V,V,-,-,-,-,-
+PA 16:0-18:1,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+PA 16:0-18:1,+K,-,V,V,V,V,V,V,-,-,-,-,V
+PA 16:0-18:1,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+PA 16:0-18:1,-H,V,V,-,V,V,V,V,V,V,V,-,V
+PA 16:0-18:1,+Cl,V,-,-,-,V,-,-,-,V,V,-,-
+PA 16:0-18:1,[M]-,-,V,-,-,-,-,-,-,-,-,-,-
+PC (O) C16-18:1,+H,V,V,V,V,V,V,V,V,V,V,-,V
+PC (O) C16-18:1,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+PC (O) C16-18:1,+K,V,V,V,V,V,V,V,-,V,-,-,V
+PC (O) C16-18:1,[M]+,-,-,V,-,-,-,-,-,-,-,-,V
+PC (O) C16-18:1,-H,-,-,-,-,V,-,-,-,-,-,-,-
+PC (O) C16-18:1,+Cl,V,-,-,-,V,V,-,-,-,-,-,-
+PC (O) C16-18:1,[M]-,-,-,-,-,V,-,-,-,-,-,-,-
+PC 15:0-18:1,+H,V,V,V,V,V,V,V,V,V,V,-,V
+PC 15:0-18:1,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+PC 15:0-18:1,+K,V,V,V,V,V,V,V,-,V,-,-,V
+PC 15:0-18:1,[M]+,-,-,V,-,-,-,-,-,-,-,V,V
+PC 15:0-18:1,-H,-,-,-,-,V,-,-,-,-,-,-,-
+PC 15:0-18:1,+Cl,V,-,-,-,V,-,-,-,V,V,-,-
+PC 15:0-18:1,[M]-,-,-,-,-,V,-,-,-,-,-,-,-
+PE 18:0-20:4,+H,-,V,V,V,-,V,V,-,-,-,-,V
+PE 18:0-20:4,+Na,-,V,V,V,V,V,V,-,V,V,-,V
+PE 18:0-20:4,+K,-,V,-,-,-,-,V,-,-,-,-,-
+PE 18:0-20:4,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+PE 18:0-20:4,-H,V,V,-,-,V,V,-,V,V,V,-,V
+PE 18:0-20:4,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+PE 18:0-20:4,[M]-,V,-,-,-,V,-,-,-,V,V,-,V
+PG 16:0-18:1,+H,-,V,V,V,-,V,V,-,-,-,-,-
+PG 16:0-18:1,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+PG 16:0-18:1,+K,-,V,V,V,V,V,V,-,V,-,-,V
+PG 16:0-18:1,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+PG 16:0-18:1,-H,V,V,V,V,V,V,V,V,V,V,-,V
+PG 16:0-18:1,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+PG 16:0-18:1,[M]-,-,V,V,-,-,-,-,-,-,V,-,V
+PI 16:0-18:1,+H,-,-,-,V,-,V,V,-,-,-,-,-
+PI 16:0-18:1,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+PI 16:0-18:1,+K,-,V,V,V,-,V,V,-,-,-,-,V
+PI 16:0-18:1,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+PI 16:0-18:1,-H,V,V,V,V,V,V,V,V,V,V,-,-
+PI 16:0-18:1,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+PI 16:0-18:1,[M]-,-,-,V,-,V,-,V,-,V,V,-,V
+PI(5)P 18:1,+H,-,V,-,V,-,-,V,-,-,-,-,-
+PI(5)P 18:1,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+PI(5)P 18:1,+K,-,V,-,V,-,V,V,-,-,-,-,V
+PI(5)P 18:1,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+PI(5)P 18:1,-H,V,V,V,V,V,V,V,V,V,V,-,-
+PI(5)P 18:1,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+PI(5)P 18:1,[M]-,V,V,V,V,V,V,V,V,V,V,-,V
+PS (POPS) 16:0-18:1,+H,-,V,V,V,V,V,V,-,V,-,-,V
+PS (POPS) 16:0-18:1,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+PS (POPS) 16:0-18:1,+K,-,V,V,V,V,V,V,-,-,-,-,V
+PS (POPS) 16:0-18:1,[M]+,-,-,V,-,-,-,-,-,-,-,-,-
+PS (POPS) 16:0-18:1,-H,V,V,V,V,V,V,V,V,V,V,-,V
+PS (POPS) 16:0-18:1,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+PS (POPS) 16:0-18:1,[M]-,-,V,V,-,V,-,-,-,-,V,-,V
+Palmitic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Palmitic acid,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Palmitic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Palmitic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Palmitic acid,-H,-,-,-,-,X,-,-,-,-,X,V,V
+Palmitic acid,+Cl,-,-,-,-,-,-,-,-,V,-,-,-
+Palmitic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Palmitoyl-CoA,+H,-,V,V,V,V,V,V,-,V,V,-,V
+Palmitoyl-CoA,+Na,-,V,V,V,V,V,V,-,V,V,-,V
+Palmitoyl-CoA,+K,-,V,V,V,-,V,V,-,-,-,-,V
+Palmitoyl-CoA,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Palmitoyl-CoA,-H,V,V,-,V,V,V,V,V,V,V,-,V
+Palmitoyl-CoA,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Palmitoyl-CoA,[M]-,V,V,V,-,V,-,-,V,V,-,-,V
+Pantetheine,+H,-,V,V,V,V,V,V,-,-,V,-,-
+Pantetheine,+Na,V,V,V,V,V,V,V,-,V,V,V,V
+Pantetheine,+K,-,V,V,V,V,V,V,-,V,-,-,V
+Pantetheine,[M]+,-,V,-,-,-,-,-,-,-,-,-,X
+Pantetheine,-H,V,V,-,-,V,V,-,-,V,V,V,V
+Pantetheine,+Cl,-,-,V,-,X,V,-,-,V,V,-,V
+Pantetheine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Pantothenic acid,+H,-,V,V,V,-,V,V,-,-,-,-,V
+Pantothenic acid,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+Pantothenic acid,+K,-,V,-,V,V,V,V,-,-,-,-,V
+Pantothenic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Pantothenic acid,-H,V,V,-,V,V,V,-,V,-,V,-,V
+Pantothenic acid,+Cl,X,-,V,-,-,-,-,-,-,-,-,-
+Pantothenic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Phenylalanine,+H,-,V,V,V,-,V,V,-,-,-,-,V
+Phenylalanine,+Na,-,V,V,V,V,V,V,-,-,V,V,V
+Phenylalanine,+K,-,X,V,V,-,-,V,-,-,-,-,V
+Phenylalanine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Phenylalanine,-H,V,V,-,-,V,V,-,V,-,V,-,V
+Phenylalanine,+Cl,V,-,-,-,-,-,X,-,-,-,-,-
+Phenylalanine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphocreatine,+H,-,X,-,V,-,-,V,-,-,-,-,-
+Phosphocreatine,+Na,-,-,-,V,-,-,V,-,-,-,-,-
+Phosphocreatine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphocreatine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphocreatine,-H,V,-,-,-,-,-,-,-,-,-,-,-
+Phosphocreatine,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Phosphocreatine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoenolpyruvic acid,+H,-,V,-,V,-,-,V,-,-,-,-,-
+Phosphoenolpyruvic acid,+Na,-,V,-,V,-,-,V,-,-,-,-,-
+Phosphoenolpyruvic acid,+K,-,V,V,V,-,-,V,-,-,V,-,-
+Phosphoenolpyruvic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoenolpyruvic acid,-H,V,V,V,V,V,-,V,V,-,V,-,V
+Phosphoenolpyruvic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoenolpyruvic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoserine,+H,-,X,-,-,-,-,-,-,-,-,-,-
+Phosphoserine,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoserine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoserine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoserine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoserine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Phosphoserine,[M]-,-,-,-,-,-,-,X,-,-,-,-,-
+Phylloquinone,+H,-,V,V,V,V,V,V,-,-,V,-,-
+Phylloquinone,+Na,-,V,V,V,V,V,V,-,-,V,-,-
+Phylloquinone,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Phylloquinone,[M]+,-,V,V,V,V,V,V,-,-,-,-,-
+Phylloquinone,-H,-,-,-,-,-,V,-,-,-,-,-,-
+Phylloquinone,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Phylloquinone,[M]-,-,-,-,-,-,-,V,-,-,-,-,-
+Proline,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Proline,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+Proline,+K,-,X,V,V,V,V,-,-,-,-,-,V
+Proline,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Proline,-H,V,V,-,-,V,V,-,-,-,V,-,V
+Proline,+Cl,-,-,-,-,V,-,-,-,-,-,-,-
+Proline,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Propionylcarnitine,+H,V,V,V,-,V,V,V,-,V,V,-,V
+Propionylcarnitine,+Na,V,V,V,-,V,V,V,X,V,V,-,V
+Propionylcarnitine,+K,-,V,-,V,-,V,V,-,-,X,-,V
+Propionylcarnitine,[M]+,-,V,-,-,-,-,V,-,-,-,-,-
+Propionylcarnitine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Propionylcarnitine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Propionylcarnitine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Prostaglandin E1,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Prostaglandin E1,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Prostaglandin E1,+K,-,V,V,V,V,V,V,-,X,V,-,V
+Prostaglandin E1,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Prostaglandin E1,-H,V,-,-,-,-,V,-,V,V,-,-,-
+Prostaglandin E1,+Cl,V,-,-,-,V,-,-,-,V,V,-,-
+Prostaglandin E1,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Putrescine,+H,-,V,V,V,V,V,V,-,-,-,-,V
+Putrescine,+Na,-,V,V,V,V,V,V,-,-,-,-,V
+Putrescine,+K,-,-,-,V,-,-,-,-,-,-,-,-
+Putrescine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Putrescine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Putrescine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Putrescine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Pyridoxine,+H,V,V,V,V,V,V,V,-,-,-,V,V
+Pyridoxine,+Na,-,V,V,-,V,V,V,-,-,V,V,V
+Pyridoxine,+K,-,-,-,-,V,-,-,-,-,-,-,V
+Pyridoxine,[M]+,-,-,-,-,-,-,-,-,-,X,-,-
+Pyridoxine,-H,V,-,-,-,V,V,-,-,-,-,V,V
+Pyridoxine,+Cl,V,-,-,-,V,-,X,-,-,V,-,-
+Pyridoxine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Pyruvic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Pyruvic acid,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+Pyruvic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Pyruvic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Pyruvic acid,-H,X,-,-,-,X,-,X,X,X,X,-,X
+Pyruvic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Pyruvic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Quinolinic acid,+H,-,V,-,V,-,-,V,-,-,-,-,-
+Quinolinic acid,+Na,-,V,-,V,-,-,V,-,-,-,-,V
+Quinolinic acid,+K,-,V,-,V,-,-,V,-,-,-,-,-
+Quinolinic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Quinolinic acid,-H,V,V,V,V,V,V,V,-,-,V,-,V
+Quinolinic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Quinolinic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Retinoic acid,+H,-,V,V,V,V,V,V,-,-,-,-,-
+Retinoic acid,+Na,-,-,V,-,V,V,V,-,-,-,-,-
+Retinoic acid,+K,-,-,-,-,X,-,-,-,-,-,-,-
+Retinoic acid,[M]+,-,V,V,V,-,V,V,-,-,-,-,V
+Retinoic acid,-H,-,-,-,-,V,-,-,-,-,-,-,-
+Retinoic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Retinoic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Riboflavin,+H,-,V,V,V,V,V,V,-,-,V,-,V
+Riboflavin,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+Riboflavin,+K,V,V,V,V,-,V,V,-,-,V,-,-
+Riboflavin,[M]+,-,V,V,V,-,-,V,-,-,V,-,-
+Riboflavin,-H,V,-,-,-,-,V,V,-,V,V,-,-
+Riboflavin,+Cl,V,-,-,-,-,X,-,-,V,V,-,X
+Riboflavin,[M]-,V,-,-,V,V,V,V,X,V,V,-,-
+Ribose 5-phosphate,+H,-,-,-,-,-,-,X,-,-,-,-,-
+Ribose 5-phosphate,+Na,-,V,-,V,-,-,V,-,-,-,-,-
+Ribose 5-phosphate,+K,-,V,-,V,-,-,V,-,-,-,-,-
+Ribose 5-phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,X,-
+Ribose 5-phosphate,-H,V,V,-,-,V,V,V,-,-,V,X,V
+Ribose 5-phosphate,+Cl,V,-,-,-,-,-,-,-,-,V,-,-
+Ribose 5-phosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Ribulose,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Ribulose,+Na,-,X,X,X,V,-,V,-,-,-,X,X
+Ribulose,+K,-,X,-,-,-,-,-,-,-,-,-,-
+Ribulose,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Ribulose,-H,V,-,-,-,V,-,-,-,-,V,-,V
+Ribulose,+Cl,-,-,-,-,-,-,-,-,-,X,-,-
+Ribulose,[M]-,-,-,-,-,-,X,-,-,-,-,-,-
+Ribulose 5-phosphate,+H,-,V,-,V,-,-,X,-,-,-,-,-
+Ribulose 5-phosphate,+Na,-,V,V,V,-,-,V,-,-,-,-,V
+Ribulose 5-phosphate,+K,-,V,-,V,-,-,V,-,-,-,-,-
+Ribulose 5-phosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Ribulose 5-phosphate,-H,V,V,-,V,V,V,V,-,-,V,-,V
+Ribulose 5-phosphate,+Cl,V,-,-,-,-,-,-,-,-,V,-,-
+Ribulose 5-phosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+S-Adenosylhomocysteine,+H,-,V,V,V,V,V,V,-,-,X,-,V
+S-Adenosylhomocysteine,+Na,V,V,V,V,V,X,V,-,V,V,-,V
+S-Adenosylhomocysteine,+K,-,V,V,V,V,X,V,-,-,-,-,V
+S-Adenosylhomocysteine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+S-Adenosylhomocysteine,-H,V,V,-,V,-,-,V,-,V,X,-,-
+S-Adenosylhomocysteine,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+S-Adenosylhomocysteine,[M]-,-,-,-,-,-,-,-,X,-,-,-,-
+S-Adenosylmethionine,+H,-,-,-,-,-,-,-,-,-,-,-,-
+S-Adenosylmethionine,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+S-Adenosylmethionine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+S-Adenosylmethionine,[M]+,V,V,V,V,V,V,V,-,-,-,-,V
+S-Adenosylmethionine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+S-Adenosylmethionine,+Cl,-,-,-,-,-,-,-,-,-,-,-,X
+S-Adenosylmethionine,[M]-,X,-,-,-,X,-,-,-,-,X,-,-
+SM d18:1-16:0,+H,V,V,V,V,V,V,V,V,V,V,-,V
+SM d18:1-16:0,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+SM d18:1-16:0,+K,V,V,V,V,V,V,V,-,V,V,-,V
+SM d18:1-16:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+SM d18:1-16:0,-H,V,-,-,-,V,-,-,-,-,V,-,-
+SM d18:1-16:0,+Cl,V,-,-,-,V,V,-,-,V,V,-,V
+SM d18:1-16:0,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Serine,+H,-,V,V,V,-,-,V,-,-,-,-,V
+Serine,+Na,-,V,V,V,V,-,V,-,-,-,-,V
+Serine,+K,-,-,V,V,-,-,-,-,-,-,-,-
+Serine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Serine,-H,V,-,-,-,V,-,-,-,V,V,-,V
+Serine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Serine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Serotonin,+H,-,V,V,V,X,V,V,-,-,-,-,X
+Serotonin,+Na,-,V,V,V,-,V,V,-,-,V,-,-
+Serotonin,+K,-,-,-,V,X,-,V,-,-,-,-,-
+Serotonin,[M]+,-,V,V,V,-,V,V,-,-,V,-,X
+Serotonin,-H,-,-,-,-,V,-,-,-,-,V,-,-
+Serotonin,+Cl,-,-,-,-,V,-,-,-,-,-,-,-
+Serotonin,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Spermidine,+H,V,V,V,V,V,V,V,V,V,V,V,V
+Spermidine,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Spermidine,+K,-,V,-,-,-,V,V,-,-,-,-,-
+Spermidine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Spermidine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Spermidine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Spermidine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Spermine,+H,V,V,V,V,V,V,V,-,V,V,-,V
+Spermine,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Spermine,+K,-,V,V,V,V,V,-,-,-,-,-,V
+Spermine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Spermine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Spermine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Spermine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Succinic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Succinic acid,+Na,-,V,V,V,V,V,V,-,-,V,-,-
+Succinic acid,+K,-,V,-,-,-,-,V,-,-,-,-,-
+Succinic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Succinic acid,-H,V,V,V,-,V,V,V,-,V,V,V,V
+Succinic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Succinic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Sulfo GalCer 18:0(2S-OH),+H,-,-,V,V,-,V,V,-,-,-,-,V
+Sulfo GalCer 18:0(2S-OH),+Na,-,V,V,V,-,V,V,-,-,-,-,V
+Sulfo GalCer 18:0(2S-OH),+K,-,-,-,-,-,V,-,-,-,-,-,-
+Sulfo GalCer 18:0(2S-OH),[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Sulfo GalCer 18:0(2S-OH),-H,V,V,V,V,V,V,V,V,V,V,V,-
+Sulfo GalCer 18:0(2S-OH),+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Sulfo GalCer 18:0(2S-OH),[M]-,-,-,V,-,-,-,-,-,-,V,V,V
+TG 15:0-18:1-15:0,+H,-,-,-,-,-,V,V,-,-,-,-,-
+TG 15:0-18:1-15:0,+Na,V,V,V,V,V,V,V,V,V,V,-,V
+TG 15:0-18:1-15:0,+K,-,V,V,V,V,V,V,-,V,-,-,V
+TG 15:0-18:1-15:0,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+TG 15:0-18:1-15:0,-H,-,-,-,-,-,-,-,-,-,-,-,-
+TG 15:0-18:1-15:0,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+TG 15:0-18:1-15:0,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Taurine,+H,-,V,-,V,-,V,V,-,-,-,-,-
+Taurine,+Na,-,V,V,V,V,V,V,-,-,-,-,V
+Taurine,+K,-,V,-,V,-,V,V,-,-,-,-,V
+Taurine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Taurine,-H,V,V,V,V,V,V,V,-,-,V,-,V
+Taurine,+Cl,V,-,-,-,V,-,-,-,-,-,-,-
+Taurine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Taurocholic acid,+H,-,V,V,V,-,V,V,-,-,-,-,V
+Taurocholic acid,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+Taurocholic acid,+K,-,V,V,V,-,V,V,-,-,-,-,V
+Taurocholic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Taurocholic acid,-H,V,V,V,V,V,V,V,V,V,V,V,-
+Taurocholic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Taurocholic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Tetrahydrofolic acid,+H,-,V,V,V,-,V,V,-,-,V,-,V
+Tetrahydrofolic acid,+Na,V,V,V,V,V,V,V,-,-,V,-,V
+Tetrahydrofolic acid,+K,V,V,-,V,-,V,V,-,-,-,-,V
+Tetrahydrofolic acid,[M]+,V,V,V,V,V,V,V,-,-,V,-,V
+Tetrahydrofolic acid,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Tetrahydrofolic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Tetrahydrofolic acid,[M]-,-,-,-,-,-,-,-,-,-,V,-,-
+Thiamine,+H,-,V,V,-,-,-,V,-,-,-,-,-
+Thiamine,+Na,-,X,-,-,-,-,-,-,-,-,-,-
+Thiamine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Thiamine,[M]+,V,V,V,V,V,V,V,-,-,V,-,V
+Thiamine,-H,-,-,-,-,-,-,-,-,-,-,-,-
+Thiamine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Thiamine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Thymine,+H,-,V,V,V,-,-,V,-,-,-,V,-
+Thymine,+Na,-,V,V,-,V,V,V,-,-,V,-,V
+Thymine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Thymine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Thymine,-H,V,-,-,-,V,-,-,V,-,V,V,V
+Thymine,+Cl,-,X,-,-,-,-,-,-,V,-,-,-
+Thymine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Tryptophan,+H,-,V,V,V,X,V,V,-,-,-,-,X
+Tryptophan,+Na,V,V,V,V,V,V,V,-,-,V,-,X
+Tryptophan,+K,-,X,-,V,V,V,V,-,-,-,-,V
+Tryptophan,[M]+,-,V,-,-,-,V,V,-,-,-,-,X
+Tryptophan,-H,V,V,-,-,V,V,-,-,-,V,-,-
+Tryptophan,+Cl,-,-,-,-,-,-,-,X,-,-,-,-
+Tryptophan,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Tyrosine,+H,-,V,-,V,-,-,V,-,-,-,-,V
+Tyrosine,+Na,-,-,-,-,V,-,V,-,-,-,-,V
+Tyrosine,+K,-,X,-,-,-,-,-,-,-,-,-,V
+Tyrosine,[M]+,-,-,-,-,X,-,-,-,-,-,-,-
+Tyrosine,-H,V,-,-,-,V,-,-,-,-,-,-,V
+Tyrosine,+Cl,-,-,-,-,-,-,X,-,-,-,-,-
+Tyrosine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Uracil,+H,-,V,-,V,-,-,V,-,-,-,V,-
+Uracil,+Na,-,-,V,-,-,V,V,-,-,-,V,-
+Uracil,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Uracil,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Uracil,-H,V,-,V,-,V,V,-,V,V,V,V,X
+Uracil,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Uracil,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Ureidosuccinic acid,+H,-,V,-,V,-,-,V,-,-,-,-,-
+Ureidosuccinic acid,+Na,-,V,V,V,-,V,V,-,-,-,-,V
+Ureidosuccinic acid,+K,-,V,-,V,-,-,V,-,-,-,-,-
+Ureidosuccinic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,X
+Ureidosuccinic acid,-H,V,V,V,V,V,V,V,-,V,V,-,V
+Ureidosuccinic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Ureidosuccinic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Uric acid,+H,-,V,-,-,-,-,V,-,-,-,-,-
+Uric acid,+Na,-,V,-,-,-,-,V,-,-,-,-,-
+Uric acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Uric acid,[M]+,-,V,-,-,-,-,V,-,-,-,-,-
+Uric acid,-H,V,-,-,V,V,V,V,V,-,V,-,-
+Uric acid,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Uric acid,[M]-,-,X,-,-,-,-,-,-,-,X,-,-
+Uridine,+H,-,V,-,-,-,-,V,-,-,-,-,-
+Uridine,+Na,-,V,V,-,V,-,V,-,-,-,-,V
+Uridine,+K,-,-,-,-,-,-,V,-,-,-,-,-
+Uridine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine,-H,V,-,-,-,V,-,-,-,-,V,-,-
+Uridine,+Cl,V,-,V,-,V,-,-,-,-,-,-,-
+Uridine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate,+H,-,-,-,-,-,-,V,-,-,-,-,-
+Uridine diphosphate,+Na,-,V,-,V,-,-,V,-,-,V,-,V
+Uridine diphosphate,+K,-,V,-,-,-,-,V,-,-,-,-,-
+Uridine diphosphate,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate,-H,V,V,-,V,V,-,V,-,-,V,-,-
+Uridine diphosphate,+Cl,-,-,X,-,-,-,-,-,-,-,X,-
+Uridine diphosphate,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucose,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucose,+Na,-,V,-,V,-,-,V,-,-,V,-,V
+Uridine diphosphate glucose,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucose,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucose,-H,V,V,V,V,V,V,V,-,-,V,-,V
+Uridine diphosphate glucose,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucose,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucuronic acid,+H,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucuronic acid,+Na,-,V,-,V,-,-,V,-,-,-,-,-
+Uridine diphosphate glucuronic acid,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucuronic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucuronic acid,-H,V,V,-,V,V,V,V,-,-,V,-,-
+Uridine diphosphate glucuronic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate glucuronic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate-N-acetylglucosamine,+H,-,-,-,V,-,-,X,-,-,-,-,-
+Uridine diphosphate-N-acetylglucosamine,+Na,-,X,-,V,-,-,V,-,-,-,-,V
+Uridine diphosphate-N-acetylglucosamine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate-N-acetylglucosamine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate-N-acetylglucosamine,-H,V,-,-,V,V,X,V,-,-,V,-,V
+Uridine diphosphate-N-acetylglucosamine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Uridine diphosphate-N-acetylglucosamine,[M]-,-,V,-,-,-,-,-,-,-,-,-,V
+Urocanic acid,+H,-,V,V,V,V,V,V,-,-,-,-,-
+Urocanic acid,+Na,V,V,V,V,V,V,V,-,-,V,-,X
+Urocanic acid,+K,-,V,V,V,-,-,V,-,-,-,-,X
+Urocanic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Urocanic acid,-H,V,V,-,V,V,V,V,-,-,V,-,X
+Urocanic acid,+Cl,V,-,-,-,-,-,-,-,-,V,-,-
+Urocanic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Valine,+H,-,V,-,V,-,V,V,-,-,-,-,V
+Valine,+Na,-,-,-,V,V,V,V,-,-,-,-,V
+Valine,+K,-,-,-,-,-,-,-,-,-,-,-,-
+Valine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Valine,-H,V,-,-,-,V,V,-,-,-,-,-,V
+Valine,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+Valine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+Xanthine,+H,-,V,-,V,-,-,V,-,-,-,-,-
+Xanthine,+Na,-,V,V,-,V,V,V,-,-,V,-,V
+Xanthine,+K,-,-,-,-,-,-,-,-,-,-,-,V
+Xanthine,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+Xanthine,-H,V,V,-,-,V,V,V,-,V,V,V,V
+Xanthine,+Cl,V,-,-,-,-,-,-,-,-,-,-,-
+Xanthine,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+alpha-tocopherol,+H,-,-,-,-,-,-,-,-,-,-,-,-
+alpha-tocopherol,+Na,-,-,-,-,-,-,-,-,-,-,-,-
+alpha-tocopherol,+K,-,-,-,-,-,-,-,-,-,-,-,-
+alpha-tocopherol,[M]+,-,V,V,V,V,V,V,V,V,-,-,V
+alpha-tocopherol,-H,-,-,-,-,-,-,-,-,-,-,-,-
+alpha-tocopherol,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+alpha-tocopherol,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+cis-Aconitic acid,+H,-,V,-,V,-,-,-,-,-,-,-,-
+cis-Aconitic acid,+Na,-,V,V,V,-,V,V,-,-,V,-,V
+cis-Aconitic acid,+K,-,V,X,V,-,V,V,-,-,-,-,V
+cis-Aconitic acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+cis-Aconitic acid,-H,V,V,V,V,V,V,V,V,-,V,-,V
+cis-Aconitic acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,-
+cis-Aconitic acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+gamma-Aminobutyric acid,+H,-,V,V,V,V,V,V,-,-,-,-,V
+gamma-Aminobutyric acid,+Na,-,V,V,V,V,V,V,-,-,V,-,V
+gamma-Aminobutyric acid,+K,-,X,-,V,-,-,-,-,-,-,-,V
+gamma-Aminobutyric acid,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+gamma-Aminobutyric acid,-H,V,-,-,-,V,-,-,-,-,V,-,V
+gamma-Aminobutyric acid,+Cl,-,-,-,-,-,-,-,-,-,-,-,X
+gamma-Aminobutyric acid,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
+myo-Inositol,+H,-,-,-,-,-,-,-,-,-,-,-,-
+myo-Inositol,+Na,-,V,V,V,V,V,V,-,-,V,X,V
+myo-Inositol,+K,-,X,X,V,-,-,X,-,-,-,X,-
+myo-Inositol,[M]+,-,-,-,-,-,-,-,-,-,-,-,-
+myo-Inositol,-H,V,V,-,-,V,-,-,-,-,V,-,V
+myo-Inositol,+Cl,V,-,-,-,V,-,-,-,-,-,-,-
+myo-Inositol,[M]-,-,-,-,-,-,-,-,-,-,-,-,-
