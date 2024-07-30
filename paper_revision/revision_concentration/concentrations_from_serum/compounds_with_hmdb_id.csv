@@ -1,0 +1,168 @@
+internal_id,name,name_short,name_shortest,hmdb_primary
+0,D-Glucose,Glucose,glucose,HMDB0000122
+1,D-Glucose 6-phosphate sodium salt,Glucose 6-phosphate,G6P,HMDB0001401
+3,"D-Fructose 1,6-bisphosphate trisodium salt octahydrate","Fructose 1,6-bisphosphate","F1,6BP",HMDB0001058
+4,Dihydroxyacetone phosphate dilithium salt,Dihydroxyacetone phosphate,DHAP,HMDB0001473
+7,D-3-Phosphoglyceric acid disodium salt,3-Phosphoglyceric acid,3-PG,HMDB0000807
+9,Phosphoenolpyruvic acid potassium salt,Phosphoenolpyruvic acid,PEP,HMDB0000263
+10,Pyruvic acid,Pyruvic acid,pyruvate,HMDB0000243
+11,Acetyl-CoA trisodium salt,Acetyl-CoA,acetyl-CoA,HMDB0001206
+12,L-Lactic acid sodium salt,Lactic acid,lactate,HMDB0000190
+14,6-Phosphogluconic acid trisodium salt,6-Phosphogluconic acid,6-phosphogluconate,HMDB0001316
+15,D-Ribulose 5-phosphate disodium salt,Ribulose 5-phosphate,ribulose-5-phosphate,HMDB0000618
+16,D-Ribose 5-phosphate disodium salt hydrate,Ribose 5-phosphate,ribose-5-phosphate,HMDB0001548
+17,Dihydroxyacetone,Dihydroxyacetone,dihydroxyacetone,HMDB0001882
+20,Gluconic acid sodium salt,Gluconic acid,gluconate,HMDB0000625
+21,L-Ribulose,Ribulose,ribulose,HMDB0003371
+22,Citric acid,Citric acid,citrate,HMDB0000094
+24,cis-Aconitic acid,cis-Aconitic acid,cis-aconitate,HMDB0000072
+26,2-Oxoglutaric acid,2-Oxoglutaric acid,alpha-Ketoglutarate,HMDB0000208
+28,Succinic acid,Succinic acid,succinate,HMDB0000254
+29,Fumaric acid,Fumaric acid,fumarate,HMDB0000134
+30,L-Malic acid,Malic acid,malate,HMDB0000156
+31,Oxalacetic acid,Oxalacetic acid,OAA,HMDB0000223
+33,Uridine diphosphate alpha-D-glucose disodium salt,Uridine diphosphate glucose,UDP-glucose,HMDB0000286
+34,Uridine 5'-diphosphoglucuronic acid trisodium salt,Uridine diphosphate glucuronic acid,UDP-glucuronate,HMDB0000935
+35,D-Glucosamine 6-phosphate,Glucosamine 6-phosphate,glucosamine-6-phosphate,HMDB0001254
+36,N-Acetyl-D-galactosamine 6-phosphate,N-Acetylgalactosamine 6-phosphate,GalNAc-phosphate,HMDB0006480
+38,Uridine 5'-diphospho-N-acetylglucosamine disodium salt,Uridine diphosphate-N-acetylglucosamine,UDP-GlcNAc,HMDB0000290
+39,N-Acetyl-D-glucosamine,N-Acetylglucosamine,GlcNAc,HMDB0000215
+40,myo-Inositol,myo-Inositol,myo-inositol,HMDB0000211
+41,Ascorbic acid,Ascorbic acid,vitamin C,HMDB0000044
+42,Myo-inositol 1-phosphate dipotassium salt,Myo-inositol 1-phosphate,myo-inositol phosphate,HMDB0000213
+46,Palmitic acid,Palmitic acid,palmitate,HMDB0000220
+50,(R)-Mevalonic acid lithium salt,Mevalonic acid,mevalonate,HMDB0000227
+51,Cholesterol,Cholesterol,cholesterol,HMDB0000067
+53,Malonic acid disodium salt,Malonic acid,malonate,HMDB0000691
+54,3-Hydroxy-3-methylglutaric acid,3-Hydroxymethylglutaric acid,3-hydroxymethylglutarate,HMDB0000355
+55,Palmitoyl-CoA triammonium salt,Palmitoyl-CoA,palmitoyl-CoA,HMDB0001338
+56,L-Carnitine,Carnitine,carnitine,HMDB0000062
+58,Cholic acid,Cholic acid,cholate,HMDB0000619
+59,Glycine,Glycine,glycine,HMDB0000123
+60,Taurocholic acid sodium salt,Taurocholic acid,taurocholate,HMDB0000036
+61,Estradiol,Estradiol,estradiol,HMDB0000151
+67,L-Asparagine,Asparagine,Asn,HMDB0000168
+68,L-Aspartic acid,Aspartic acid,Asp,HMDB0000191
+69,N-Acetyl-L-aspartic acid,N-Acetylaspartic acid,NAA,HMDB0000812
+70,L-Glutamine,Glutamine,Gln,HMDB0000641
+71,L-Glutamic acid,Glutamic acid,Glu,HMDB0000148
+72,N-Acetylaspartylglutamic acid,N-Acetylaspartylglutamic acid,NAAG,HMDB0001067
+73,gamma-Aminobutyric acid,gamma-Aminobutyric acid,GABA,HMDB0000112
+74,L-Phenylalanine,Phenylalanine,Phe,HMDB0000159
+75,L-Tyrosine,Tyrosine,Tyr,HMDB0000158
+76,L-Dihydroxyphenylalanine,L-Dopa,DOPA,HMDB0000181
+77,Dopamine hydrochloride,Dopamine,dopamine,HMDB0000073
+79,Epinephrine,Epinephrine,adrenaline,HMDB0000068
+83,Acetoacetic acid lithium salt,Acetoacetic acid,acetoacetate,HMDB0000060
+84,L-Histidine,Histidine,His,HMDB0000177
+85,L-Carnosine,Carnosine,carnosine,HMDB0000033
+86,trans-Urocanic acid,Urocanic acid,urocanate,HMDB0000301
+89,Histamine dihydrochloride,Histamine,histamine,HMDB0000870
+90,L-Arginine,Arginine,Arg,HMDB0000517
+91,L-Citrulline,Citrulline,citrulline,HMDB0000904
+92,Argininosuccinic acid lithium salt,Argininosuccinic acid,argininosuccinate,HMDB0000052
+93,Ornithine hydrochloride,Ornithine,ornithine,HMDB0000214
+95,Carbamoyl phosphate dilithium salt hydrate,Carbamoyl phosphate,carbamoyl phosphate,HMDB0001096
+97,L-Proline,Proline,Pro,HMDB0000162
+98,L-4-Hydroxyproline,4-Hydroxyproline,hydroxyproline,HMDB0000725
+99,Putrescine dihydrochloride,Putrescine,putrescine,HMDB0001414
+100,Spermidine,Spermidine,spermidine,HMDB0001257
+101,Spermine tetrahydrochloride,Spermine,spermine,HMDB0001256
+103,Creatine anhydrous,Creatine,creatine,HMDB0000064
+105,Creatinine,Creatinine,creatinine,HMDB0000562
+106,Agmatine sulfate,Agmatine,agmatine,HMDB0001432
+107,Folic acid,Folic acid,"folic acid, vitamin B9",HMDB0000121
+108,5-Methyltetrahydrofolic acid disodium salt,Tetrahydrofolic acid,tetrahydrofolate,HMDB0001846
+110,L-Methionine,Methionine,Met,HMDB0000696
+111,L-Cystine,Cystine,Cys-Cys,HMDB0000192
+113,L-glutathione oxidised,Oxidized glutathione,GSSG,HMDB0003337
+114,L-Glutathione reduced,Glutathione,GSH,HMDB0000125
+117,Taurine,Taurine,taurine,HMDB0000251
+119,S-(5'-Adenosyl)-L-methionine p-toluenesulfonate salt,S-Adenosylmethionine,SAM,HMDB0001185
+120,S-(5'-Adenosyl)-L-homocysteine,S-Adenosylhomocysteine,SAH,HMDB0000939
+121,Homocysteine,Homocysteine,homocysteine,HMDB0000742
+123,L-Cysteine,Cysteine,Cys,HMDB0000574
+125,"N6,N6,N6-Trimethyl-L-lysine hydrochloride","N6,N6,N6-Trimethyllysine",trimethyllysine,HMDB0001325
+129,L-Valine,Valine,Val,HMDB0000883
+132,Pantothenic acid sodium salt,Pantothenic acid,"panthothenic acid, vitamin B5",HMDB0000210
+136,(R)-Pantetheine,Pantetheine,pantetheine,HMDB0003426
+138,Coenzyme A,Coenzyme A,CoA,HMDB0001423
+141,L-Serine,Serine,Ser,HMDB0000187
+148,L-Tryptophan,Tryptophan,Trp,HMDB0000929
+150,Kynurenine,Kynurenine,kynurenine,HMDB0000684
+151,Kynurenic acid,Kynurenic acid,kynurenic acid,HMDB0000715
+154,3-Hydroxyanthranilic acid,3-Hydroxyanthranilic acid,hydroxyanthralinic acid,HMDB0001476
+155,Quinolinic acid,Quinolinic acid,quinolic acid,HMDB0000232
+158,Nicotinamide adenine dinucleotide,Nicotinamide adenine dinucleotide (NAD),NAD,HMDB0000902
+159,Nicotinamide adenine dinucleotide (reduced) disodium salt hydrate,"Nicotinamide adenine dinucleotide, reduced (NADH)",NADH,HMDB0001487
+160,Niacinamide,Niacinamide,nicotinamide,HMDB0001406
+161,Nicotinic acid,Nicotinic acid,"nicotinic acid, vitamin B3",HMDB0001488
+165,Serotonin hydrochloride,Serotonin,serotonin,HMDB0000259
+166,5-Hydroxyindole-3-acetic acid,5-Hydroxyindoleacetic acid,5-hydroxy-indoleacetate,HMDB0000763
+168,Melatonin,Melatonin,melatonin,HMDB0001389
+169,Nicotinamide riboside chloride,Nicotinamide riboside,nicotinamide riboside,HMDB0000855
+170,Nicotinamide ribotide,Nicotinamide ribotide,nicotinamide ribotide,HMDB0000229
+184,Hypoxanthine,Hypoxanthine,hypoxanthine,HMDB0000157
+185,Adenosine 5'-monophosphate,Adenosine monophosphate,AMP,HMDB0000045
+187,Adenine hydrochloride,Adenine,adenine,HMDB0000034
+190,Xanthine,Xanthine,xanthine,HMDB0000292
+193,Guanine,Guanine,guanine,HMDB0000132
+194,Adenosine 5'-diphosphate potassium salt,Adenosine diphosphate,ADP,HMDB0001341
+195,Adenosine 5'-triphosphate disodium salt,Adenosine triphosphate,ATP,HMDB0000538
+198,Cyclic AMP,Cyclic adenosine monophosphate,cyclic AMP,HMDB0000058
+204,Ureidosuccinic acid,Ureidosuccinic acid,N-carbamoyl aspartate,HMDB0000828
+205,"4,5-Dihydroorotic acid","4,5-Dihydroorotic acid",dihydroorotoic acid,HMDB0000528
+206,Orotic acid anhydrous,Orotic acid,orotic acid,HMDB0000226
+209,Uridine,Uridine,uridine,HMDB0000296
+210,Uracil,Uracil,uracil,HMDB0000300
+213,Thymine,Thymine,thymine,HMDB0000262
+214,Cytidine 5'-monophosphate,Cytidine monophosphate,CMP,HMDB0000095
+215,Cytidine,Cytidine,cytidine,HMDB0000089
+216,Cytosine,Cytosine,cytosine,HMDB0000630
+217,Uridine 5'-diphosphate disodium salt hydrate,Uridine diphosphate,UDP,HMDB0000295
+226,Choline chloride,Choline,choline,HMDB0000097
+227,Acetylcholine chloride,Acetylcholine,acetylcholine,HMDB0000895
+231,Thiamine hydrochloride,Thiamine,"thiamine, vitamin B1",HMDB0000235
+232,Riboflavin,Riboflavin,"riboflavin, vitamin B2",HMDB0000244
+233,Pyridoxine hydrochloride,Pyridoxine,"pyridoxine, vitamin B6",HMDB0000239
+235,Biotin,Biotin,"biotin, vitamin B7",HMDB0000030
+236,Cholecalciferol,Cholecalciferol,Vitamin D3,HMDB0000876
+237,alpha-tocopherol,alpha-tocopherol,Vitamin E,HMDB0001893
+238,Phylloquinone,Phylloquinone,Vitamin K1,HMDB0003555
+239,Flavin mononucleotide sodium salt,Flavin mononucleotide,"FMN, riboflavin-P",HMDB0001520
+241,Flavin adenine dinucleotide disodium salt hydrate,Flavin adenine dinucleotide,FAD,HMDB0001248
+246,Creatine phosphate disodium salt hydrate,Phosphocreatine,phosphocreatine,HMDB0001511
+250,Glycerophosphocholine,Glycerophosphocholine,glycerophosphocholine,HMDB0000086
+254,Propionylcarnitine hydrochloride,Propionylcarnitine,C3-carnitine,HMDB0000824
+257,L-Acetylcarnitine hydrochloride,Acetylcarnitine,acetylcarnitine,HMDB0000201
+264,Phosphoserine,Phosphoserine,phosphoserine,HMDB0000272
+274,Uric acid,Uric acid,uric acid,HMDB0000289
+276,Cholesteryl acetate,Cholesteryl acetate,CE cholesteryl acetate,HMDB0003822
+310,Indole,Indole,indole,HMDB0000738
+318,D-Glucosamine hydrochloride,Glucosamine,glucosamine,HMDB0001514
+322,Butyric acid sodium salt,Butyric acid,butyrate,HMDB0000039
+323,sn-Glycerol 3-phosphate lithium salt,Glycerol 3-phosphate,glycerol phosphate,HMDB0000126
+326,all-trans-Retinoic acid,Retinoic acid,retinoic acid,HMDB0001852
+501,Arachidonic acid,Arachidonic acid,arachidonic acid,HMDB0001043
+502,1-pentadecanoyl-2-oleoyl-sn-glycero-3-phosphocholine,PC 15:0-18:1,PC,HMDB0007939
+503,"1,3-dipentadecanoyl-2-oleoyl-glycerol",TG 15:0-18:1-15:0,TG,HMDB0043250
+504,1-oleoyl-rac-glycerol,MG 18:1,MG,HMDB0011567
+506,"1',3'-bis[1,2-dioleoyl-sn-glycero-3-phospho]-glycerol (disodium salt)",Cardiolipin 18:1,cardiolipin,HMDB0010691
+508,1-stearoyl-2-docosahexaenoyl-sn-glycerol,DG 18:0-22:6,DG,HMDB0007179
+509,1-palmitoyl-2-oleoyl-sn-glycero-3-phospho-L-serine (sodium salt),PS (POPS) 16:0-18:1,PS,HMDB0012357
+510,1-palmitoyl-2-oleoyl-sn-glycero-3-phospho-(1'-rac-glycerol) (sodium salt),PG 16:0-18:1,PG,HMDB0010574
+511,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphate (sodium salt),PA 16:0-18:1,PA,HMDB0007859
+513,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoinositol (ammonium salt),PI 16:0-18:1,PI,HMDB0009783
+514,"1,2-dioleoyl-sn-glycero-3-phospho-(1'-myo-inositol-5'-phosphate) (diammonium salt)",PI(5)P 18:1,PIP,HMDB0009974
+515,1-stearoyl-2-arachidonoyl-sn-glycero-3-phosphoethanolamine,PE 18:0-20:4,PE,HMDB0009003
+516,1-pentadecanoyl-2-hydroxy-sn-glycero-3-phosphocholine,Lyso PC 15:0,LPC,HMDB0010381
+517,1-Stearoyl-2-Hydroxy-sn-Glycero-3-Phosphoethanolamine,Lyso PE 18:0,LPE,HMDB0011130
+518,1-oleoyl-2-hydroxy-sn-glycero-3-phosphate (sodium salt),Lyso PA 18:1,LPA,HMDB0007855
+519,1-palmitoyl-2-hydroxy-sn-glycero-3-phospho-(1'-rac-glycerol) (sodium salt),Lyso PG 16:0,LPG,HMDB0240601
+521,"C18:0 GM3 Ganglioside (synthetic, ammonium salt)",GM3 Ganglioside 18:0,ganglioside,HMDB0004845
+522,N-behenoyl-D-erythro-sphingosine,Cer d8:1/22:0 Cer,Cer,HMDB0004952
+523,"D-glucosyl-beta-1,1'-N-stearoyl-D-erythro-sphingosine",GlcCer d18:1/18:0,GlcCer,HMDB0004972
+524,N-palmitoyl-D-erythro-sphingosylphosphorylcholine,SM d18:1-16:0,sphingomyelin,HMDB0010169
+526,palmitoyl L-carnitine,CAR 16:0,palmitoylcarnitine,HMDB0000222
+528,Prostaglandin E1,Prostaglandin E1,PGE1,HMDB0001442
+529,Cholesteryl heptadecanoate,Cholesteryl ester 17:0,CE,HMDB0060059

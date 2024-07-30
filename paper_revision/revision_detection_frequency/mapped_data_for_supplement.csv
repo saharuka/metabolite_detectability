@@ -1,0 +1,345 @@
+formula,Polarity,onSample,in_range,mz,frequency,name_short,main_coarse_class
+C10H12N2O,Negative,3,1863,176.09496301519,0.001610305958132045,Serotonin,"Amino acids, peptides, and analogues"
+C10H12N2O,Positive,4,1366,176.09496301519,0.0029282576866764276,Serotonin,"Amino acids, peptides, and analogues"
+C10H12N2O3,Negative,0,1999,208.08479225433,0.0,Kynurenine,"Amino acids, peptides, and analogues"
+C10H12N2O3,Positive,4,1553,208.08479225433,0.0025756600128783,Kynurenine,"Amino acids, peptides, and analogues"
+C10H12N5O6P,Negative,16,2211,329.05252012475,0.007236544549977386,Cyclic adenosine monophosphate,"Nucleosides, nucleotides, and analogues"
+C10H12N5O6P,Positive,2,2205,329.05252012475,0.0009070294784580499,Cyclic adenosine monophosphate,"Nucleosides, nucleotides, and analogues"
+C10H14N5O7P,Negative,825,2245,347.06308480878,0.3674832962138085,Adenosine monophosphate,"Nucleosides, nucleotides, and analogues"
+C10H14N5O7P,Positive,146,2210,347.06308480878,0.0660633484162896,Adenosine monophosphate,"Nucleosides, nucleotides, and analogues"
+C10H15N5O10P2,Negative,290,2266,427.02941569814004,0.12797881729920565,Adenosine diphosphate,"Nucleosides, nucleotides, and analogues"
+C10H15N5O10P2,Positive,78,2273,427.02941569814004,0.0343158820941487,Adenosine diphosphate,"Nucleosides, nucleotides, and analogues"
+C10H16N2O3S,Negative,0,2042,244.08816355765,0.0,Biotin,Vitamins and cofactors
+C10H16N2O3S,Positive,0,2054,244.08816355765,0.0,Biotin,Vitamins and cofactors
+C10H16N5O13P3,Negative,100,2005,506.9957465874999,0.04987531172069826,Adenosine triphosphate,"Nucleosides, nucleotides, and analogues"
+C10H16N5O13P3,Positive,12,2306,506.9957465874999,0.005203816131830009,Adenosine triphosphate,"Nucleosides, nucleotides, and analogues"
+C10H17N3O6S,Negative,861,2211,307.08380645302,0.3894165535956581,Glutathione,"Amino acids, peptides, and analogues"
+C10H17N3O6S,Positive,9,2191,307.08380645302,0.004107713372889092,Glutathione,"Amino acids, peptides, and analogues"
+C10H18N4O6,Negative,1,2207,290.12263431528004,0.00045310376076121433,Argininosuccinic acid,"Amino acids, peptides, and analogues"
+C10H18N4O6,Positive,2,2191,290.12263431528004,0.0009128251939753537,Argininosuccinic acid,"Amino acids, peptides, and analogues"
+C10H19NO4,Negative,0,2033,217.13140809508002,0.0,Propionylcarnitine,Amines
+C10H19NO4,Positive,12,2048,217.13140809508002,0.005859375,Propionylcarnitine,Amines
+C10H26N4,Negative,0,1995,202.2157468557,0.0,Spermine,Amines
+C10H26N4,Positive,63,1411,202.2157468557,0.0446491849751949,Spermine,Amines
+C10H7NO3,Negative,95,1866,189.04259308874998,0.05091103965702037,Kynurenic acid,Carboxylic acids
+C10H7NO3,Positive,57,1393,189.04259308874998,0.040918880114860015,Kynurenic acid,Carboxylic acids
+C10H9NO3,Negative,15,1866,191.05824315321001,0.008038585209003215,5-Hydroxyindoleacetic acid,"Amino acids, peptides, and analogues"
+C10H9NO3,Positive,5,1394,191.05824315321001,0.003586800573888092,5-Hydroxyindoleacetic acid,"Amino acids, peptides, and analogues"
+C11H12N2O2,Negative,5,1995,204.08987763476,0.002506265664160401,Tryptophan,"Amino acids, peptides, and analogues"
+C11H12N2O2,Positive,9,1416,204.08987763476,0.006355932203389831,Tryptophan,"Amino acids, peptides, and analogues"
+C11H15N2O5,Negative,0,2042,255.09809659016,0.0,Nicotinamide riboside,"Nucleosides, nucleotides, and analogues"
+C11H15N2O5,Positive,0,2053,255.09809659016,0.0,Nicotinamide riboside,"Nucleosides, nucleotides, and analogues"
+C11H15N2O8P,Negative,0,2245,334.05660244729,0.0,Nicotinamide ribotide,"Nucleosides, nucleotides, and analogues"
+C11H15N2O8P,Positive,4,2210,334.05660244729,0.0018099547511312218,Nicotinamide ribotide,"Nucleosides, nucleotides, and analogues"
+C11H16N2O8,Negative,141,2207,304.0906654811,0.06388763026733121,N-Acetylaspartylglutamic acid,"Amino acids, peptides, and analogues"
+C11H16N2O8,Positive,2,2191,304.0906654811,0.0009128251939753537,N-Acetylaspartylglutamic acid,"Amino acids, peptides, and analogues"
+C11H22N2O4S,Negative,7,2206,278.13002837060003,0.003173164097914778,Pantetheine,"Amino acids, peptides, and analogues"
+C11H22N2O4S,Positive,2,2191,278.13002837060003,0.0009128251939753537,Pantetheine,"Amino acids, peptides, and analogues"
+C12H17N4OS,Negative,0,2206,265.1123073596,0.0,Thiamine,Vitamins and cofactors
+C12H17N4OS,Positive,0,2181,265.1123073596,0.0,Thiamine,Vitamins and cofactors
+C13H16N2O2,Negative,0,2033,232.12117776368,0.0,Melatonin,"Amino acids, peptides, and analogues"
+C13H16N2O2,Positive,6,2048,232.12117776368,0.0029296875,Melatonin,"Amino acids, peptides, and analogues"
+C14H20N6O5S,Negative,1,2272,384.12158894342997,0.00044014084507042255,S-Adenosylhomocysteine,"Amino acids, peptides, and analogues"
+C14H20N6O5S,Positive,6,2260,384.12158894342997,0.002654867256637168,S-Adenosylhomocysteine,"Amino acids, peptides, and analogues"
+C15H22N2O18P2,Negative,3,1985,580.0342858670201,0.0015113350125944584,Uridine diphosphate glucuronic acid,"Nucleosides, nucleotides, and analogues"
+C15H22N2O18P2,Positive,0,2334,580.0342858670201,0.0,Uridine diphosphate glucuronic acid,"Nucleosides, nucleotides, and analogues"
+C15H23N6O5S,Negative,0,2272,399.14506404012,0.0,S-Adenosylmethionine,"Amino acids, peptides, and analogues"
+C15H23N6O5S,Positive,1,2260,399.14506404012,0.0004424778761061947,S-Adenosylmethionine,"Amino acids, peptides, and analogues"
+C15H24N2O17P2,Negative,24,1986,566.05502131191,0.012084592145015106,Uridine diphosphate glucose,"Nucleosides, nucleotides, and analogues"
+C15H24N2O17P2,Positive,0,2331,566.05502131191,0.0,Uridine diphosphate glucose,"Nucleosides, nucleotides, and analogues"
+C16H32O2,Negative,534,2042,256.2402302705,0.2615083251714006,Palmitic acid,Lipids and lipid-like molecules
+C16H32O2,Positive,3,2056,256.2402302705,0.0014591439688715954,Palmitic acid,Lipids and lipid-like molecules
+C17H20N4O6,Negative,1,2272,376.13828437974,0.00044014084507042255,Riboflavin,Vitamins and cofactors
+C17H20N4O6,Positive,2,2260,376.13828437974,0.0008849557522123894,Riboflavin,Vitamins and cofactors
+C17H21N4O9P,Negative,1,2262,456.1046152691,0.0004420866489832007,Flavin mononucleotide,Vitamins and cofactors
+C17H21N4O9P,Positive,1,2271,456.1046152691,0.00044033465433729633,Flavin mononucleotide,Vitamins and cofactors
+C17H27N3O17P2,Negative,155,1940,607.08157041303,0.07989690721649484,Uridine diphosphate-N-acetylglucosamine,"Nucleosides, nucleotides, and analogues"
+C17H27N3O17P2,Positive,1,2332,607.08157041303,0.0004288164665523156,Uridine diphosphate-N-acetylglucosamine,"Nucleosides, nucleotides, and analogues"
+C18H24O2,Negative,0,2206,272.17763001266,0.0,Estradiol,Lipids and lipid-like molecules
+C18H24O2,Positive,2,2186,272.17763001266,0.0009149130832570906,Estradiol,Lipids and lipid-like molecules
+C19H19N7O6,Negative,3,2264,441.13968136079995,0.001325088339222615,Folic acid,Vitamins and cofactors
+C19H19N7O6,Positive,5,2271,441.13968136079995,0.002201673271686482,Folic acid,Vitamins and cofactors
+C20H25N7O6,Negative,0,2268,459.18663155418,0.0,Tetrahydrofolic acid,Vitamins and cofactors
+C20H25N7O6,Positive,8,2271,459.18663155418,0.0035226772346983706,Tetrahydrofolic acid,Vitamins and cofactors
+C20H28O2,Negative,80,2207,300.20893014158,0.03624830086089714,Retinoic acid,Vitamins and cofactors
+C20H28O2,Positive,6,2192,300.20893014158,0.002737226277372263,Retinoic acid,Vitamins and cofactors
+C20H32N6O12S2,Negative,121,1943,612.15196284158,0.06227483273288729,Oxidized glutathione,"Amino acids, peptides, and analogues"
+C20H32N6O12S2,Positive,7,2333,612.15196284158,0.0030004286326618087,Oxidized glutathione,"Amino acids, peptides, and analogues"
+C20H32O2,Negative,1077,2207,304.2402302705,0.4879927503398278,Arachidonic acid,Lipids and lipid-like molecules
+C20H32O2,Positive,9,2191,304.2402302705,0.004107713372889092,Arachidonic acid,Lipids and lipid-like molecules
+C20H34O5,Negative,4,2245,354.24062419367,0.0017817371937639199,Prostaglandin E1,Lipids and lipid-like molecules
+C20H34O5,Positive,4,2210,354.24062419367,0.0018099547511312218,Prostaglandin E1,Lipids and lipid-like molecules
+C21H28N7O14P2,Negative,0,1943,664.11694760427,0.0,Nicotinamide adenine dinucleotide (NAD),"Nucleosides, nucleotides, and analogues"
+C21H28N7O14P2,Positive,0,2317,664.11694760427,0.0,Nicotinamide adenine dinucleotide (NAD),"Nucleosides, nucleotides, and analogues"
+C21H29N7O14P2,Negative,10,1943,665.1247726365,0.0051466803911477095,"Nicotinamide adenine dinucleotide, reduced (NADH)","Nucleosides, nucleotides, and analogues"
+C21H29N7O14P2,Positive,23,2317,665.1247726365,0.009926629261976695,"Nicotinamide adenine dinucleotide, reduced (NADH)","Nucleosides, nucleotides, and analogues"
+C21H36N7O16P3S,Negative,12,1634,767.1152102740699,0.0073439412484700125,Coenzyme A,Vitamins and cofactors
+C21H36N7O16P3S,Positive,2,2316,767.1152102740699,0.0008635578583765112,Coenzyme A,Vitamins and cofactors
+C21H40O4,Negative,241,2245,356.29265976748,0.10734966592427617,MG 18:1,Lipids and lipid-like molecules
+C21H40O4,Positive,4,2210,356.29265976748,0.0018099547511312218,MG 18:1,Lipids and lipid-like molecules
+C21H41O7P,Negative,390,2266,436.25899065683996,0.17210944395410416,Lyso PA 18:1,Lipids and lipid-like molecules
+C21H41O7P,Positive,96,2273,436.25899065683996,0.04223493180818302,Lyso PA 18:1,Lipids and lipid-like molecules
+C22H45O9P,Negative,0,2276,484.28012002490004,0.0,Lyso PG 16:0,Lipids and lipid-like molecules
+C22H45O9P,Positive,0,2315,484.28012002490004,0.0,Lyso PG 16:0,Lipids and lipid-like molecules
+C23H38N7O17P3S,Negative,1,1633,809.1257749581,0.000612369871402327,Acetyl-CoA,Vitamins and cofactors
+C23H38N7O17P3S,Positive,0,2306,809.1257749581,0.0,Acetyl-CoA,Vitamins and cofactors
+C23H44NO9P,Negative,0,2005,509.27536899710003,0.0,Lyso PS 17:1,Lipids and lipid-like molecules
+C23H44NO9P,Positive,0,2306,509.27536899710003,0.0,Lyso PS 17:1,Lipids and lipid-like molecules
+C23H45NO4,Negative,0,2272,399.33485893306,0.0,CAR 16:0,Lipids and lipid-like molecules
+C23H45NO4,Positive,235,2260,399.33485893306,0.10398230088495575,CAR 16:0,Lipids and lipid-like molecules
+C23H48NO7P,Negative,1143,2277,481.31683988687996,0.5019762845849802,Lyso PC 15:0,Lipids and lipid-like molecules
+C23H48NO7P,Negative,1143,2277,481.31683988687996,0.5019762845849802,Lyso PE 18:0,Lipids and lipid-like molecules
+C23H48NO7P,Positive,20,2314,481.31683988687996,0.00864304235090752,Lyso PC 15:0,Lipids and lipid-like molecules
+C23H48NO7P,Positive,20,2314,481.31683988687996,0.00864304235090752,Lyso PE 18:0,Lipids and lipid-like molecules
+C24H40O5,Negative,4,2266,408.28757438705,0.00176522506619594,Cholic acid,Lipids and lipid-like molecules
+C24H40O5,Positive,2,2251,408.28757438705,0.000888494002665482,Cholic acid,Lipids and lipid-like molecules
+C26H45NO7S,Negative,92,2005,515.29167396617,0.04588528678304239,Taurocholic acid,Lipids and lipid-like molecules
+C26H45NO7S,Positive,9,2311,515.29167396617,0.0038944180008654264,Taurocholic acid,Lipids and lipid-like molecules
+C26H49O12P,Negative,0,1984,584.29616401253,0.0,Lyso PI 17:1,Lipids and lipid-like molecules
+C26H49O12P,Positive,0,2334,584.29616401253,0.0,Lyso PI 17:1,Lipids and lipid-like molecules
+C27H33N9O15P2,Negative,37,1633,785.15713539385,0.0226576852418861,Flavin adenine dinucleotide,Vitamins and cofactors
+C27H33N9O15P2,Positive,23,2316,785.15713539385,0.009930915371329879,Flavin adenine dinucleotide,Vitamins and cofactors
+C27H44O,Negative,0,2272,384.33921603769,0.0,Cholecalciferol,Lipids and lipid-like molecules
+C27H44O,Positive,15,2260,384.33921603769,0.00663716814159292,Cholecalciferol,Lipids and lipid-like molecules
+C27H46O,Negative,1,2272,386.35486610215,0.00044014084507042255,Cholesterol,Lipids and lipid-like molecules
+C27H46O,Positive,12,2260,386.35486610215,0.005309734513274336,Cholesterol,Lipids and lipid-like molecules
+C29H48O2,Negative,1,2266,428.36543078618,0.000441306266548985,Cholesteryl acetate,Lipids and lipid-like molecules
+C29H48O2,Positive,10,2273,428.36543078618,0.004399472063352398,Cholesteryl acetate,Lipids and lipid-like molecules
+C29H50O2,Negative,54,2266,430.38108085064,0.02383053839364519,alpha-tocopherol,Vitamins and cofactors
+C29H50O2,Positive,1,2273,430.38108085064,0.0004399472063352398,alpha-tocopherol,Vitamins and cofactors
+C2H5NO2,Negative,0,1228,75.03202840472,0.0,Glycine,"Amino acids, peptides, and analogues"
+C2H5NO2,Positive,0,650,75.03202840472,0.0,Glycine,"Amino acids, peptides, and analogues"
+C2H7NO3S,Negative,621,1505,125.01466426315001,0.412624584717608,Taurine,"Amino acids, peptides, and analogues"
+C2H7NO3S,Positive,10,998,125.01466426315001,0.01002004008016032,Taurine,"Amino acids, peptides, and analogues"
+C31H46O2,Negative,0,2264,450.34978072172,0.0,Phylloquinone,Vitamins and cofactors
+C31H46O2,Positive,0,2271,450.34978072172,0.0,Phylloquinone,Vitamins and cofactors
+C33H56O6,Negative,0,1990,548.4076895223,0.0,Glucosyl cholesterol,Lipids and lipid-like molecules
+C33H56O6,Positive,0,2311,548.4076895223,0.0,Glucosyl cholesterol,Lipids and lipid-like molecules
+C37H66N7O17P3S,Negative,1,749,1005.34487586054,0.0013351134846461949,Palmitoyl-CoA,Lipids and lipid-like molecules
+C37H66N7O17P3S,Positive,0,1881,1005.34487586054,0.0,Palmitoyl-CoA,Lipids and lipid-like molecules
+C37H71O8P,Negative,756,1943,674.4886562433101,0.38908903757076685,PA 16:0-18:1,Lipids and lipid-like molecules
+C37H71O8P,Positive,603,2316,674.4886562433101,0.2603626943005181,PA 16:0-18:1,Lipids and lipid-like molecules
+C39H79N2O6P,Negative,62,1637,702.5675752708701,0.037874160048869884,SM d18:1-16:0,Lipids and lipid-like molecules
+C39H79N2O6P,Positive,1120,2315,702.5675752708701,0.4838012958963283,SM d18:1-16:0,Lipids and lipid-like molecules
+C3H4O3,Negative,3,1237,88.01604398763001,0.002425222312045271,Pyruvic acid,Carboxylic acids
+C3H4O3,Positive,0,740,88.01604398763001,0.0,Pyruvic acid,Carboxylic acids
+C3H4O4,Negative,1,1250,104.0109586072,0.0008,Malonic acid,Carboxylic acids
+C3H4O4,Positive,0,749,104.0109586072,0.0,Malonic acid,Carboxylic acids
+C3H5O6P,Negative,15,1780,167.98237487699,0.008426966292134831,Phosphoenolpyruvic acid,Carboxylic acids
+C3H5O6P,Positive,0,1244,167.98237487699,0.0,Phosphoenolpyruvic acid,Carboxylic acids
+C3H6O3,Negative,20,1247,90.03169405209,0.01603849238171612,Lactic acid,Carboxylic acids
+C3H6O3,Negative,20,1247,90.03169405209,0.01603849238171612,Dihydroxyacetone,Carbohydrates
+C3H6O3,Positive,0,740,90.03169405209,0.0,Lactic acid,Carboxylic acids
+C3H6O3,Positive,0,740,90.03169405209,0.0,Dihydroxyacetone,Carbohydrates
+C3H7NO2S,Negative,0,1504,121.01974964358,0.0,Cysteine,"Amino acids, peptides, and analogues"
+C3H7NO2S,Positive,0,992,121.01974964358,0.0,Cysteine,"Amino acids, peptides, and analogues"
+C3H7NO3,Negative,49,1251,105.04259308875,0.03916866506794564,Serine,"Amino acids, peptides, and analogues"
+C3H7NO3,Positive,2,749,105.04259308875,0.0026702269692923898,Serine,"Amino acids, peptides, and analogues"
+C3H7O6P,Negative,5,1860,169.99802494145,0.002688172043010753,Dihydroxyacetone phosphate,Carbohydrates
+C3H7O6P,Positive,0,1363,169.99802494145,0.0,Dihydroxyacetone phosphate,Carbohydrates
+C3H7O7P,Negative,29,1865,185.99293956102,0.015549597855227882,3-Phosphoglyceric acid,Carboxylic acids
+C3H7O7P,Positive,0,1380,185.99293956102,0.0,3-Phosphoglyceric acid,Carboxylic acids
+C3H8NO6P,Negative,6,1864,185.00892397811,0.003218884120171674,Phosphoserine,"Amino acids, peptides, and analogues"
+C3H8NO6P,Positive,4,1375,185.00892397811,0.002909090909090909,Phosphoserine,"Amino acids, peptides, and analogues"
+C3H9O6P,Negative,321,1862,172.01367500591002,0.1723952738990333,Glycerol 3-phosphate,Carbohydrates
+C3H9O6P,Positive,5,1365,172.01367500591002,0.003663003663003663,Glycerol 3-phosphate,Carbohydrates
+C40H76NO10P,Negative,528,1634,761.52068464803,0.32313341493268055,PS (POPS) 16:0-18:1,Lipids and lipid-like molecules
+C40H76NO10P,Positive,2,2316,761.52068464803,0.0008635578583765112,PS (POPS) 16:0-18:1,Lipids and lipid-like molecules
+C40H77O10P,Negative,396,1634,748.5254356758301,0.2423500611995104,PG 16:0-18:1,Lipids and lipid-like molecules
+C40H77O10P,Positive,46,2316,748.5254356758301,0.019861830742659757,PG 16:0-18:1,Lipids and lipid-like molecules
+C40H79NO3,Negative,158,1943,621.60599540931,0.08131755018013381,Cer d8:1/22:0 Cer,Lipids and lipid-like molecules
+C40H79NO3,Positive,12,2333,621.60599540931,0.005143591941705958,Cer d8:1/22:0 Cer,Lipids and lipid-like molecules
+C41H80NO8P,Negative,782,1634,745.56215553781,0.4785801713586291,PC 15:0-18:1,Lipids and lipid-like molecules
+C41H80NO8P,Positive,140,2316,745.56215553781,0.06044905008635579,PC 15:0-18:1,Lipids and lipid-like molecules
+C42H81NO12S,Negative,0,1633,823.5479482243001,0.0,Sulfo GalCer 18:0(2S-OH),Lipids and lipid-like molecules
+C42H81NO12S,Positive,0,2281,823.5479482243001,0.0,Sulfo GalCer 18:0(2S-OH),Lipids and lipid-like molecules
+C42H81NO8,Negative,15,1635,727.59621857162,0.009174311926605505,GlcCer d18:1/18:0,Lipids and lipid-like molecules
+C42H81NO8,Positive,19,2315,727.59621857162,0.008207343412526998,GlcCer d18:1/18:0,Lipids and lipid-like molecules
+C42H84NO7P,Negative,7,1634,745.59854104716,0.004283965728274173,PC (O) C16-18:1,Lipids and lipid-like molecules
+C42H84NO7P,Positive,216,2316,745.59854104716,0.09326424870466321,PC (O) C16-18:1,Lipids and lipid-like molecules
+C43H72O5,Negative,1,1943,668.53797541841,0.000514668039114771,DG 18:0-22:6,Lipids and lipid-like molecules
+C43H72O5,Positive,2,2316,668.53797541841,0.0008635578583765112,DG 18:0-22:6,Lipids and lipid-like molecules
+C43H78NO8P,Negative,943,1634,767.54650547335,0.5771113831089352,PE 18:0-20:4,Lipids and lipid-like molecules
+C43H78NO8P,Positive,448,2316,767.54650547335,0.19343696027633853,PE 18:0-20:4,Lipids and lipid-like molecules
+C43H81O13P,Negative,592,1633,836.54147966346,0.3625229638701776,PI 16:0-18:1,Lipids and lipid-like molecules
+C43H81O13P,Positive,1,2280,836.54147966346,0.0004385964912280702,PI 16:0-18:1,Lipids and lipid-like molecules
+C44H78O2,Negative,0,1943,638.60018175308,0.0,Cholesteryl ester 17:0,Lipids and lipid-like molecules
+C44H78O2,Positive,0,2330,638.60018175308,0.0,Cholesteryl ester 17:0,Lipids and lipid-like molecules
+C45H84O16P2,Negative,4,1469,942.5234606172801,0.002722940776038121,PI(5)P 18:1,Lipids and lipid-like molecules
+C45H84O16P2,Positive,0,2066,942.5234606172801,0.0,PI(5)P 18:1,Lipids and lipid-like molecules
+C4H10N3O5P,Negative,7,2000,211.03580743186,0.0035,Phosphocreatine,"Amino acids, peptides, and analogues"
+C4H10N3O5P,Positive,4,1588,211.03580743186,0.0025188916876574307,Phosphocreatine,"Amino acids, peptides, and analogues"
+C4H12N2,Negative,1,1247,88.10004839562001,0.0008019246190858059,Putrescine,Amines
+C4H12N2,Positive,0,740,88.10004839562001,0.0,Putrescine,Amines
+C4H4N2O2,Negative,8,1497,112.02727737692,0.005344021376085505,Uracil,"Nucleosides, nucleotides, and analogues"
+C4H4N2O2,Positive,0,956,112.02727737692,0.0,Uracil,"Nucleosides, nucleotides, and analogues"
+C4H4O4,Negative,17,1504,116.0109586072,0.011303191489361703,Fumaric acid,Carboxylic acids
+C4H4O4,Positive,0,991,116.0109586072,0.0,Fumaric acid,Carboxylic acids
+C4H4O5,Negative,5,1505,132.00587322677,0.0033222591362126247,Oxalacetic acid,Carboxylic acids
+C4H4O5,Positive,0,1004,132.00587322677,0.0,Oxalacetic acid,Carboxylic acids
+C4H5N3O,Negative,0,1392,111.04326179401,0.0,Cytosine,"Nucleosides, nucleotides, and analogues"
+C4H5N3O,Positive,11,865,111.04326179401,0.012716763005780347,Cytosine,"Nucleosides, nucleotides, and analogues"
+C4H6O3,Negative,1,1250,102.03169405209,0.0008,Acetoacetic acid,Carboxylic acids
+C4H6O3,Positive,0,749,102.03169405209,0.0,Acetoacetic acid,Carboxylic acids
+C4H6O4,Negative,73,1504,118.02660867166,0.04853723404255319,Succinic acid,Carboxylic acids
+C4H6O4,Positive,0,992,118.02660867166,0.0,Succinic acid,Carboxylic acids
+C4H6O5,Negative,495,1505,134.02152329122998,0.3289036544850498,Malic acid,Carboxylic acids
+C4H6O5,Positive,0,1004,134.02152329122998,0.0,Malic acid,Carboxylic acids
+C4H7N3O,Negative,0,1497,113.05891185847,0.0,Creatinine,"Amino acids, peptides, and analogues"
+C4H7N3O,Positive,13,971,113.05891185847,0.013388259526261586,Creatinine,"Amino acids, peptides, and analogues"
+C4H7NO4,Negative,568,1505,133.03750770832,0.37740863787375417,Aspartic acid,"Amino acids, peptides, and analogues"
+C4H7NO4,Positive,1,1004,133.03750770832,0.00099601593625498,Aspartic acid,"Amino acids, peptides, and analogues"
+C4H8N2O3,Negative,38,1505,132.05349212541,0.02524916943521595,Asparagine,"Amino acids, peptides, and analogues"
+C4H8N2O3,Positive,2,1004,132.05349212541,0.00199203187250996,Asparagine,"Amino acids, peptides, and analogues"
+C4H8O2,Negative,0,1247,88.05242949698,0.0,Butyric acid,Carboxylic acids
+C4H8O2,Positive,1,740,88.05242949698,0.0013513513513513514,Butyric acid,Carboxylic acids
+C4H9N3O2,Negative,46,1505,131.0694765425,0.030564784053156147,Creatine,"Amino acids, peptides, and analogues"
+C4H9N3O2,Positive,40,1004,131.0694765425,0.0398406374501992,Creatine,"Amino acids, peptides, and analogues"
+C4H9NO2,Negative,2,1250,103.06332853364,0.0016,gamma-Aminobutyric acid,"Amino acids, peptides, and analogues"
+C4H9NO2,Positive,5,749,103.06332853364,0.006675567423230975,gamma-Aminobutyric acid,"Amino acids, peptides, and analogues"
+C4H9NO2S,Negative,0,1505,135.03539970804002,0.0,Homocysteine,"Amino acids, peptides, and analogues"
+C4H9NO2S,Positive,1,1004,135.03539970804002,0.00099601593625498,Homocysteine,"Amino acids, peptides, and analogues"
+C51H96O6,Negative,2,1633,804.7206908114999,0.001224739742804654,TG 15:0-18:1-15:0,Lipids and lipid-like molecules
+C51H96O6,Positive,188,2306,804.7206908114999,0.08152645273200347,TG 15:0-18:1-15:0,Lipids and lipid-like molecules
+C59H108N2O21,Negative,13,455,1180.7444585006701,0.02857142857142857,GM3 Ganglioside 18:0,Lipids and lipid-like molecules
+C59H108N2O21,Positive,0,1831,1180.7444585006701,0.0,GM3 Ganglioside 18:0,Lipids and lipid-like molecules
+C5H10N2O3,Negative,396,1508,146.06914218987,0.2625994694960212,Glutamine,"Amino acids, peptides, and analogues"
+C5H10N2O3,Positive,23,1008,146.06914218987,0.022817460317460316,Glutamine,"Amino acids, peptides, and analogues"
+C5H10O5,Negative,8,1509,150.05282342015,0.005301524188204109,Ribulose,Carbohydrates
+C5H10O5,Positive,1,1008,150.05282342015,0.000992063492063492,Ribulose,Carbohydrates
+C5H11NO2,Negative,2,1504,117.0789785981,0.0013297872340425532,Valine,"Amino acids, peptides, and analogues"
+C5H11NO2,Positive,27,992,117.0789785981,0.02721774193548387,Valine,"Amino acids, peptides, and analogues"
+C5H11NO2S,Negative,2,1509,149.0510497725,0.0013253810470510272,Methionine,"Amino acids, peptides, and analogues"
+C5H11NO2S,Positive,1,1008,149.0510497725,0.000992063492063492,Methionine,"Amino acids, peptides, and analogues"
+C5H11O8P,Negative,4,2033,230.01915430951001,0.001967535661583866,Ribulose 5-phosphate,Carbohydrates
+C5H11O8P,Negative,4,2033,230.01915430951001,0.001967535661583866,Ribose 5-phosphate,Carbohydrates
+C5H11O8P,Positive,0,2048,230.01915430951001,0.0,Ribulose 5-phosphate,Carbohydrates
+C5H11O8P,Positive,0,2048,230.01915430951001,0.0,Ribose 5-phosphate,Carbohydrates
+C5H12N2O2,Negative,12,1505,132.08987763476,0.007973421926910298,Ornithine,"Amino acids, peptides, and analogues"
+C5H12N2O2,Positive,2,1004,132.08987763476,0.00199203187250996,Ornithine,"Amino acids, peptides, and analogues"
+C5H14N4,Negative,0,1505,130.12184646894,0.0,Agmatine,Amines
+C5H14N4,Positive,4,1004,130.12184646894,0.00398406374501992,Agmatine,Amines
+C5H14NO,Negative,0,1250,104.10753907522,0.0,Choline,Amines
+C5H14NO,Positive,1,749,104.10753907522,0.0013351134846461949,Choline,Amines
+C5H4N2O4,Negative,0,1513,156.01710661606,0.0,Orotic acid,"Nucleosides, nucleotides, and analogues"
+C5H4N2O4,Positive,0,1009,156.01710661606,0.0,Orotic acid,"Nucleosides, nucleotides, and analogues"
+C5H4N4O,Negative,220,1505,136.03851076620998,0.1461794019933555,Hypoxanthine,"Nucleosides, nucleotides, and analogues"
+C5H4N4O,Positive,13,1005,136.03851076620998,0.012935323383084577,Hypoxanthine,"Nucleosides, nucleotides, and analogues"
+C5H4N4O2,Negative,178,1512,152.03342538578,0.11772486772486772,Xanthine,"Nucleosides, nucleotides, and analogues"
+C5H4N4O2,Positive,2,1009,152.03342538578,0.0019821605550049554,Xanthine,"Nucleosides, nucleotides, and analogues"
+C5H4N4O3,Negative,159,1780,168.02834000535,0.08932584269662922,Uric acid,"Nucleosides, nucleotides, and analogues"
+C5H4N4O3,Positive,2,1244,168.02834000535,0.001607717041800643,Uric acid,"Nucleosides, nucleotides, and analogues"
+C5H5N5,Negative,219,1505,135.0544951833,0.14551495016611296,Adenine,"Nucleosides, nucleotides, and analogues"
+C5H5N5,Positive,29,1004,135.0544951833,0.02888446215139442,Adenine,"Nucleosides, nucleotides, and analogues"
+C5H5N5O,Negative,33,1512,151.04940980287,0.021825396825396824,Guanine,"Nucleosides, nucleotides, and analogues"
+C5H5N5O,Positive,18,1009,151.04940980287,0.017839444995044598,Guanine,"Nucleosides, nucleotides, and analogues"
+C5H6N2O2,Negative,11,1505,126.04292744138,0.007308970099667774,Thymine,"Nucleosides, nucleotides, and analogues"
+C5H6N2O2,Positive,2,998,126.04292744138,0.002004008016032064,Thymine,"Nucleosides, nucleotides, and analogues"
+C5H6N2O4,Negative,1,1513,158.03275668051998,0.0006609385327164573,"4,5-Dihydroorotic acid","Nucleosides, nucleotides, and analogues"
+C5H6N2O4,Positive,1,1009,158.03275668051998,0.0009910802775024777,"4,5-Dihydroorotic acid","Nucleosides, nucleotides, and analogues"
+C5H6O5,Negative,6,1508,146.02152329122998,0.003978779840848806,2-Oxoglutaric acid,Carboxylic acids
+C5H6O5,Positive,0,1008,146.02152329122998,0.0,2-Oxoglutaric acid,Carboxylic acids
+C5H8N2O5,Negative,0,1863,176.04332136455,0.0,Ureidosuccinic acid,"Amino acids, peptides, and analogues"
+C5H8N2O5,Positive,0,1366,176.04332136455,0.0,Ureidosuccinic acid,"Amino acids, peptides, and analogues"
+C5H9N3,Negative,1,1495,111.07964730335999,0.0006688963210702341,Histamine,Amines
+C5H9N3,Positive,12,900,111.07964730335999,0.013333333333333334,Histamine,Amines
+C5H9NO2,Negative,0,1503,115.06332853364,0.0,Proline,"Amino acids, peptides, and analogues"
+C5H9NO2,Positive,10,988,115.06332853364,0.010121457489878543,Proline,"Amino acids, peptides, and analogues"
+C5H9NO3,Negative,28,1505,131.05824315321001,0.018604651162790697,4-Hydroxyproline,"Amino acids, peptides, and analogues"
+C5H9NO3,Positive,4,1004,131.05824315321001,0.00398406374501992,4-Hydroxyproline,"Amino acids, peptides, and analogues"
+C5H9NO4,Negative,809,1509,147.05315777278003,0.5361166335321405,Glutamic acid,"Amino acids, peptides, and analogues"
+C5H9NO4,Positive,13,1008,147.05315777278003,0.012896825396825396,Glutamic acid,"Amino acids, peptides, and analogues"
+C6H10O5,Negative,111,1754,162.05282342015,0.06328392246294184,3-Hydroxymethylglutaric acid,Carboxylic acids
+C6H10O5,Positive,1,1102,162.05282342015,0.0009074410163339383,3-Hydroxymethylglutaric acid,Carboxylic acids
+C6H12N2O4S2,Negative,14,2042,240.0238492227,0.0068560235063663075,Cystine,"Amino acids, peptides, and analogues"
+C6H12N2O4S2,Positive,0,2054,240.0238492227,0.0,Cystine,"Amino acids, peptides, and analogues"
+C6H12O4,Negative,1,1509,148.07355886504,0.0006626905235255136,Mevalonic acid,Carboxylic acids
+C6H12O4,Positive,0,1008,148.07355886504,0.0,Mevalonic acid,Carboxylic acids
+C6H12O6,Negative,723,1863,180.06338810418,0.38808373590982287,Glucose,Carbohydrates
+C6H12O6,Negative,723,1863,180.06338810418,0.38808373590982287,myo-Inositol,Carbohydrates
+C6H12O6,Positive,16,1368,180.06338810418,0.011695906432748537,Glucose,Carbohydrates
+C6H12O6,Positive,16,1368,180.06338810418,0.011695906432748537,myo-Inositol,Carbohydrates
+C6H12O7,Negative,303,1866,196.05830272375,0.16237942122186494,Gluconic acid,Carbohydrates
+C6H12O7,Positive,2,1395,196.05830272375,0.0014336917562724014,Gluconic acid,Carbohydrates
+C6H13N3O3,Negative,131,1863,175.09569129099,0.0703166935050993,Citrulline,"Amino acids, peptides, and analogues"
+C6H13N3O3,Positive,1,1366,175.09569129099,0.0007320644216691069,Citrulline,"Amino acids, peptides, and analogues"
+C6H13NO5,Negative,10,1863,179.07937252127,0.005367686527106817,Glucosamine,Carbohydrates
+C6H13NO5,Positive,0,1367,179.07937252127,0.0,Glucosamine,Carbohydrates
+C6H13O10P,Negative,126,2206,276.02463361311,0.057116953762466005,6-Phosphogluconic acid,Carbohydrates
+C6H13O10P,Positive,0,2190,276.02463361311,0.0,6-Phosphogluconic acid,Carbohydrates
+C6H13O9P,Negative,250,2042,260.02971899354003,0.12242899118511263,Glucose 6-phosphate,Carbohydrates
+C6H13O9P,Negative,250,2042,260.02971899354003,0.12242899118511263,Myo-inositol 1-phosphate,Carbohydrates
+C6H13O9P,Positive,2,2057,260.02971899354003,0.0009722897423432182,Glucose 6-phosphate,Carbohydrates
+C6H13O9P,Positive,2,2057,260.02971899354003,0.0009722897423432182,Myo-inositol 1-phosphate,Carbohydrates
+C6H14N4O2,Negative,25,1863,174.11167570807999,0.013419216317767043,Arginine,"Amino acids, peptides, and analogues"
+C6H14N4O2,Positive,39,1366,174.11167570807999,0.02855051244509517,Arginine,"Amino acids, peptides, and analogues"
+C6H14NO8P,Negative,2,2042,259.04570341063004,0.0009794319294809011,Glucosamine 6-phosphate,Carbohydrates
+C6H14NO8P,Positive,6,2057,259.04570341063004,0.002916869227029655,Glucosamine 6-phosphate,Carbohydrates
+C6H14O12P2,Negative,17,2245,339.9960498829,0.0075723830734966595,"Fructose 1,6-bisphosphate",Carbohydrates
+C6H14O12P2,Positive,0,2210,339.9960498829,0.0,"Fructose 1,6-bisphosphate",Carbohydrates
+C6H5NO2,Negative,0,1505,123.03202840472,0.0,Nicotinic acid,Vitamins and cofactors
+C6H5NO2,Positive,2,995,123.03202840472,0.0020100502512562816,Nicotinic acid,Vitamins and cofactors
+C6H6N2O,Negative,0,1505,122.04801282181,0.0,Niacinamide,Vitamins and cofactors
+C6H6N2O,Positive,14,995,122.04801282181,0.01407035175879397,Niacinamide,Vitamins and cofactors
+C6H6N2O2,Negative,125,1505,138.04292744138002,0.08305647840531562,Urocanic acid,"Amino acids, peptides, and analogues"
+C6H6N2O2,Positive,14,1005,138.04292744138002,0.013930348258706468,Urocanic acid,"Amino acids, peptides, and analogues"
+C6H6O6,Negative,242,1862,174.0164379108,0.12996777658431793,cis-Aconitic acid,Carboxylic acids
+C6H6O6,Positive,0,1366,174.0164379108,0.0,cis-Aconitic acid,Carboxylic acids
+C6H8O6,Negative,336,1863,176.03208797526003,0.18035426731078905,Ascorbic acid,Carboxylic acids
+C6H8O6,Positive,0,1366,176.03208797526003,0.0,Ascorbic acid,Carboxylic acids
+C6H8O7,Negative,504,1866,192.02700259483,0.27009646302250806,Citric acid,Carboxylic acids
+C6H8O7,Positive,0,1395,192.02700259483,0.0,Citric acid,Carboxylic acids
+C6H9N3O2,Negative,136,1514,155.0694765425,0.08982826948480846,Histidine,"Amino acids, peptides, and analogues"
+C6H9N3O2,Positive,10,1009,155.0694765425,0.009910802775024777,Histidine,"Amino acids, peptides, and analogues"
+C6H9NO5,Negative,444,1863,175.04807239235,0.23832528180354268,N-Acetylaspartic acid,"Amino acids, peptides, and analogues"
+C6H9NO5,Positive,4,1366,175.04807239235,0.0029282576866764276,N-Acetylaspartic acid,"Amino acids, peptides, and analogues"
+C7H15NO3,Negative,0,1754,161.10519334659,0.0,Carnitine,Amines
+C7H15NO3,Positive,94,1097,161.10519334659,0.08568824065633546,Carnitine,Amines
+C7H16NO2,Negative,0,1508,146.11810375925,0.0,Acetylcholine,Amines
+C7H16NO2,Positive,0,1008,146.11810375925,0.0,Acetylcholine,Amines
+C7H19N3,Negative,0,1508,145.15789762565998,0.0,Spermidine,Amines
+C7H19N3,Positive,28,1008,145.15789762565998,0.027777777777777776,Spermidine,Amines
+C7H5NO4,Negative,6,1776,167.02185764386002,0.0033783783783783786,Quinolinic acid,Carboxylic acids
+C7H5NO4,Positive,2,1234,167.02185764386002,0.0016207455429497568,Quinolinic acid,Carboxylic acids
+C7H7NO3,Negative,3,1512,153.04259308874998,0.001984126984126984,3-Hydroxyanthranilic acid,"Amino acids, peptides, and analogues"
+C7H7NO3,Positive,5,1009,153.04259308874998,0.004955401387512388,3-Hydroxyanthranilic acid,"Amino acids, peptides, and analogues"
+C81H150O17P2,Negative,4,331,1457.03482736403,0.012084592145015106,Cardiolipin 18:1,Lipids and lipid-like molecules
+C81H150O17P2,Positive,0,1105,1457.03482736403,0.0,Cardiolipin 18:1,Lipids and lipid-like molecules
+C8H11NO2,Negative,2,1512,153.07897859809998,0.0013227513227513227,Dopamine,"Amino acids, peptides, and analogues"
+C8H11NO2,Positive,6,1009,153.07897859809998,0.005946481665014866,Dopamine,"Amino acids, peptides, and analogues"
+C8H11NO3,Negative,4,1860,169.07389321767,0.002150537634408602,Pyridoxine,Vitamins and cofactors
+C8H11NO3,Positive,3,1363,169.07389321767,0.0022010271460014674,Pyridoxine,Vitamins and cofactors
+C8H15NO6,Negative,58,2033,221.08993720530003,0.02852926709296606,N-Acetylglucosamine,Carbohydrates
+C8H15NO6,Positive,9,2048,221.08993720530003,0.00439453125,N-Acetylglucosamine,Carbohydrates
+C8H16NO9P,Negative,20,2207,301.05626809466,0.009062075215224286,N-Acetylgalactosamine 6-phosphate,Carbohydrates
+C8H16NO9P,Positive,0,2191,301.05626809466,0.0,N-Acetylgalactosamine 6-phosphate,Carbohydrates
+C8H20NO6P,Negative,5,2042,257.10282436487,0.002448579823702253,Glycerophosphocholine,Amines
+C8H20NO6P,Positive,316,2056,257.10282436487,0.15369649805447472,Glycerophosphocholine,Amines
+C8H7N,Negative,3,1504,117.05784923004,0.0019946808510638296,Indole,"Amino acids, peptides, and analogues"
+C8H7N,Positive,4,992,117.05784923004,0.004032258064516129,Indole,"Amino acids, peptides, and analogues"
+C9H11NO2,Negative,16,1774,165.07897859809998,0.009019165727170236,Phenylalanine,"Amino acids, peptides, and analogues"
+C9H11NO2,Positive,14,1223,165.07897859809998,0.011447260834014717,Phenylalanine,"Amino acids, peptides, and analogues"
+C9H11NO3,Negative,8,1863,181.07389321767,0.0042941492216854536,Tyrosine,"Amino acids, peptides, and analogues"
+C9H11NO3,Positive,14,1368,181.07389321767,0.01023391812865497,Tyrosine,"Amino acids, peptides, and analogues"
+C9H11NO4,Negative,2,1866,197.06880783724,0.0010718113612004287,L-Dopa,"Amino acids, peptides, and analogues"
+C9H11NO4,Positive,3,1396,197.06880783724,0.002148997134670487,L-Dopa,"Amino acids, peptides, and analogues"
+C9H12N2O6,Negative,254,2042,244.06953611304002,0.12438785504407443,Uridine,"Nucleosides, nucleotides, and analogues"
+C9H12N2O6,Positive,1,2054,244.06953611304002,0.0004868549172346641,Uridine,"Nucleosides, nucleotides, and analogues"
+C9H13N3O5,Negative,8,2042,243.08552053013,0.0039177277179236044,Cytidine,"Nucleosides, nucleotides, and analogues"
+C9H13N3O5,Positive,13,2054,243.08552053013,0.006329113924050633,Cytidine,"Nucleosides, nucleotides, and analogues"
+C9H13NO3,Negative,1,1864,183.08954328213,0.000536480686695279,Epinephrine,"Amino acids, peptides, and analogues"
+C9H13NO3,Positive,1,1369,183.08954328213,0.0007304601899196494,Epinephrine,"Amino acids, peptides, and analogues"
+C9H14N2O12P2,Negative,110,2267,404.00219789176003,0.04852227613586237,Uridine diphosphate,"Nucleosides, nucleotides, and analogues"
+C9H14N2O12P2,Positive,0,2251,404.00219789176003,0.0,Uridine diphosphate,"Nucleosides, nucleotides, and analogues"
+C9H14N3O8P,Negative,9,2211,323.05185141949,0.004070556309362279,Cytidine monophosphate,"Nucleosides, nucleotides, and analogues"
+C9H14N3O8P,Positive,4,2204,323.05185141949,0.0018148820326678765,Cytidine monophosphate,"Nucleosides, nucleotides, and analogues"
+C9H14N4O3,Negative,50,2033,226.10659032765,0.02459419576979833,Carnosine,"Amino acids, peptides, and analogues"
+C9H14N4O3,Positive,20,2048,226.10659032765,0.009765625,Carnosine,"Amino acids, peptides, and analogues"
+C9H17NO4,Negative,0,1995,203.11575803062,0.0,Acetylcarnitine,Amines
+C9H17NO4,Positive,110,1413,203.11575803062,0.07784854918612881,Acetylcarnitine,Amines
+C9H17NO5,Negative,13,2033,219.11067265019,0.006394490900147565,Pantothenic acid,Vitamins and cofactors
+C9H17NO5,Positive,1,2048,219.11067265019,0.00048828125,Pantothenic acid,Vitamins and cofactors
+C9H20N2O2,Negative,0,1866,188.15247789260002,0.0,"N6,N6,N6-Trimethyllysine","Amino acids, peptides, and analogues"
+C9H20N2O2,Positive,16,1393,188.15247789260002,0.01148600143575018,"N6,N6,N6-Trimethyllysine","Amino acids, peptides, and analogues"
+CH4NO5P,Negative,0,1505,140.98270922962,0.0,Carbamoyl phosphate,Amines
+CH4NO5P,Positive,0,1005,140.98270922962,0.0,Carbamoyl phosphate,Amines

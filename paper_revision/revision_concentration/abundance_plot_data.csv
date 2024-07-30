@@ -1,0 +1,415 @@
+name_short,hmdb_primary,Sample,Concentration / uM
+2-Oxoglutaric acid,HMDB0000208,Human serum,7.95
+3-Hydroxyanthranilic acid,HMDB0001476,Human serum,0.079
+3-Phosphoglyceric acid,HMDB0000807,Human serum,47.2
+4-Hydroxyproline,HMDB0000725,Human serum,15.2
+5-Hydroxyindoleacetic acid,HMDB0000763,Human serum,0.0516
+Acetoacetic acid,HMDB0000060,Human serum,33.11666666666667
+Acetylcarnitine,HMDB0000201,Human serum,6.398000000000001
+Adenine,HMDB0000034,Human serum,0.47
+Adenosine diphosphate,HMDB0001341,Human serum,160.0
+Adenosine monophosphate,HMDB0000045,Human serum,19.075
+Adenosine triphosphate,HMDB0000538,Human serum,2031.3333333333333
+Arachidonic acid,HMDB0001043,Human serum,171.0598896551724
+Arginine,HMDB0000517,Human serum,102.54714285714286
+Ascorbic acid,HMDB0000044,Human serum,36.21988888888889
+Asparagine,HMDB0000168,Human serum,49.675
+Aspartic acid,HMDB0000191,Human serum,17.04
+Biotin,HMDB0000030,Human serum,0.0018349999999999
+Butyric acid,HMDB0000039,Human serum,1.0
+CAR 16:0,HMDB0000222,Human serum,0.1143333333333333
+Carnitine,HMDB0000062,Human serum,39.262857142857136
+Carnosine,HMDB0000033,Human serum,6.54
+Cer d8:1/22:0 Cer,HMDB0004952,Human serum,0.4682142857142857
+Cholecalciferol,HMDB0000876,Human serum,0.03705
+Cholesterol,HMDB0000067,Human serum,3942.181444444445
+Cholesteryl ester 17:0,HMDB0060059,Human serum,32.0
+Cholic acid,HMDB0000619,Human serum,0.72
+Choline,HMDB0000097,Human serum,9.475
+Citric acid,HMDB0000094,Human serum,128.625
+Citrulline,HMDB0000904,Human serum,36.6
+Creatine,HMDB0000064,Human serum,52.23368571428572
+Creatinine,HMDB0000562,Human serum,78.90523076923077
+Cyclic adenosine monophosphate,HMDB0000058,Human serum,0.0085
+Cysteine,HMDB0000574,Human serum,74.465
+Cystine,HMDB0000192,Human serum,101.18
+Cytidine,HMDB0000089,Human serum,0.175
+Cytosine,HMDB0000630,Human serum,6.4
+DG 18:0-22:6,HMDB0007179,Human serum,0.254
+Dihydroxyacetone phosphate,HMDB0001473,Human serum,15.6
+Dihydroxyacetone phosphate,HMDB0001473,Human serum,15.6
+Dopamine,HMDB0000073,Human serum,0.00013
+Epinephrine,HMDB0000068,Human serum,0.0007375
+Estradiol,HMDB0000151,Human serum,0.00011
+Flavin adenine dinucleotide,HMDB0001248,Human serum,0.068
+Flavin mononucleotide,HMDB0001520,Human serum,0.0079499999999999
+Folic acid,HMDB0000121,Human serum,0.015
+"Fructose 1,6-bisphosphate",HMDB0001058,Human serum,1.2
+Fumaric acid,HMDB0000134,Human serum,1.5
+Fumaric acid,HMDB0000134,Human serum,1.5
+Fumaric acid,HMDB0000134,Human serum,1.5
+Gluconic acid,HMDB0000625,Human serum,4.1475
+Glucosamine,HMDB0001514,Human serum,0.29
+Glucose,HMDB0000122,Human serum,4922.7532
+Glucose 6-phosphate,HMDB0001401,Human serum,29.1
+Glutamic acid,HMDB0000148,Human serum,61.14333333333333
+Glutamine,HMDB0000641,Human serum,581.55
+Glutathione,HMDB0000125,Human serum,213.5
+Glycerol 3-phosphate,HMDB0000126,Human serum,30.0
+Glycerophosphocholine,HMDB0000086,Human serum,33.0
+Glycine,HMDB0000123,Human serum,265.4555555555555
+Histamine,HMDB0000870,Human serum,0.00067
+Histidine,HMDB0000177,Human serum,94.46454545454544
+Homocysteine,HMDB0000742,Human serum,11.15775
+Hypoxanthine,HMDB0000157,Human serum,7.199945454545454
+Kynurenic acid,HMDB0000715,Human serum,1.7813333333333334
+Kynurenine,HMDB0000684,Human serum,1.87
+L-Dopa,HMDB0000181,Human serum,0.00723
+Lactic acid,HMDB0000190,Human serum,1703.08
+Lyso PC 15:0,HMDB0010381,Human serum,1.764
+MG 18:1,HMDB0011567,Human serum,170.0
+Malic acid,HMDB0000156,Human serum,7.6
+Malonic acid,HMDB0000691,Human serum,8.592500000000001
+Melatonin,HMDB0001389,Human serum,0.000111
+Methionine,HMDB0000696,Human serum,27.860000000000003
+Mevalonic acid,HMDB0000227,Human serum,0.0355
+N-Acetylaspartylglutamic acid,HMDB0001067,Human serum,4.89
+Niacinamide,HMDB0001406,Human serum,0.235
+Nicotinamide adenine dinucleotide (NAD),HMDB0000902,Human serum,24.3
+"Nicotinamide adenine dinucleotide, reduced (NADH)",HMDB0001487,Human serum,22.0
+Nicotinic acid,HMDB0001488,Human serum,51.150000000000006
+Ornithine,HMDB0000214,Human serum,70.6
+Orotic acid,HMDB0000226,Human serum,2.921333333333333
+Oxidized glutathione,HMDB0003337,Human serum,10.825
+PA 16:0-18:1,HMDB0007859,Human serum,0.147
+PG 16:0-18:1,HMDB0010574,Human serum,0.604
+PI 16:0-18:1,HMDB0009783,Human serum,1.78
+PS (POPS) 16:0-18:1,HMDB0012357,Human serum,0.186
+Palmitic acid,HMDB0000220,Human serum,560.80556
+Pantothenic acid,HMDB0000210,Human serum,3.885
+Phenylalanine,HMDB0000159,Human serum,70.63846153846154
+Phosphoenolpyruvic acid,HMDB0000263,Human serum,17.4
+Phosphoserine,HMDB0000272,Human serum,17.0
+Phylloquinone,HMDB0003555,Human serum,0.001535
+Proline,HMDB0000162,Human serum,189.85
+Propionylcarnitine,HMDB0000824,Human serum,0.3725
+Prostaglandin E1,HMDB0001442,Human serum,6.790000000000001e-05
+Putrescine,HMDB0001414,Human serum,0.168
+Pyridoxine,HMDB0000239,Human serum,0.025
+Pyruvic acid,HMDB0000243,Human serum,60.07142857142857
+Quinolinic acid,HMDB0000232,Human serum,0.5345
+Retinoic acid,HMDB0001852,Human serum,0.10725
+Riboflavin,HMDB0000244,Human serum,0.2725
+Ribose 5-phosphate,HMDB0001548,Human serum,13.2
+Ribulose 5-phosphate,HMDB0000618,Human serum,1.58
+SM d18:1-16:0,HMDB0010169,Human serum,97.7
+Serine,HMDB0000187,Human serum,138.84
+Serotonin,HMDB0000259,Human serum,0.7424999999999999
+Spermidine,HMDB0001257,Human serum,6.28
+Spermine,HMDB0001256,Human serum,5.0
+Succinic acid,HMDB0000254,Human serum,16.099999999999998
+Taurine,HMDB0000251,Human serum,88.8
+Taurocholic acid,HMDB0000036,Human serum,0.38
+Tetrahydrofolic acid,HMDB0001846,Human serum,0.0025
+Thiamine,HMDB0000235,Human serum,0.108
+Tryptophan,HMDB0000929,Human serum,60.57625
+Tyrosine,HMDB0000158,Human serum,79.25
+Uracil,HMDB0000300,Human serum,1.135
+Uric acid,HMDB0000289,Human serum,321.8279166666667
+Uridine,HMDB0000296,Human serum,8.367
+Uridine diphosphate,HMDB0000295,Human serum,41.0
+Uridine diphosphate glucose,HMDB0000286,Human serum,155.0
+Urocanic acid,HMDB0000301,Human serum,0.43
+Urocanic acid,HMDB0000301,Human serum,0.43
+Valine,HMDB0000883,Human serum,234.42
+Xanthine,HMDB0000292,Human serum,24.141
+alpha-tocopherol,HMDB0001893,Human serum,29.002569512195123
+gamma-Aminobutyric acid,HMDB0000112,Human serum,0.11
+myo-Inositol,HMDB0000211,Human serum,29.9312
+2-Oxoglutaric acid,HMDB0000208,Human cell line (HeLa),1250.4074353333333
+3-Phosphoglyceric acid,HMDB0000807,Human cell line (HeLa),242.44940613333333
+"4,5-Dihydroorotic acid",HMDB0000528,Human cell line (HeLa),2.0742494563333334
+Acetyl-CoA,HMDB0001206,Human cell line (HeLa),18.28106108333333
+Acetylcarnitine,HMDB0000201,Human cell line (HeLa),25.293332726666662
+Adenine,HMDB0000034,Human cell line (HeLa),62.251440773333336
+Adenosine diphosphate,HMDB0001341,Human cell line (HeLa),140.18070016666664
+Adenosine monophosphate,HMDB0000045,Human cell line (HeLa),23.202793966666665
+Adenosine triphosphate,HMDB0000538,Human cell line (HeLa),4641.093283333334
+Arginine,HMDB0000517,Human cell line (HeLa),185.81792946666667
+Argininosuccinic acid,HMDB0000052,Human cell line (HeLa),20.80929469333333
+Asparagine,HMDB0000168,Human cell line (HeLa),144.5275129
+Aspartic acid,HMDB0000191,Human cell line (HeLa),6218.973246999999
+Carnitine,HMDB0000062,Human cell line (HeLa),192.0589298333333
+Carnosine,HMDB0000033,Human cell line (HeLa),1.906738717
+Choline,HMDB0000097,Human cell line (HeLa),41.95994152333333
+Citric acid,HMDB0000094,Human cell line (HeLa),1329.1000636666668
+Citrulline,HMDB0000904,Human cell line (HeLa),9.108217636
+Coenzyme A,HMDB0001423,Human cell line (HeLa),14.134809303333332
+Coenzyme A,HMDB0001423,Human cell line (HeLa),14.134809303333332
+Creatine,HMDB0000064,Human cell line (HeLa),2273.4372003333333
+Creatinine,HMDB0000562,Human cell line (HeLa),16.82940417
+Cystine,HMDB0000192,Human cell line (HeLa),0.271093072
+Cytidine,HMDB0000089,Human cell line (HeLa),0.7304283886666667
+Cytidine monophosphate,HMDB0000095,Human cell line (HeLa),22.287357466666663
+Dihydroxyacetone phosphate,HMDB0001473,Human cell line (HeLa),171.2084483
+Dihydroxyacetone phosphate,HMDB0001473,Human cell line (HeLa),171.2084483
+Flavin adenine dinucleotide,HMDB0001248,Human cell line (HeLa),12.89788637
+"Fructose 1,6-bisphosphate",HMDB0001058,Human cell line (HeLa),807.0757489333333
+Fumaric acid,HMDB0000134,Human cell line (HeLa),69.56367660333335
+Fumaric acid,HMDB0000134,Human cell line (HeLa),69.56367660333335
+Fumaric acid,HMDB0000134,Human cell line (HeLa),69.56367660333335
+Glucose 6-phosphate,HMDB0001401,Human cell line (HeLa),145.7426917
+Glutamic acid,HMDB0000148,Human cell line (HeLa),24627.98901666667
+Glutamine,HMDB0000641,Human cell line (HeLa),1368.6172206666668
+Glutathione,HMDB0000125,Human cell line (HeLa),5551.289117333334
+Glycerophosphocholine,HMDB0000086,Human cell line (HeLa),148.2467572
+Glycine,HMDB0000123,Human cell line (HeLa),6725.225958
+Guanine,HMDB0000132,Human cell line (HeLa),7.390724035999999
+Histidine,HMDB0000177,Human cell line (HeLa),1122.4357983333332
+Hypoxanthine,HMDB0000157,Human cell line (HeLa),0.2721590483333333
+Kynurenine,HMDB0000684,Human cell line (HeLa),1.121106062666667
+Lactic acid,HMDB0000190,Human cell line (HeLa),1874.1650653333331
+Malic acid,HMDB0000156,Human cell line (HeLa),679.4539462333333
+Methionine,HMDB0000696,Human cell line (HeLa),406.7723657666667
+Niacinamide,HMDB0001406,Human cell line (HeLa),1.2913002880000002
+Nicotinamide adenine dinucleotide (NAD),HMDB0000902,Human cell line (HeLa),489.4611919333333
+"Nicotinamide adenine dinucleotide, reduced (NADH)",HMDB0001487,Human cell line (HeLa),64.94663072666667
+Ornithine,HMDB0000214,Human cell line (HeLa),122.34089706666668
+Orotic acid,HMDB0000226,Human cell line (HeLa),0.4599265806666666
+Oxidized glutathione,HMDB0003337,Human cell line (HeLa),63.86411201666667
+Pantothenic acid,HMDB0000210,Human cell line (HeLa),235.3472153333333
+Phenylalanine,HMDB0000159,Human cell line (HeLa),763.6517635
+Phosphocreatine,HMDB0001511,Human cell line (HeLa),1989.7165343333331
+Phosphoenolpyruvic acid,HMDB0000263,Human cell line (HeLa),54.05273824333333
+Phosphoserine,HMDB0000272,Human cell line (HeLa),111.18560766666668
+Proline,HMDB0000162,Human cell line (HeLa),1881.3628086666668
+Propionylcarnitine,HMDB0000824,Human cell line (HeLa),33.35932577
+Pyruvic acid,HMDB0000243,Human cell line (HeLa),281.03545963333335
+Riboflavin,HMDB0000244,Human cell line (HeLa),54.174758713333325
+Ribose 5-phosphate,HMDB0001548,Human cell line (HeLa),114.08718273333334
+S-Adenosylhomocysteine,HMDB0000939,Human cell line (HeLa),2.0517010406666665
+S-Adenosylmethionine,HMDB0001185,Human cell line (HeLa),17.86734066
+Serine,HMDB0000187,Human cell line (HeLa),470.9909604333334
+Succinic acid,HMDB0000254,Human cell line (HeLa),42.307841463333325
+Taurine,HMDB0000251,Human cell line (HeLa),18402.708166666664
+Tryptophan,HMDB0000929,Human cell line (HeLa),165.98139390000003
+Tyrosine,HMDB0000158,Human cell line (HeLa),678.0655537333333
+Uric acid,HMDB0000289,Human cell line (HeLa),11.403350503333334
+Uridine diphosphate,HMDB0000295,Human cell line (HeLa),443.79617456666665
+Uridine diphosphate glucose,HMDB0000286,Human cell line (HeLa),843.4812644333333
+Uridine diphosphate glucuronic acid,HMDB0000935,Human cell line (HeLa),242.1988862
+Uridine diphosphate-N-acetylglucosamine,HMDB0000290,Human cell line (HeLa),335.0682525
+Urocanic acid,HMDB0000301,Human cell line (HeLa),0.016813849
+Urocanic acid,HMDB0000301,Human cell line (HeLa),0.1227586859999999
+Valine,HMDB0000883,Human cell line (HeLa),1347.5489853333331
+Xanthine,HMDB0000292,Human cell line (HeLa),3.812621783333333
+cis-Aconitic acid,HMDB0000072,Human cell line (HeLa),802.8510109
+gamma-Aminobutyric acid,HMDB0000112,Human cell line (HeLa),174.47293896666667
+2-Oxoglutaric acid,HMDB0000208,Mitochondria (HeLa),152.5925508
+3-Phosphoglyceric acid,HMDB0000807,Mitochondria (HeLa),12.97539567
+Acetylcarnitine,HMDB0000201,Mitochondria (HeLa),0.5908103793333334
+Adenosine diphosphate,HMDB0001341,Mitochondria (HeLa),68.59254982
+Adenosine monophosphate,HMDB0000045,Mitochondria (HeLa),20.073465746666667
+Adenosine triphosphate,HMDB0000538,Mitochondria (HeLa),48.06276071333334
+Arginine,HMDB0000517,Mitochondria (HeLa),11.91751426
+Aspartic acid,HMDB0000191,Mitochondria (HeLa),1599.7066636666666
+Carnitine,HMDB0000062,Mitochondria (HeLa),20.453808103333333
+Carnosine,HMDB0000033,Mitochondria (HeLa),0.2156474366666666
+Choline,HMDB0000097,Mitochondria (HeLa),0.34184853
+Citrulline,HMDB0000904,Mitochondria (HeLa),0.2369553919999999
+Coenzyme A,HMDB0001423,Mitochondria (HeLa),41.67343897
+Coenzyme A,HMDB0001423,Mitochondria (HeLa),41.67343897
+Creatine,HMDB0000064,Mitochondria (HeLa),228.46272123333333
+Creatinine,HMDB0000562,Mitochondria (HeLa),0.6157586266666666
+Cytidine,HMDB0000089,Mitochondria (HeLa),0.0807097923333333
+Cytidine monophosphate,HMDB0000095,Mitochondria (HeLa),6.901677431333333
+Dihydroxyacetone phosphate,HMDB0001473,Mitochondria (HeLa),4.978988099333333
+Dihydroxyacetone phosphate,HMDB0001473,Mitochondria (HeLa),4.978988099333333
+Flavin adenine dinucleotide,HMDB0001248,Mitochondria (HeLa),18.178925186666667
+Fumaric acid,HMDB0000134,Mitochondria (HeLa),14.21862285
+Fumaric acid,HMDB0000134,Mitochondria (HeLa),14.21862285
+Fumaric acid,HMDB0000134,Mitochondria (HeLa),14.21862285
+Glucose 6-phosphate,HMDB0001401,Mitochondria (HeLa),3.759571915
+Glutamic acid,HMDB0000148,Mitochondria (HeLa),55.2366042
+Glutathione,HMDB0000125,Mitochondria (HeLa),1374.054612
+Glycerophosphocholine,HMDB0000086,Mitochondria (HeLa),27.31871545
+Histidine,HMDB0000177,Mitochondria (HeLa),81.51785701333333
+Malic acid,HMDB0000156,Mitochondria (HeLa),28.19350070666667
+Niacinamide,HMDB0001406,Mitochondria (HeLa),0.2235164083333333
+Nicotinamide adenine dinucleotide (NAD),HMDB0000902,Mitochondria (HeLa),817.5373767666666
+"Nicotinamide adenine dinucleotide, reduced (NADH)",HMDB0001487,Mitochondria (HeLa),7.371500249333334
+Oxidized glutathione,HMDB0003337,Mitochondria (HeLa),143.20829419999998
+Pantothenic acid,HMDB0000210,Mitochondria (HeLa),15.715100346666668
+Phenylalanine,HMDB0000159,Mitochondria (HeLa),8.941614239666668
+Phosphocreatine,HMDB0001511,Mitochondria (HeLa),77.42616423333334
+Phosphoenolpyruvic acid,HMDB0000263,Mitochondria (HeLa),47.94788316
+Proline,HMDB0000162,Mitochondria (HeLa),2.210891001333333
+Propionylcarnitine,HMDB0000824,Mitochondria (HeLa),2.5845822
+S-Adenosylmethionine,HMDB0001185,Mitochondria (HeLa),2.527010780666666
+Succinic acid,HMDB0000254,Mitochondria (HeLa),11.79192667
+Taurine,HMDB0000251,Mitochondria (HeLa),162.65085273333332
+Tryptophan,HMDB0000929,Mitochondria (HeLa),11.362681873333337
+Tyrosine,HMDB0000158,Mitochondria (HeLa),41.57530616
+Uridine diphosphate,HMDB0000295,Mitochondria (HeLa),41.39224239333333
+Uridine diphosphate glucose,HMDB0000286,Mitochondria (HeLa),44.70214913
+Uridine diphosphate glucuronic acid,HMDB0000935,Mitochondria (HeLa),15.657794266666665
+Uridine diphosphate-N-acetylglucosamine,HMDB0000290,Mitochondria (HeLa),64.46037554666667
+cis-Aconitic acid,HMDB0000072,Mitochondria (HeLa),22.36976906
+gamma-Aminobutyric acid,HMDB0000112,Mitochondria (HeLa),29.777020556666667
+2-Oxoglutaric acid,HMDB0000208,Murine cell line (iBMK),797.0
+"4,5-Dihydroorotic acid",HMDB0000528,Murine cell line (iBMK),735.0
+6-Phosphogluconic acid,HMDB0001316,Murine cell line (iBMK),16.5
+Acetyl-CoA,HMDB0001206,Murine cell line (iBMK),28.8
+Adenosine diphosphate,HMDB0001341,Murine cell line (iBMK),569.0
+Adenosine monophosphate,HMDB0000045,Murine cell line (iBMK),42.3
+Adenosine triphosphate,HMDB0000538,Murine cell line (iBMK),4670.0
+Arginine,HMDB0000517,Murine cell line (iBMK),255.00000000000003
+Asparagine,HMDB0000168,Murine cell line (iBMK),215.0
+Aspartic acid,HMDB0000191,Murine cell line (iBMK),14900.0
+Citric acid,HMDB0000094,Murine cell line (iBMK),584.0
+Coenzyme A,HMDB0001423,Murine cell line (iBMK),4040.0
+Cyclic adenosine monophosphate,HMDB0000058,Murine cell line (iBMK),0.13
+Cysteine,HMDB0000574,Murine cell line (iBMK),84.0
+Cytidine monophosphate,HMDB0000095,Murine cell line (iBMK),11.8
+Dihydroxyacetone phosphate,HMDB0001473,Murine cell line (iBMK),1630.0
+Flavin adenine dinucleotide,HMDB0001248,Murine cell line (iBMK),5.6
+Fumaric acid,HMDB0000134,Murine cell line (iBMK),387.0
+Fumaric acid,HMDB0000134,Murine cell line (iBMK),485.0
+Gluconic acid,HMDB0000625,Murine cell line (iBMK),211.0
+Glucose 6-phosphate,HMDB0001401,Murine cell line (iBMK),675.0
+Glutamic acid,HMDB0000148,Murine cell line (iBMK),63799.99999999999
+Glutamine,HMDB0000641,Murine cell line (iBMK),17200.0
+Glutathione,HMDB0000125,Murine cell line (iBMK),3090.0
+Glycine,HMDB0000123,Murine cell line (iBMK),3710.0
+Histidine,HMDB0000177,Murine cell line (iBMK),410.0
+Malic acid,HMDB0000156,Murine cell line (iBMK),1390.0
+Methionine,HMDB0000696,Murine cell line (iBMK),639.0
+Nicotinamide adenine dinucleotide (NAD),HMDB0000902,Murine cell line (iBMK),502.0
+"Nicotinamide adenine dinucleotide, reduced (NADH)",HMDB0001487,Murine cell line (iBMK),75.0
+Orotic acid,HMDB0000226,Murine cell line (iBMK),8.41
+Oxalacetic acid,HMDB0000223,Murine cell line (iBMK),2.01
+Oxidized glutathione,HMDB0003337,Murine cell line (iBMK),18.0
+Phenylalanine,HMDB0000159,Murine cell line (iBMK),840.0
+Phosphoenolpyruvic acid,HMDB0000263,Murine cell line (iBMK),11.6
+Phosphoserine,HMDB0000272,Murine cell line (iBMK),440.0
+Proline,HMDB0000162,Murine cell line (iBMK),1230.0
+Pyruvic acid,HMDB0000243,Murine cell line (iBMK),5880.0
+Ribulose 5-phosphate,HMDB0000618,Murine cell line (iBMK),5.2700000000000005
+S-Adenosylhomocysteine,HMDB0000939,Murine cell line (iBMK),0.5710000000000001
+Serine,HMDB0000187,Murine cell line (iBMK),4860.0
+Succinic acid,HMDB0000254,Murine cell line (iBMK),352.0
+Tryptophan,HMDB0000929,Murine cell line (iBMK),180.0
+Tyrosine,HMDB0000158,Murine cell line (iBMK),938.0
+Uridine diphosphate,HMDB0000295,Murine cell line (iBMK),133.0
+Uridine diphosphate glucose,HMDB0000286,Murine cell line (iBMK),1530.0
+Uridine diphosphate glucuronic acid,HMDB0000935,Murine cell line (iBMK),97.5
+Uridine diphosphate-N-acetylglucosamine,HMDB0000290,Murine cell line (iBMK),8970.0
+Valine,HMDB0000883,Murine cell line (iBMK),1510.0
+cis-Aconitic acid,HMDB0000072,Murine cell line (iBMK),11.0
+2-Oxoglutaric acid,HMDB0000208,E.coli,443.0
+"4,5-Dihydroorotic acid",HMDB0000528,E.coli,11.9
+6-Phosphogluconic acid,HMDB0001316,E.coli,3770.0
+Acetyl-CoA,HMDB0001206,E.coli,606.0
+Adenine,HMDB0000034,E.coli,1.47
+Adenosine diphosphate,HMDB0001341,E.coli,555.0
+Adenosine monophosphate,HMDB0000045,E.coli,281.0
+Adenosine triphosphate,HMDB0000538,E.coli,9630.0
+Arginine,HMDB0000517,E.coli,569.0
+Asparagine,HMDB0000168,E.coli,511.0
+Aspartic acid,HMDB0000191,E.coli,4230.0
+Citric acid,HMDB0000094,E.coli,1960.0
+Citrulline,HMDB0000904,E.coli,1350.0
+Coenzyme A,HMDB0001423,E.coli,1370.0
+Cyclic adenosine monophosphate,HMDB0000058,E.coli,35.2
+Cytidine,HMDB0000089,E.coli,2.5900000000000003
+Cytidine monophosphate,HMDB0000095,E.coli,360.0
+Cytosine,HMDB0000630,E.coli,14.1
+Dihydroxyacetone phosphate,HMDB0001473,E.coli,3060.0
+Flavin adenine dinucleotide,HMDB0001248,E.coli,173.0
+Flavin mononucleotide,HMDB0001520,E.coli,53.7
+Fumaric acid,HMDB0000134,E.coli,115.0
+Fumaric acid,HMDB0000134,E.coli,288.0
+Gluconic acid,HMDB0000625,E.coli,41.6
+Glucosamine 6-phosphate,HMDB0001254,E.coli,1150.0
+Glucose 6-phosphate,HMDB0001401,E.coli,7880.0
+Glutamic acid,HMDB0000148,E.coli,96000.0
+Glutamine,HMDB0000641,E.coli,3810.0
+Glutathione,HMDB0000125,E.coli,16600.0
+Glycerol 3-phosphate,HMDB0000126,E.coli,49.0
+Guanine,HMDB0000132,E.coli,188.0
+Histidine,HMDB0000177,E.coli,67.60000000000001
+Homocysteine,HMDB0000742,E.coli,370.0
+Malic acid,HMDB0000156,E.coli,1680.0
+Methionine,HMDB0000696,E.coli,145.0
+Nicotinamide adenine dinucleotide (NAD),HMDB0000902,E.coli,2550.0
+"Nicotinamide adenine dinucleotide, reduced (NADH)",HMDB0001487,E.coli,83.6
+Ornithine,HMDB0000214,E.coli,10.1
+Oxalacetic acid,HMDB0000223,E.coli,0.4869999999999999
+Oxidized glutathione,HMDB0003337,E.coli,2370.0
+Phenylalanine,HMDB0000159,E.coli,18.2
+Phosphoenolpyruvic acid,HMDB0000263,E.coli,184.0
+Proline,HMDB0000162,E.coli,385.0
+Pyruvic acid,HMDB0000243,E.coli,3660.0
+Quinolinic acid,HMDB0000232,E.coli,11.5
+Riboflavin,HMDB0000244,E.coli,19.0
+Ribulose 5-phosphate,HMDB0000618,E.coli,112.0
+S-Adenosylmethionine,HMDB0001185,E.coli,184.0
+Serine,HMDB0000187,E.coli,1130.0
+Succinic acid,HMDB0000254,E.coli,569.0
+Tryptophan,HMDB0000929,E.coli,12.1
+Tyrosine,HMDB0000158,E.coli,28.9
+Ureidosuccinic acid,HMDB0000828,E.coli,590.0
+Uridine,HMDB0000296,E.coli,2090.0
+Uridine diphosphate,HMDB0000295,E.coli,1790.0
+Uridine diphosphate glucose,HMDB0000286,E.coli,2500.0
+Uridine diphosphate glucuronic acid,HMDB0000935,E.coli,566.0
+Uridine diphosphate-N-acetylglucosamine,HMDB0000290,E.coli,9240.0
+Valine,HMDB0000883,E.coli,4020.0
+cis-Aconitic acid,HMDB0000072,E.coli,16.099999999999998
+myo-Inositol,HMDB0000211,E.coli,5.720000000000001
+2-Oxoglutaric acid,HMDB0000208,S.cerevisiae,848.0
+6-Phosphogluconic acid,HMDB0001316,S.cerevisiae,243.0
+Acetyl-CoA,HMDB0001206,S.cerevisiae,43.6
+Adenosine diphosphate,HMDB0001341,S.cerevisiae,488.0
+Adenosine monophosphate,HMDB0000045,S.cerevisiae,81.19999999999999
+Adenosine triphosphate,HMDB0000538,S.cerevisiae,1930.0
+Arginine,HMDB0000517,S.cerevisiae,21800.0
+Asparagine,HMDB0000168,S.cerevisiae,5690.0
+Aspartic acid,HMDB0000191,S.cerevisiae,6290.0
+Citric acid,HMDB0000094,S.cerevisiae,1490.0
+Citrulline,HMDB0000904,S.cerevisiae,27000.0
+Coenzyme A,HMDB0001423,S.cerevisiae,4900.0
+Cyclic adenosine monophosphate,HMDB0000058,S.cerevisiae,0.3999999999999999
+Cytidine monophosphate,HMDB0000095,S.cerevisiae,5.180000000000001
+Dihydroxyacetone phosphate,HMDB0001473,S.cerevisiae,807.0
+Dihydroxyacetone phosphate,HMDB0001473,S.cerevisiae,823.0
+Flavin adenine dinucleotide,HMDB0001248,S.cerevisiae,35.3
+Fumaric acid,HMDB0000134,S.cerevisiae,121.0
+Fumaric acid,HMDB0000134,S.cerevisiae,124.0
+Gluconic acid,HMDB0000625,S.cerevisiae,95.1
+Glucose 6-phosphate,HMDB0001401,S.cerevisiae,5310.0
+Glutamic acid,HMDB0000148,S.cerevisiae,39100.0
+Glutamine,HMDB0000641,S.cerevisiae,35500.0
+Glutathione,HMDB0000125,S.cerevisiae,4300.0
+Glycerol 3-phosphate,HMDB0000126,S.cerevisiae,281.0
+Malic acid,HMDB0000156,S.cerevisiae,925.0
+Methionine,HMDB0000696,S.cerevisiae,191.0
+Nicotinamide adenine dinucleotide (NAD),HMDB0000902,S.cerevisiae,2440.0
+"Nicotinamide adenine dinucleotide, reduced (NADH)",HMDB0001487,S.cerevisiae,107.0
+Ornithine,HMDB0000214,S.cerevisiae,4490.0
+Oxalacetic acid,HMDB0000223,S.cerevisiae,0.501
+Oxidized glutathione,HMDB0003337,S.cerevisiae,97.3
+Phenylalanine,HMDB0000159,S.cerevisiae,273.0
+Phosphoenolpyruvic acid,HMDB0000263,S.cerevisiae,29.1
+Proline,HMDB0000162,S.cerevisiae,1360.0
+Pyruvic acid,HMDB0000243,S.cerevisiae,9400.0
+Ribulose 5-phosphate,HMDB0000618,S.cerevisiae,122.0
+Serine,HMDB0000187,S.cerevisiae,3870.0
+Succinic acid,HMDB0000254,S.cerevisiae,635.0
+Taurine,HMDB0000251,S.cerevisiae,5.640000000000001
+Tryptophan,HMDB0000929,S.cerevisiae,55.5
+Tyrosine,HMDB0000158,S.cerevisiae,248.0
+Uridine diphosphate,HMDB0000295,S.cerevisiae,36.8
+Uridine diphosphate glucose,HMDB0000286,S.cerevisiae,268.0
+Uridine diphosphate-N-acetylglucosamine,HMDB0000290,S.cerevisiae,1020.0
+Valine,HMDB0000883,S.cerevisiae,2500.0

@@ -1,0 +1,2802 @@
+Category,Unique Value,Keep
+Organism,Mus musculus (mouse),
+Organism_Part,Brain,
+Condition,unknown,
+Sample_Growth_Conditions,undefined,
+Sample_Stabilisation,Fresh frozen,
+Tissue_Modification,None,
+MALDI_Matrix,n-(1-naphthyl)ethylenediamine dihydrochloride (NEDC),
+MALDI_Matrix_Application,HTX M5 Sprayer,
+Analyzer,timsTOF fleX,
+Additional_Information,,
+Organism,Homo sapiens (human),
+Organism_Part,Kidney Cortex,
+Condition,N/A,
+Sample_Growth_Conditions,,
+Sample_Stabilisation,Flash Frozen,
+Tissue_Modification,N/A,
+MALDI_Matrix,"1,5-diaminonaphthalene (DAN)+HCl",
+MALDI_Matrix_Application,HTX M3+ Sprayer,
+Analyzer,Orbitrap,
+Tissue_Modification,chemical modification,FALSE
+MALDI_Matrix,none,
+MALDI_Matrix_Application,none,
+Organism,Glycine max (soybean),FALSE
+Organism_Part,Lateral root,FALSE
+Condition,Wildtype,
+MALDI_Matrix,DHNBA,FALSE
+MALDI_Matrix_Application,HIT MatrixPrep,
+Organism_Part,Root nodule,FALSE
+Organism,Mouse,
+Condition,Diseased,
+Sample_Growth_Conditions,Caged,
+Tissue_Modification,Frozen,
+MALDI_Matrix,alpha-cyano-4-hydroxycinnamic acid (CHCA),
+MALDI_Matrix_Application,TM sprayer,
+Analyzer,TOF reflector,
+Organism_Part,Seed,FALSE
+Organism_Part,Primary root,FALSE
+Organism,Wood_4APEBA,FALSE
+Organism_Part,Wood_fungal,FALSE
+Sample_Stabilisation,Dry,
+Tissue_Modification,none,
+MALDI_Matrix,4-APEBA,FALSE
+MALDI_Matrix_Application,HTX,
+Analyzer,12 T FTICR,
+Organism,Wood_low mass,FALSE
+MALDI_Matrix,"2,5-dihydroxybenzoic acid (DHB)",
+Organism,Wood_high mass,FALSE
+Organism_Part,Lung,
+Condition,CODEX was performed,
+Sample_Stabilisation,FFPE,FALSE
+Tissue_Modification,CODEX,
+MALDI_Matrix,CHCA,
+Analyzer,FTICR,
+Additional_Information,"biopsy_18-162-2
+
+",
+Organism,Drosophila melanogaster,FALSE
+Organism_Part,Head,
+Sample_Stabilisation,N/A,
+MALDI_Matrix,"1,5-diaminonaphthalene (DAN)",
+MALDI_Matrix_Application,TM Sprayer,
+Sample_Stabilisation,None,
+Analyzer,TOF,
+Organism_Part,Testis,
+Analyzer,7 T FTICR,
+Organism_Part,Liver,
+MALDI_Matrix,Ice,
+Organism_Part,Whole embryo,
+Sample_Growth_Conditions,N/A,
+Sample_Stabilisation,fresh frozen,
+MALDI_Matrix_Application,HTX TM sprayer,
+Organism_Part,Sciatic nerve,
+Organism_Part,Major part of liver tissue,
+Sample_Stabilisation,Freshly harvested livers were knifed in 1.7cm×1.7cm square and completely immersed into Leica cryo-gel embedding medium.,
+Tissue_Modification,Samples were hold by the frozen (-80°C) section O.C.T embedding mould.,FALSE
+Organism,Rat,
+Sample_Stabilisation,Frozen,
+Condition,Alzheimer disease model,
+Sample_Growth_Conditions,Treatment,
+Organism_Part,Kidney,
+Organism,pennycress,FALSE
+Organism_Part,root,FALSE
+Condition,drought,
+Sample_Stabilisation,HPMC/PVP,
+Condition,control,
+Condition,Control,
+MALDI_Matrix,"2,5-dihydroxyacetophenone (DHAP)",
+Organism,Wood,FALSE
+Organism,Poplar,FALSE
+Organism_Part,Wood,FALSE
+Condition,Wood,FALSE
+Sample_Stabilisation,Wood,FALSE
+Organism,poplar,FALSE
+Organism_Part,rhizosphere,FALSE
+Condition,etted_AAO_Pt_24hrs,FALSE
+Tissue_Modification,4-APEBA,FALSE
+Condition,unwetted_AAO_Pt_3hr,FALSE
+Condition,5th GTTP membrane,FALSE
+Condition,3rd GTTP membrane,FALSE
+Analyzer,7T FTICR,
+Condition,4th GTTP membrane,FALSE
+Condition,2nd GTTP membrane,FALSE
+Condition,1st GTTP membrane,FALSE
+Condition,prewetted,
+Organism,Tomato,FALSE
+Organism_Part,Root,FALSE
+Organism,Rattus norvegicus (rat),
+Condition,unwetted,
+Organism,Baboon,FALSE
+Condition,FFPE,
+Tissue_Modification,PNGase F,FALSE
+Analyzer,FTICR scimaX 7T,
+Condition,biopsy,
+Condition,wetted,
+Condition,blank AAO,FALSE
+Condition,Healthy,
+Sample_Growth_Conditions,decellularized,
+Sample_Growth_Conditions,d075-rll-10b2-4,
+Organism,Homo sapiens (human) | Mus musculus (mouse),
+Organism_Part,Gut,
+MALDI_Matrix_Application,prototype sprayer,
+Condition,rhizobx,FALSE
+Sample_Stabilisation,PETE membrane,FALSE
+Analyzer,12 t fticr,
+Organism_Part,spleen,
+MALDI_Matrix,9-aminoacridine (9AA),
+Analyzer,Select Series MRT,
+Condition,Wild type,
+Analyzer,12T FTICR,
+Tissue_Modification,Collagenase III,FALSE
+MALDI_Matrix,NEDC,
+Organism,N/A,FALSE
+Organism_Part,N/A,
+Organism_Part,Spleen,
+MALDI_Matrix_Application,homebuilt sprayer,
+Organism,Bryozoan,FALSE
+Organism_Part,tissue,
+Sample_Stabilisation,"Fresh frozen, CMC embedded",
+MALDI_Matrix,SDHB,
+MALDI_Matrix_Application,SunChrom Sprayer,
+Additional_Information,"Sample 14A, m/z range 300-1500",FALSE
+Condition,Biopsy,
+Organism_Part,Heart,
+Organism_Part,seed,
+Condition,Mutant,
+MALDI_Matrix,None,
+MALDI_Matrix_Application,None,
+Organism_Part,Tumor,
+Organism_Part,whole body,
+Condition,Wildtype ,
+Condition,mutant,
+Organism_Part,kidney biopsy,
+Condition,pilot sample,
+Sample_Stabilisation,none,
+MALDI_Matrix,DHB,
+Organism,Olavius,FALSE
+Organism_Part,whole worms,FALSE
+Sample_Stabilisation,frozen,
+Analyzer,Q-Exactive-Orbitrap-HF,
+Organism,micorbes,FALSE
+Organism_Part,colonies,FALSE
+Condition,s.p.fw213,
+Condition,a.a.vt1169,
+Organism,Bovine,FALSE
+MALDI_Matrix_Application,Sublimation,
+Analyzer,Synapt G2-Si MS,
+Organism,Marmoset,FALSE
+Sample_Growth_Conditions,control,
+Sample_Growth_Conditions,AD model,
+Condition,PETE placed on top of the root: fresh soil bellow root,FALSE
+Sample_Stabilisation,PETE,FALSE
+MALDI_Matrix_Application,N/A,
+Condition,PETE placed bellow root,FALSE
+Organism,Danio rerio (zebrafish),FALSE
+Organism_Part,Whole organism,
+Sample_Stabilisation,"Flash Frozen, Gelatin CMC Embedded",
+MALDI_Matrix,Sucrose,
+Organism,blank AAO-Pt,FALSE
+Condition,Blank,FALSE
+Sample_Stabilisation,AAO Pt,FALSE
+MALDI_Matrix,Pt coating and DHB,FALSE
+Organism,blank AAO,FALSE
+Condition,no platina coating,FALSE
+Sample_Stabilisation,AAO,FALSE
+Organism,Plant3,FALSE
+Condition,Plant 3,
+Organism,Guanidin culture 10,FALSE
+Organism_Part,dried droplet,FALSE
+Condition,solution,
+Sample_Growth_Conditions,NA,
+Sample_Stabilisation,dreied droplet,FALSE
+Additional_Information,Gill section of B. puteoserpentis embedded in CMC on board.,FALSE
+Organism,Guanidin culture 9,FALSE
+Organism,Guanidin culture 6,FALSE
+Organism,Guanidin culture 7,FALSE
+Organism,Guanidin culture 8,FALSE
+Organism,Guanidin culture 2,FALSE
+Organism,Guanidin culture 5,FALSE
+Organism,Guanidin culture 4,FALSE
+Organism,Guanidin culture 3,FALSE
+Organism,Guanidin culture 1,FALSE
+Organism,Vitis vinifera / V. berlandieri x V. rupestris,FALSE
+Organism_Part,graft interface,
+MALDI_Matrix_Application,Spray ,
+Analyzer,Thermo QExactive Orbitrap mass spectrometer ,
+Organism,Vitis vinifera,FALSE
+Condition,Sham surgery - MCAO,
+Condition,Sham surgery (MCAO),
+Condition,24h-post ischemic stroke ,
+Organism_Part,kidney,
+Condition,50um,
+Condition,25um,
+Condition,S-1910-000025 25um,
+Organism_Part,Kidney Organoid,FALSE
+Organism,Betaine culture 11-13,FALSE
+Organism,Betaine culture 1-5,FALSE
+Organism,Betaine culture 6-10,FALSE
+Organism,plant,FALSE
+Organism_Part,None,
+Condition,AAO with Pt coating,FALSE
+MALDI_Matrix,Pt coating+ NEDC,FALSE
+Organism,AAO blank,FALSE
+Condition,Wtype,
+Organism_Part,Breast tumor,
+Condition,Cancer Tumor,
+MALDI_Matrix_Application,sprayer,
+MALDI_Matrix,Pt coating,FALSE
+Organism,Guanidin in water,FALSE
+Organism,Guanidin in medium,FALSE
+Organism,Plant1,FALSE
+Condition,Plant 1,
+Organism,Rodent,
+Organism_Part,Adrenal Gland,
+Organism,Zebrafish,FALSE
+Organism,diversispora epigaea,FALSE
+Organism_Part,hyphae,
+MALDI_Matrix,Norharmane,
+Condition,"Cancer, HCC",
+Organism,Rock,FALSE
+Organism_Part,grain,
+Condition,2757,
+Tissue_Modification,Derivatization,FALSE
+Condition,2777,
+Condition,2767_4APEBA,
+Condition,2764,
+Condition,2768,
+Condition,2627,
+Condition,2622,
+Condition,2614,
+Condition,2615,
+Condition,2611,
+Condition,2609,
+Condition,2468,
+Condition,2471,
+Condition,2470,
+Condition,2469,
+Condition,2464,
+Condition,2458,
+Condition,1707,
+Condition,1773,
+Condition,1642,
+Condition,1638,
+Condition,908,
+Condition,894,
+Condition,959,
+Additional_Information,Sural nerve,
+Organism,medium and water,FALSE
+Sample_Stabilisation,dried droplet,FALSE
+Organism,Hemp,FALSE
+Condition,hemp_AA,FALSE
+Sample_Growth_Conditions,Rhizochip,FALSE
+Condition,hemp_BB,FALSE
+Organism_Part,Kideny,
+MALDI_Matrix,DESI,
+Condition,Cancer,
+Organism_Part,Blood cells,FALSE
+Organism_Part,Fruit,FALSE
+Organism,Ecoli,FALSE
+Organism_Part,Agar growth,FALSE
+Sample_Stabilisation,agar,FALSE
+Analyzer,timsTOF Flex,
+Organism,Hela Cells,FALSE
+Organism_Part,Cells,FALSE
+Sample_Growth_Conditions,in vivo,
+MALDI_Matrix,DAN,
+MALDI_Matrix_Application,Spray robot,
+Additional_Information,"Optical image channels: 
+
+Optical image channels: 
+
+Optical image channels: 
+
+Optical image channels: 
+
+Optical image channels: 
+
+Optical image channels: 
+
+Optical image channels: gray = brightfield, green = GFP
+",
+Organism_Part,Fibroblasts,FALSE
+Condition,imprinted on membranes,FALSE
+Sample_Growth_Conditions,Rhizobox,FALSE
+Sample_Stabilisation,AAO membrane,FALSE
+Condition,blank,
+Condition,normal,
+Organism_Part,Uterus,
+Organism_Part,Cervix,
+Organism,None,
+Organism_Part,blank,FALSE
+Condition,blank without C coating,
+Condition,blank with C coating,
+Organism,grain,FALSE
+Condition,with C coating,
+Condition,without C coating,
+Organism_Part,Intestine,
+Organism,human,
+Organism_Part,placenta,
+Organism,Gossypium hirsutum,FALSE
+Organism_Part,flower bud,FALSE
+Condition,GhPMEI53 overexpression cotton,FALSE
+Sample_Growth_Conditions,Field collected,
+Organism,V. berlandieri x V. rupestris,FALSE
+Organism,Vitis vinifera / Vitis riparia Michaux ,FALSE
+Organism,Vitis riparia Michaux ,FALSE
+Organism_Part,wood,FALSE
+Organism,Vitis riparia Michaux,FALSE
+Organism,Camellia sinensis,FALSE
+Organism_Part,bud,FALSE
+Organism,Cerastoderma edule,FALSE
+Organism_Part,Gill,FALSE
+Sample_Stabilisation,cryo,
+Organism,Arabidopsis thaliana,FALSE
+Organism_Part,leaf,FALSE
+Sample_Growth_Conditions,hoagland medium,
+MALDI_Matrix_Application,Sputter Coater,
+Organism,Betain in medium,FALSE
+Condition,Fresh frozen,
+Condition,fresh frozen,
+Organism,d. epigaea,FALSE
+Organism_Part,spores,FALSE
+Organism,rhizophagus irregularis,FALSE
+Organism,no poplar,FALSE
+Organism_Part,soil only,FALSE
+Condition,rhizobox,FALSE
+Sample_Stabilisation,PETE ,FALSE
+Sample_Stabilisation,PETE with soil on top,FALSE
+MALDI_Matrix,Ag,FALSE
+Organism_Part,Jurkat,FALSE
+Sample_Stabilisation,10% NBF,
+Condition,norm,
+Condition,Standard,FALSE
+Analyzer,Q-Exactive-Orbitrap,
+Organism_Part,Heart homogenate,FALSE
+Organism_Part,Heart ,
+Sample_Stabilisation,Dried on slide,
+Organism,Defluviicoccus vanus,FALSE
+Organism_Part,Microbial colony,FALSE
+Sample_Growth_Conditions,Glucose 7.5 mg/L,
+Analyzer,Synapt G2-S MS,
+Organism,Sorghum,FALSE
+Tissue_Modification,derivatization APEBA,FALSE
+Organism,Standard,FALSE
+Sample_Stabilisation,Dried under nitrogen,
+Analyzer,Orbitrap Exploris 480,
+Organism_Part,Root Tip,FALSE
+Organism,Mosquito,FALSE
+Organism_Part,egg,FALSE
+MALDI_Matrix_Application,Suncollect sprayer,
+Organism,Bathymodiolus azoricus,FALSE
+Sample_Stabilisation,CMC,
+Organism_Part,Esophagus,
+Condition,metastases,
+Sample_Growth_Conditions,13C Glucose,
+Additional_Information,"16022021_VS_slide7J_130x273_px150_att29_pureDHB_pos_rf100_mz300-1510
+Optical image channels: gray = Trans, red = Dapi
+",
+Sample_Growth_Conditions,d086-rll-17b2-45,
+Sample_Growth_Conditions,D170-RML-BPS-2-5,
+Condition,GTTP_rhizo,FALSE
+Sample_Stabilisation,60% MeOH extract,
+Organism_Part,none,
+Condition,GTTP_blank,FALSE
+Condition,GTTP_rhizo_NEDC,FALSE
+Condition,5uL of rhizosphere bulk extract 60% MEOH,FALSE
+Organism_Part,Ovary,
+Condition,"Cancer, serous tumor, high-grade",
+Tissue_Modification,CMC,
+Analyzer,timsTOF fleX MALDI2,
+Additional_Information,(legend),
+Condition,nephrectomy,
+Condition,PETE_rhizpsphere,FALSE
+Condition,PETE membrane,FALSE
+Organism,Eragrostis lehmanniana  ,FALSE
+Condition,r1dno1,
+Condition,r3dnc1,
+Condition,r3ei01,
+Condition,r2ei01,
+Condition,r1ei01,
+Condition,r2eic1,
+Condition,r3dno1,
+Condition,r1eic1,
+Condition,r2dno1,
+Condition,r32eic1,
+Condition,r3dnc1_1,
+Condition,PETE NEDC,FALSE
+Condition,r2dnc1,
+Condition,r1dnc1,
+Condition,r3eic1,
+Condition,r3eio1,
+Condition,r2eio1,
+Condition,r1eio1,
+Condition,clean membrane,FALSE
+Organism,none,FALSE
+Condition,soil_only,FALSE
+Sample_Stabilisation,GTTP membrane,FALSE
+Condition,membrane-blank,FALSE
+Condition,rhizosphere bulk,FALSE
+Condition,ref_S-2108-005538,
+Condition,ref for S-2106-003429,
+Organism,Plant,FALSE
+Condition,Parkinson’s disease,
+MALDI_Matrix,FMP-10,FALSE
+Sample_Growth_Conditions,Healthy,
+Condition,PETE prewetted with IPA,FALSE
+Condition,PETE sandwiched between prewetted filter paper and thizobox,FALSE
+Organism,Homo sapiens (human) ,
+Condition,prewetted with H2O,
+Condition,prewetted with 50% MeOH,
+Organism,medicago truncatula,FALSE
+Organism,Oak,FALSE
+Organism,Pine,FALSE
+Condition,brown-rot,
+Sample_Growth_Conditions,Glucose 15 mg/L,
+Condition,S-2106-003429,
+Condition,ref for s-2111-008265 CHCA/DMA,
+Condition,ref for s-2111-008265,
+Condition,s-2111-008265,
+Organism,Human ,
+Condition,wild type,
+Condition,soil from rhizobox-control,FALSE
+Organism,Sus scrofa domesticus (pig),FALSE
+Additional_Information,"Sample 12E, mz range 60-700,
+Laser: Minimal, 150 shots/pixel @2000hZ, Q1 mass 80mz
+Matrix application: 70°C nozzle temp, 7 passes, concentration 10 mg/mL, flowrate 0.1 mL/min, sprayhead velocity 1200 mm/min, track spacing 3mm, gas pressure 10psi",FALSE
+Organism_Part,Brain | Lung | Liver | Heart | Kidney | Muscle,
+Condition,ipf,
+Condition,ipah,
+Condition,ctrl,
+Sample_Growth_Conditions,Environmental,
+Sample_Stabilisation,Paraformaldehyde fixed,
+MALDI_Matrix,"2,5-dihydroxyacetophenone (DHA)",
+Organism,Bathymodiolus puteoserpentis,FALSE
+Organism_Part,"Liver, kidney, Brain, Spleen",
+Sample_Stabilisation,"Fresh frozen, Gelatin CMC embedded",
+MALDI_Matrix_Application,ImagePrep,
+Organism_Part,Spinal Cord,
+Condition,12h-post ischemic stroke ,
+Condition,wild type vs mutant,
+Condition,wt and mutant,
+Sample_Stabilisation,Glutaraldehyde,
+Organism,tomato,FALSE
+Organism,Mussel,FALSE
+MALDI_Matrix,"2,4,6-Trihydroxyacetophenone (THAP)",FALSE
+Condition,ref for S-2106-003624,
+Condition,S-2106-003624,
+Condition,S-2006-002121,
+Condition,ref for S-2006-002121,
+Organism,annelid,FALSE
+Sample_Stabilisation,"Flash frozen, CMC+gelatine embedded",
+Sample_Growth_Conditions,animal,
+MALDI_Matrix,2-Mercaptobenzothiazole (MBT),FALSE
+Organism,Gilbert_root,FALSE
+Condition,100+ cm,
+Condition,30 cm,
+Condition,120 cm,
+Condition,60-90 cm,
+Condition,60-90cm,
+Condition,30cm,
+Condition,120-150 cm,
+Organism,"Pseudomonas aeruginosa, Staph aureus",FALSE
+Organism_Part,biofim,FALSE
+Sample_Stabilisation,PAGE,FALSE
+Condition,control-2,
+Condition,Normal,
+Condition,BPD,
+Organism_Part,2757,
+Organism_Part,2707,
+Condition,2707,
+Organism_Part,2464,
+Organism_Part,2614,
+Organism_Part,954,
+Condition,954,
+Organism_Part,894,
+Organism_Part,908,
+Organism_Part,756,
+Condition,756,
+Organism,homospaiens,
+Organism_Part,Pancreas,
+Sample_Stabilisation,"Fresh frozen, OCT embedded",
+Analyzer,UHMR HF Orbitrap,
+MALDI_Matrix_Application,spray,
+Organism,plant and microbes,FALSE
+Organism_Part,rhizoshpere,FALSE
+Condition,no minerals,FALSE
+Sample_Stabilisation,Rhizochip,FALSE
+Condition,with minerals,FALSE
+Sample_Growth_Conditions,microfluidics,FALSE
+Sample_Stabilisation,SAPTAP,FALSE
+Sample_Stabilisation,microfluidics,FALSE
+Sample_Growth_Conditions,SAPTA,FALSE
+Organism,fungal garden,FALSE
+Sample_Stabilisation,HPMC embedded,
+Analyzer,15 T FTICR,
+Organism,hamster,FALSE
+Organism_Part,liver,
+Condition,S. mansoni singlesex-infected,
+Condition,S. manosni bisex infected,
+Condition,non-infected,
+Organism,marine cultures,FALSE
+Condition,mixture,
+Condition,SD vs HFD,
+Organism,Marine Culture,FALSE
+Organism_Part,Colonies,FALSE
+Sample_Growth_Conditions,Marine Agar,FALSE
+Additional_Information,"
+",
+Organism_Part,various,
+Organism,Human,
+Organism_Part,Inner forearm skin,
+Sample_Stabilisation,Room temp,
+Tissue_Modification,NA,
+Organism_Part,Endometrium,
+Tissue_Modification,FFPE,FALSE
+Organism,mouse-lungs,
+Organism_Part,lungs,
+Analyzer,timsTOF ,
+Organism_Part,Skin Tumor,
+MALDI_Matrix_Application,iMatrixSpray,
+Condition,Section,
+Sample_Growth_Conditions,reference,
+MALDI_Matrix,α-Cyano-4-hydroxycinnamic acid (HCCA),
+Analyzer,Exploris 480,
+Organism,fungy,FALSE
+Condition,on different membranes,
+Sample_Growth_Conditions,Erin Nuccio,
+Sample_Stabilisation,on membrane,FALSE
+Organism_Part,Tumour,
+Condition,"Cancer, xenograft",
+MALDI_Matrix,Universal DHB CHCA,
+Analyzer,timsTOF MALDI,
+Condition,Tumor,
+Condition,S-2006-001690,
+Condition,ref_S-2002-005641,
+Condition,S-2002-005641,
+MALDI_Matrix_Application,TransMit Sprayer,
+Organism_Part,gratric cancer tissue,
+Condition,Cancer ,
+Condition,Con3,
+Sample_Growth_Conditions,caged,
+MALDI_Matrix,9AA,
+MALDI_Matrix_Application,iMLayer,
+Analyzer,Q-TOF,
+Condition,Con2,
+Condition,Tg3,
+Condition,KO2,
+Condition,Tg2,
+Condition,Con1,
+Condition,Tg1,
+Condition,Transgenic,
+Condition,Control2,
+Condition,KO1,
+Condition,Control3,
+Condition,KO3,
+Organism_Part,Stomach,
+Organism_Part,Spot,FALSE
+Condition,TFA,
+MALDI_Matrix,Gold,FALSE
+Additional_Information,pink tape 1.9 amps,
+Sample_Growth_Conditions,Navie,
+MALDI_Matrix,BNDM,FALSE
+Organism_Part,root tip,FALSE
+Condition,mixed,
+MALDI_Matrix_Application,SMALDI Prep,
+MALDI_Matrix,9aa,
+Condition,drought/endophyte,
+Condition,control endophyte,
+MALDI_Matrix,norharmane,
+Organism_Part,Rooting system,FALSE
+Condition,Rhizochip with fungy,FALSE
+MALDI_Matrix,"1,5 DAN",
+Condition,IRI,
+Analyzer,orbitrap exploris 120,
+Condition,lot of features-unknown ID number,
+Organism,Brachypodium distachyon,FALSE
+MALDI_Matrix_Application,HTX sprayer,
+Condition,ref_for_024_control,
+Condition,ref_for_0922,
+Condition,ref_for_6724,
+Condition,"ref_for_0734, 50um",
+Organism,Fusarium chlamydosporum,FALSE
+Condition,w mineral,
+Sample_Stabilisation,microfluidic device,FALSE
+Condition,10 µm Freeze frozen,
+Sample_Stabilisation,fomalin 4%,
+Sample_Growth_Conditions,High Glucose,
+Organism,Posidonia oceanica,FALSE
+Additional_Information,embedded in CMC,
+Condition,mutant duff with fungy,
+Sample_Growth_Conditions,with fungy,
+Organism_Part,Stem,FALSE
+Sample_Growth_Conditions,Surgical specimen,
+MALDI_Matrix,"1,6-diphenyl-1,3,5-hecatrine",FALSE
+Condition,control 1_pH9,
+MALDI_Matrix,DHAP,
+MALDI_Matrix_Application,sono-tek sprayer,
+Additional_Information,embedded in 2% CMC,
+Organism,Cyanobacteria,FALSE
+Organism_Part,colony ,FALSE
+Sample_Growth_Conditions,BMAA incubation,
+Condition,top_drought_endophyte,
+Condition,top_drought,
+Condition,top_control_endophyte,
+Condition,top_control,
+Condition,mid_drought_endophyte,
+Condition,mid_drought,
+Condition,mid_control_endophyte,
+Condition,mid_control,
+Condition,D-265-LLL-10B2-8,
+Sample_Stabilisation,5% CMC,
+Condition,normal ,
+Additional_Information,no embedding in CMC,
+MALDI_Matrix_Application,HTX-TM,
+Organism,sorghum ,FALSE
+Organism,Microglia,FALSE
+Condition,naive and LPS,
+MALDI_Matrix_Application,SMALDIPrep,
+Condition,naive,
+Condition,LPS,
+Sample_Stabilisation,Formalin fixed,
+Tissue_Modification,PFA,
+Condition,07_top,
+Condition,control 1,
+Condition,077_large,
+Condition,control 2,
+Condition,077_biopsy,
+Condition,067_biopsy,
+Sample_Stabilisation,3.75% HPMC and 1.25% PVP ,
+MALDI_Matrix,CHCA/DMA,FALSE
+Organism_Part,nodule,FALSE
+Organism,mouse,
+Organism_Part,skin,
+Analyzer,qTOF,
+Organism,"human, pig",FALSE
+Organism_Part,"liver, spleen, stomach",
+Condition,"Cancer, CRC",
+Tissue_Modification,methanol,
+Analyzer,21 T FTICR,
+Sample_Growth_Conditions,Amy MC project,
+Organism_Part,stem,
+Additional_Information,UTHSCSA,
+Organism,Coral larvae,FALSE
+Organism_Part,larvae,FALSE
+Condition,aposymbiotic,
+Sample_Stabilisation,CMC embedded,
+Sample_Growth_Conditions,meredith root,
+Condition,None,
+Sample_Growth_Conditions,None,
+MALDI_Matrix,"1,5-diaminonaphthalene",
+MALDI_Matrix_Application,TM-Sprayer,
+Organism,Bacillus subtilis,FALSE
+Organism_Part,biofilm,FALSE
+Sample_Growth_Conditions,72h wound healing,
+Sample_Growth_Conditions,24h wound healing,
+Sample_Growth_Conditions,48h wound healing,
+Organism,Artemisia annua,FALSE
+Organism_Part,Leaf,FALSE
+MALDI_Matrix_Application,DESI,
+Organism,Geodia barretti,FALSE
+Organism_Part,tissue section,
+Organism,Bathymodiolus childressi,FALSE
+Sample_Stabilisation,"Fresh frozen, CMC",
+Organism,Biosolid,FALSE
+Condition,Activated sludge,
+Condition,cancer,
+Condition,D-265-LLL-10B2-7_25um,
+Condition,D-265-LLL-10B2-7,
+MALDI_Matrix,PNA,
+Tissue_Modification,antigen retrieval,FALSE
+Organism_Part,Tonsil,
+Organism_Part,Skin,
+Condition,"s-2203-016117, 50um",
+Condition,"s-2008-000608, 50um",
+Condition,"s-2008-000608, 25um",
+Condition,"ref for s-2203-016117, 50um",
+Condition,melanoma,
+Condition,tumor,
+Organism,BBCC 1814-1835,FALSE
+Organism,kidney,FALSE
+Organism_Part,mouse,
+Organism,shellfish,FALSE
+Organism_Part,shellfish,FALSE
+Condition,Knockout,
+Sample_Stabilisation,Formalin fixed paraffin embedded,
+Tissue_Modification,Formalin fixation,FALSE
+Condition,"S-2006-001972, 25um, left",
+Condition,"S-2006-001972, 50um, right",
+Condition,"S-2006-001972, 50um, center",
+Condition,"S-1905-018761, 25 um, left",
+Condition,"S-1905-018761, 50 um, right",
+Condition,ref for S-1905-018761,
+Condition,ref for S-2006-001972,
+Condition,"S-1905-018761, 50 um, center",
+Sample_Growth_Conditions,24 hour incubated on alginate beads,
+Organism,"Bacillus subtilis, Pseudomonas marginalis",FALSE
+Organism_Part,Whole organisms and agar,FALSE
+Sample_Growth_Conditions,72 hr cultivation,
+Sample_Stabilisation,Glue fixed to Bruker Intellislides,
+Organism_Part,Whole organism and agar,FALSE
+Organism,Rhesus (Monkey),FALSE
+Analyzer,Orbitrap XL,
+Sample_Growth_Conditions,Rested,
+Condition,KO vs. KO,
+Condition,KO vs. WT,
+Organism,"Bacillus subtilis, Pseudomonas fluorescens",FALSE
+Condition,WT vs. WT,
+Condition,WT vs. KO,
+Sample_Growth_Conditions,24 hours incubated,
+Sample_Stabilisation,"Flash frozen, Gelatin CMC embedded",
+Sample_Growth_Conditions,24hr growth on alginate beads,
+Organism_Part,Colon,
+Organism,Biofilms,FALSE
+Organism_Part,biofilms,FALSE
+Sample_Stabilisation,Fresh ,
+Condition,Drug treated,
+Sample_Growth_Conditions,Sertraline,
+Condition,"S-2008-000562, 50um",
+Condition,"S-2008-000562, 25um",
+Condition,S-2006-001643_25um,
+Condition,ref_S-2008-000562,
+Condition,ref_S-2006-001643,
+Condition,S-2006-001643_50um,
+Organism,fungal,FALSE
+Sample_Growth_Conditions,Agar,FALSE
+Sample_Stabilisation,drying,
+Organism_Part,Lymph node,
+Condition,ref_S-2010-012978,
+Condition,"S-1905-017532, 50 um",
+Condition,ref_S-1905-017532,
+Condition,"S-1905-017532, 25um",
+Condition,"S-2010-012978, 25um",
+Organism,Gammarus pulex,FALSE
+Sample_Growth_Conditions,Exposed to a mix of pesticiedes and pharmaceuticals,
+Sample_Stabilisation,2 % CMC,
+Condition,S-2203-000604,
+Condition,ref_S-2002-014499,
+Condition,"S-2002-014499, 25um",
+Condition,S-2002-014499,
+Condition,ref_S-2203-000604,
+Condition,25 um,
+Condition,Cancerous,
+Organism,Populus trichocarpa,FALSE
+Sample_Stabilisation,Lyophilization ,
+Organism,Maize,FALSE
+Condition,5-NBA derivatization,FALSE
+Sample_Stabilisation,flash frozen,
+Tissue_Modification,5-NBA,FALSE
+Condition,TMPy derivatization,FALSE
+Tissue_Modification,TMPy,FALSE
+Condition,TMPy,FALSE
+Organism,Helicobacter pylori,FALSE
+Organism_Part,PMSS1,
+Sample_Growth_Conditions,Cultured,
+Tissue_Modification,lipid extract (Chl/MeOH/H2O),FALSE
+Organism,Bacillus subtilis/fusarium,FALSE
+Condition,interaction,
+MALDI_Matrix,"Gold, KAc",FALSE
+Condition,CA derivatization,FALSE
+Tissue_Modification,CA,FALSE
+Organism,Lipid standard,FALSE
+Organism_Part,solution,FALSE
+Condition,drop,
+Sample_Stabilisation,drop assay,FALSE
+Organism,Gigantidas gladius,FALSE
+Organism_Part,gill,FALSE
+Sample_Stabilisation,"cryo CMC, gelatin",
+Additional_Information,Publication DOI: http://pubs.rsc.org/en/content/articlelanding/2017/cc/c7cc02325a#!divAbstract,
+Sample_Stabilisation,"GA fixed, frozen",
+Organism,Lupinus angustifolius,FALSE
+Organism_Part,Pod,FALSE
+Sample_Stabilisation,2.5 % CMC,
+MALDI_Matrix_Application,Spray,
+Condition,Wildtype which had absorbed labelled lysine,
+Condition,Wildtype which had absorbed lysine,
+Organism_Part,root nodule,FALSE
+Condition,biopsy_019,
+Condition,wildtype,
+Organism,standard,FALSE
+Organism_Part,Full-body,
+Tissue_Modification,Sucrose cryoprotection,FALSE
+Organism,cultured cells,FALSE
+Sample_Stabilisation,Fixation,
+MALDI_Matrix,DHA,
+Analyzer,FTICR 12T,
+Organism_Part,neuron,
+Organism,E. coli,FALSE
+Condition,agar,FALSE
+Organism,Rabbit,FALSE
+Condition,VX2 Liver Tumor,
+Condition,Glioblastoma,
+Condition,Contaminated,FALSE
+Sample_Growth_Conditions,Excess Chocolate,
+Analyzer,Xevo G2-XS,
+Additional_Information,"Overlapping chocolate fingerprints, training data",FALSE
+Organism_Part,Breast,
+Additional_Information,"Want to check whether the file is corrupt through uploading the imd and imzML files that were exported using FlexImaging
+Sample Description: MCF-7 spheroids imaged in negative mode 40 um resolution
+Sample Preparation: sectioned at 15um thickness at -21 degrees. coated with 10 mg/ml 9aa 74% ACN 8 passes. 
+Publication DOI: N/A",FALSE
+Condition,ref_S-2008-006714,
+Condition,"S-2008-006714, 25um",
+Condition,S-2008-006714,
+Condition,S-2108-005538_25um,
+Condition,S-2108-005538_50um,
+Organism,Danaus plexippus,FALSE
+Sample_Stabilisation,Gelatine,
+Organism,Euploea core,FALSE
+Organism_Part,longitudinal section,
+Condition,Dry,
+Tissue_Modification,Trypsin digestion,FALSE
+Organism_Part,Caterpillar,FALSE
+Organism,people,
+Organism_Part,intestinal tract,
+Condition,BA059,
+MALDI_Matrix,"2,5-dihydroxybenzoic acid",
+Condition,feronia_mutant,
+Condition,IPF,
+Condition,IPF_4419,
+Condition,BA046,
+Organism_Part,brain,
+Tissue_Modification,digestion with trypsin,FALSE
+Organism,Tradescantia (plant),FALSE
+Sample_Growth_Conditions,fresh,
+Organism,Aplysina aerophoba,FALSE
+Organism,Gallus domesticus (chicken),FALSE
+Organism_Part,Bladder,
+Organism_Part,esophagus,
+Organism_Part,Prostate,
+Organism_Part,Thyroid,
+Organism_Part,Sarcoma,
+Organism,Ivy (Plant),FALSE
+Organism_Part,fingerprint,FALSE
+Organism,unknown,FALSE
+Organism,Mouse ,
+Organism_Part,Artery,
+Condition,ApoE,
+Condition,ref_for_S-1905-018714_50um,
+Condition,Control-healthy,
+Condition,S-1905-018714_35um,
+Condition,S-1905-018714,
+Condition,"Cancer, metastatic, GIST",
+Additional_Information,"Sample Description: Mixture of intestinal lipids (PCs and lyso-PCs, cholic acid and taurocholate) sprayed on a glass slide.",FALSE
+Tissue_Modification,CA derivatization,FALSE
+MALDI_Matrix,gold,FALSE
+Tissue_Modification,5-NBA derivatization,FALSE
+Tissue_Modification,TMPy derivatization,FALSE
+Condition,Infected,
+Sample_Growth_Conditions,normal diet,
+Organism_Part,finger,FALSE
+Sample_Growth_Conditions,"fingerprint, fresh",FALSE
+Condition,ref_S-1909-007131,
+MALDI_Matrix,"2,5-dihydroxyacetophenone",
+Organism,switchgrass,FALSE
+Organism_Part,imprint,FALSE
+Sample_Growth_Conditions,A11,
+Sample_Stabilisation,imprint,FALSE
+Organism,clementine,FALSE
+Organism,Chlamydomonas reinhardtii,FALSE
+Organism_Part,Chlamydomonas reinhardtii,FALSE
+Condition,Chlamydomonas reinhardtii,FALSE
+Sample_Growth_Conditions,TAP medium,
+Organism,Exaiptasia diaphana (anemone),FALSE
+Condition,Ambient,
+Sample_Growth_Conditions,Marine,
+Analyzer,FTMS,
+Additional_Information,Used peak area for ibd and imz export(not raw data),
+Organism,Grevillea robusta,FALSE
+Organism_Part,Flower,FALSE
+Organism,Telopea speciosissima,FALSE
+Organism,Bathymodiolus puteoserpenstis,FALSE
+Sample_Stabilisation,Flash frozen,
+Additional_Information,"Sample Description: 2 day old mouse
+Sample Preparation: Cryosectioned at 25 micron thickness and analyzed with 100 micron spatial resolution",
+Additional_Information,KPMP (UTHSCSA),
+Organism,Neorites kevedianus,FALSE
+Organism,Hakea bucculenta,FALSE
+Organism_Part,Rachis,
+Organism,Macadamia tetraphylla,FALSE
+Condition,Frozen,
+Sample_Growth_Conditions,A6,
+Condition,PVDF_A6,
+Condition,GTTP_A6,
+Organism_Part,Urinary bladder,
+MALDI_Matrix,N/A,
+Organism_Part,Adrenal gland,
+Additional_Information,"Sample Description: mouse adrenal gland
+Expected Molecules: small metabolites",
+Sample_Growth_Conditions,Cerebellum,
+Organism_Part,knee,
+Sample_Stabilisation,"Fresh frozen, SCEM embedding, tape transfer",
+Organism,Pig,FALSE
+Organism_Part,Cartilage,
+Condition,PVDF,FALSE
+Sample_Growth_Conditions,A7,
+Condition,GTTP,
+Organism,Allium Cepa,FALSE
+Condition,Native,
+Organism,P. lima,FALSE
+Organism_Part,Brain (CSF),
+Organism,Pseudomonas putida | Pseudomonas savastanoi,FALSE
+Sample_Growth_Conditions,Cultured 2D,
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2018-11-15_DDN_PputPsav_200x200_100x200,FALSE
+Additional_Information,P. putida RW10s2 vs P. savastanoi 722,FALSE
+Tissue_Modification,derivatization BTA,FALSE
+Organism,persimmon,FALSE
+Sample_Growth_Conditions,rotting,
+Organism,Atta sexdens,FALSE
+Organism,blueberry,FALSE
+Organism_Part,oral squamous cell carcinoma,
+MALDI_Matrix,"2,5-dihydroxy benzoic acid (DHB)",
+Organism_Part,tumor-adjacent tissue,
+Condition,TB Granuloma,
+Organism,carrot,FALSE
+Sample_Growth_Conditions,sprouting,
+Organism_Part,Nodule,FALSE
+Organism,Potato,FALSE
+Sample_Growth_Conditions,NW,
+Organism,Cotton (Gossypium L.),FALSE
+Organism_Part,"cotton ovules sampled at -1.5 DPA, -1 DPA, 0 DPA, 1 DPA, 3 DPA, 4 DPA, and 5 DPA",FALSE
+Sample_Growth_Conditions,climate chamber,
+Sample_Stabilisation,Freshly harvested,
+Tissue_Modification,Ammonium Formate wash,
+Organism,Kiwi berry,FALSE
+Organism_Part,"globular embryos,torpedo embryos,cotyledonary embryos,callus_1,callus_2",
+Organism,tumor spheroids,FALSE
+Organism_Part,spheroids,FALSE
+Sample_Stabilisation,gelatin,
+Organism,Food grade garlic,FALSE
+Sample_Growth_Conditions,"supermarket, peeled",FALSE
+MALDI_Matrix,Au,FALSE
+Condition,infected,
+Condition,P27,
+Organism_Part,Tooth,
+Organism_Part,Bone and tooth,
+Organism_Part,Bone,
+Organism,Mice,
+Additional_Information,"Sample 5J replicate, m/z range 100-1500, 90:10 MeOH:H2O, 3 µl/min, N2 7bar, IT 100, S-lens 100, 5kV",FALSE
+Condition,Constructed wetland,FALSE
+Analyzer,FT-ICR,
+Sample_Stabilisation,tape mounted fracturing,
+Organism,Arabidopsis,FALSE
+MALDI_Matrix,DHB/CHCA,
+Tissue_Modification,Derivatization by betaine,FALSE
+Organism,Drosophila larvae,FALSE
+Sample_Growth_Conditions,none,
+Organism_Part,Omentum,
+Condition,Co-culture,FALSE
+Sample_Growth_Conditions,Cultured 3D in 1% agarose + DMEM media,
+MALDI_Matrix,ice,
+Organism,Nicotiana nesophila,FALSE
+MALDI_Matrix_Application,HCCA,
+Condition,patient #7,
+Condition,mature,
+Sample_Growth_Conditions,Cultured 3D,
+Condition,mac_P7_control,
+Organism,Livers ,FALSE
+Condition,Myasthenia gravis experimental animal EAMG,
+Sample_Growth_Conditions,Leflunomide (LEF) preparations intravenous administration in EAMG then freshly harvested.,
+Organism_Part,nodules,FALSE
+Organism_Part,lung,
+Condition,different,
+Sample_Stabilisation,Sucrose,FALSE
+MALDI_Matrix,Ice and Sucrose,
+Sample_Stabilisation,Fresh Frozen,
+Sample_Stabilisation,Sucrose Frozen,FALSE
+Sample_Stabilisation,microflidic chip,
+Condition,96 hrs,
+Sample_Stabilisation,3.75% HPMC and 1.25% PVP embedded,
+Condition,diseased,
+Sample_Growth_Conditions,14 days infection,
+Sample_Growth_Conditions,20 days infection,
+MALDI_Matrix,ZSA,FALSE
+Organism,Monkey,FALSE
+Organism_Part,retina,
+MALDI_Matrix_Application,Sputtering,FALSE
+Organism_Part,Small intestine,
+Sample_Growth_Conditions,naive,
+Organism,Mouse Brain,
+MALDI_Matrix,"2′,5′-Dihydroxyacetophenone (DHAP)",
+Condition,untreated,
+Condition,"control, GT derivatization included in search",
+Sample_Stabilisation,HPMC,
+Tissue_Modification,GT derivatization,FALSE
+Condition,024_control_35um,
+Condition,drug trated,
+Organism,microbes,FALSE
+Condition,MN08,
+Condition,MF09,
+Condition,SF01,
+Condition,LN05,
+Condition,SF14,
+Condition,SF11,
+Condition,LN02,
+Condition,LN01,
+Condition,LF08,
+Condition,LF06,
+Condition,LF03,
+Organism,Canine,FALSE
+Condition,Sarcoma,
+Sample_Growth_Conditions,Flash-Frozen ,
+Analyzer,Synapt,
+Additional_Information,Attempt 2 at Waters Centroid Data,FALSE
+Organism,Galleria mallonella,FALSE
+Sample_Stabilisation,FFPE vs Fresh frozen,
+Condition,"6724, 35um, very right",
+Condition,"6724, right",
+Condition,"6724, left",
+Condition,ref_for_S-1905-017720,
+Condition,"S-1905-017720, right",
+Condition,S-1905-017720,
+Condition,"right_0734, 50um",
+Condition,"left_0734, 50um",
+Condition,024_control,
+Condition,024_control_right_50um,
+Condition,024_control_left_50um,
+MALDI_Matrix,4-Nitroaniline,
+MALDI_Matrix,5-Chloro-2-mercaptobenzothiazole,
+Organism,Lemna minor,FALSE
+Organism_Part,Frond,
+MALDI_Matrix,"2,5-dihydroxyacetophenone (DHAP)/Gold Sputter",FALSE
+Condition,922,
+Condition,"0922 , didn't pass QC",FALSE
+Condition,reference_for_0922,
+Condition,"024_control_down_up, didn't pass QC",
+Condition,"ref_for_control_024, didn't pass QC",
+Analyzer,timsTOF,
+MALDI_Matrix_Application,Subimation,
+Condition,"S-1908-000922, 35um spatial",
+Organism_Part,HeLa,FALSE
+Condition,Tuberculosis,
+Condition,922_35um,
+Condition,922_50um,
+Organism,Coriandrum sativum,FALSE
+Condition,"control_024_down_right, didn't pass QC",
+Condition,control_024,
+Organism_Part,meristem,FALSE
+Condition,patient7,
+Additional_Information,Slice thickness is 30µm. Section of visual cortex.,
+Condition,mac_P10_control,
+Condition,mac_P8_ammonium,
+Condition,mac_P11_ammonium,
+Condition,mac_P6_nitrate,
+Condition,mac_P11_nitrate,
+Condition,P11_ammonium,
+Sample_Growth_Conditions,Glucose 0.15mg/L,
+Sample_Growth_Conditions,Glucose 1.5 mg/L,
+Sample_Growth_Conditions,Glucose 0.15 mg/L,
+Organism,soil bacteria,FALSE
+Condition,large pores,FALSE
+Condition,small pores,FALSE
+Condition,medium pores,FALSE
+Condition,mimetic,FALSE
+Organism_Part,HaCaT cells,FALSE
+Sample_Growth_Conditions,Cultures,FALSE
+Organism_Part,Mesenchymal stromal cells,FALSE
+Condition,IFN treated,
+Tissue_Modification,IFN,
+Organism_Part,Eye,
+Organism,Non-human primate (rhesus macaque),FALSE
+Condition,RT-SHIV+,
+Condition,fixed,
+Condition,ref_for_S-1908-000922,
+Condition,"S-1908-000922, 35 um spatial",
+Condition,S-1908-000922,
+Condition,ref_S-2102-006581,
+Condition,"S-2102-006581, 35 um spatial",
+Condition,S-2102-006581,
+Sample_Stabilisation,10% Gelatine,
+Organism,Hela cells,FALSE
+Additional_Information,"DHB - 0.7 7 PASSES 15MGML
+Optical image channels: green = FITC
+",
+Organism,mixed,FALSE
+Organism_Part,mixed,
+MALDI_Matrix_Application,ultrasonic sprayer,
+Analyzer,Synapt G2-S HDMS,
+Organism_Part,Glioblastoma,
+Additional_Information,"DHB - 0.7 7 PASSES 15MGML
+Optical image channels: red = DAPI
+",
+Additional_Information,"Sample 5I, m/z range 100-1500, 90:10 MeOH:H2O, 3 µl/min, N2 7bar, IT 100, S-lens 100, 5kV",FALSE
+Additional_Information,"Sample 5G, m/z range 75-500, 90:10 MeOH:H2O, 3 µl/min, N2 7bar, IT 100, S-lens 100, 5kV",FALSE
+Additional_Information,"Sample 5H, m/z range 75-500, 90:10 MeOH:H2O, 3 µl/min, N2 7bar, IT 100, S-lens 100, 5kV",FALSE
+Additional_Information,"Sample 5J, m/z range 100-1500, 90:10 MeOH:H2O, 3 µl/min, N2 7bar, IT 100, S-lens 100, 5kV",FALSE
+Condition,normal -asthma,
+Condition,nif mutant,
+Additional_Information,Modality is atmospheric pressure plasma enhanced infrared laser desorption ionisation without addition of any matrix or other ionisation enhancing or laser absorption additive. ,
+Condition,No gelatin,FALSE
+Sample_Growth_Conditions,Glucose7.5 mg/L,
+Condition,pliot sample_020,
+Additional_Information,"Sample 14A, m/z range 75-500",FALSE
+Organism_Part,CD4+ T cells,FALSE
+Condition,reference tissue KNO3 2nd incubation chamber,
+Condition,ref_for_S-2001-019395,
+Condition,S-2001-019395,
+Condition,"S-2001-019395, 35 um spatial",
+Condition,reference_tissue_KNO3_1st incubation chamber,
+Condition,reference for S-1908-009717,
+Condition,"S-1908-009717, 35 um spatial",
+Condition,S-1908-009717,
+MALDI_Matrix,glycerol,FALSE
+MALDI_Matrix,BPYN,FALSE
+Organism,Camelina,FALSE
+Condition,S-1909-007131,
+Condition,reference for S-1904-008111,
+Condition,S-1904-008111,
+Organism_Part,Prostate cancer cells,FALSE
+Condition,Treated 2-DG,
+Sample_Growth_Conditions,PDXO,
+Sample_Stabilisation,4% PFA 10 minutes,
+MALDI_Matrix_Application,TM Sprayer - 5mg/mL; 70°C; 0.07mL/min; 10 passes; 10psi,
+MALDI_Matrix_Application,TM Sprayer - 10mg/mL; 80°C; 0.07mL/min; 8 passes; 10psi,
+Additional_Information,"Optical image channels: blue = DAPI
+",
+MALDI_Matrix_Application,TM Sprayer - 10mg/mL; 80°C; 0.05mL/min; 8 passes; 10psi,
+Condition,Treated,
+MALDI_Matrix_Application,TM Sprayer - C7mg/mL; 80°C; 0.05mL/min; 8 passes; 10psi,
+Organism,mice,
+Organism_Part,macro,FALSE
+Organism_Part,macrophage,FALSE
+Condition,single cell,FALSE
+MALDI_Matrix_Application,sprayed on slide,
+MALDI_Matrix_Application,sprayed on tissue,
+Organism_Part,Cerebellum,
+Organism_Part,3T3 fibroblast and HaCaT cells,FALSE
+Condition,cells in culture,FALSE
+Sample_Growth_Conditions,coculture,FALSE
+Organism_Part,Primary stem,
+Additional_Information,Cryo section of one of a Rauwolfia tetraphylla leaf. ,FALSE
+Sample_Growth_Conditions,Glucose 0 mg/L,
+Organism,Drosophila,FALSE
+Condition,Interaction and control,
+Condition,Interaction,
+Condition,Leuco_Control,
+Condition,Esco_control,
+Condition,"Infected, Escovopsis",
+Condition,biopsy_020,
+Condition,B109,
+Tissue_Modification,Coniferyl Aldehyde,
+Tissue_Modification,Girard's P,FALSE
+Tissue_Modification,Girard's T,FALSE
+Tissue_Modification,2-picolylamine,
+Analyzer,TimsTOF,
+Analyzer,FTICR(Solarix),
+MALDI_Matrix,9-aminoacridine,
+Condition,reference,
+Condition,"35um, biopsy, didn't pass QC",
+Condition,didn't pass WC,
+Condition,didn't pass QC,
+Condition,"35um, didn't pass QC",
+Condition,"biopsy, didn't pass QC",
+Additional_Information,"This dataset is not the original result from an experiment but has been manipulated and curated to serve as test data.
+Optical image channels: gray = brightfield, green = GFP
+",FALSE
+Sample_Growth_Conditions,monoculture,FALSE
+Organism_Part,3T3 fibroblast cells,FALSE
+Organism_Part,primary human epithelial keratinocytes neonatal (hekn cells) ,FALSE
+Organism_Part,3T3 fibroblast and primary human epithelial keratinocytes neonatal (hekn) cells ,FALSE
+Condition,Low Fat Diet,
+Condition,High Fat Diet,
+Sample_Growth_Conditions,T0,
+Organism,Homo sapiens (mouse),
+Organism,trichodesmium,FALSE
+Sample_Growth_Conditions,with dust,
+MALDI_Matrix,N-(1-naphthyl)ethylenediamine dihydrochloride,
+Sample_Growth_Conditions,high fat diet,
+Condition,Tumour,
+MALDI_Matrix,4-chloro-alpha-cyanocinnamic acid,
+Organism,Brassica napus (rapeseed),FALSE
+Sample_Growth_Conditions,Growth chamber,
+Organism,Bacterial culture,FALSE
+Sample_Growth_Conditions,SunChrom Sprayer,
+Sample_Growth_Conditions,spheroids,FALSE
+Organism,Bacterial cultures,FALSE
+Sample_Stabilisation,NA,
+Organism,Pseudomonas fluorescence,FALSE
+Sample_Stabilisation,EtOH washing,
+Condition,48h,
+Condition,24h,
+Organism_Part,Finger,
+Condition,Native Print,
+MALDI_Matrix_Application,TMSprayer,
+MALDI_Matrix,Maleic anhydride proton sponge,
+MALDI_Matrix,PNDI-T2,
+MALDI_Matrix,alpha-cyano-4-hydroxycinnamic acid,
+Organism_Part,palm of hand,
+Sample_Growth_Conditions,ROSAH patient,
+Organism_Part,ear/skin,
+Condition,MC903,
+Sample_Growth_Conditions,treated with R. mucosa,
+Sample_Growth_Conditions,treated with Cohnii,
+Organism,soybean,FALSE
+Condition,nif,
+Condition,3T3 fibroblast cells,FALSE
+Sample_Growth_Conditions,cells grown in DMEM 10% FBS,
+Organism_Part,prostate,
+Additional_Information,"Sample 9e, m/z range 200-1250 m/z, Negative Mode",FALSE
+Condition,SP (mycorrhizal w/ Suillus pungens,FALSE
+Condition,NM (non-mycorrhizal),FALSE
+Tissue_Modification,BzPy PB,FALSE
+MALDI_Matrix,BzPy,FALSE
+Condition,SIL-Labeled,FALSE
+Condition,Control-unlabeled,
+Condition,"Infected, Salmonella",
+Sample_Growth_Conditions,"control, infected, infected and treated",
+Additional_Information,"Sample S1D positive ion mode, m/z 350-1300
+MeOH/H2O 95:5, 1.0uL/min, 4.5kV, S-Lens 100, 150ms IT,
+4.5bar N2, 70deg angle",
+Condition,healthy biopsy,
+Analyzer,UHMR,
+Condition,DKD biopsy,
+MALDI_Matrix,multiple,FALSE
+Organism,piper,FALSE
+Condition,drought and predrought,
+Organism,clitoria,FALSE
+Organism,hibiscus,FALSE
+Condition,VDS,
+Additional_Information,Centroid Data,
+Condition,DKD and CTR comparison,
+Condition,DKD ,
+Condition,VDD,
+Condition,C9+ (sALS),
+Condition,sALS,
+Condition,Control (sALS),
+Condition,DKD,
+Condition,Ga complex,FALSE
+Tissue_Modification,Ga complex,FALSE
+Organism,Azotobacter ,FALSE
+Organism_Part,"Leaf, seed",
+Condition,genetically pure improved variety,
+MALDI_Matrix,super DHB,
+Organism_Part,pancreatic cancer cell line - K8484,FALSE
+Sample_Growth_Conditions,attached - no trypsin,FALSE
+Sample_Stabilisation,PFA,
+Additional_Information,"DAN 7mg/ml 70acn 7 passes flowrate 0.05 mL/min
+pixel mode
+
+Optical image channels: gray = trans, blue = hoechst
+",
+Sample_Growth_Conditions,trypsin + cytospin,FALSE
+Sample_Stabilisation,Cytospin,FALSE
+Organism,Dunaliella salina and Artemia,FALSE
+Organism_Part,Mush ,FALSE
+Organism,Artemia,FALSE
+Organism_Part,Mush,FALSE
+Sample_Growth_Conditions,Co-culture,FALSE
+Organism,African Green monkey,FALSE
+Condition,nif type,
+Sample_Stabilisation,Snap frozen,
+Organism,Dunaliella salina,FALSE
+Organism_Part,Homogenate,FALSE
+Condition,on membrane,FALSE
+Sample_Stabilisation,dried,
+Additional_Information,"Sample 4F, m/z range: 100-1500",FALSE
+Organism_Part,Brain (occipital),
+Sample_Growth_Conditions,non migrated (10%fbs),
+Condition,RAH Tumor,
+Organism_Part,Left upper arm,
+Additional_Information,"Tissue was cut to 8um thick tissue using a modified Kawamoto's film method (2003) and transferred onto DIOS substrates using transfer film. Frozen sections were transferred onto n-type electrohcemically etched and silanized porous silicon wafers. Tissue was imaged directly post dessication via abalation, using a manually adjusted laser power. Spectra were acquired at a spatial resolution of 50um in positive ion mode. ",FALSE
+Additional_Information,"N = 2 (vehicle) N = 4 (doxorubicin treated), 6 hours after treatment",
+Organism_Part,artery,
+Organism,Apis mellifera,FALSE
+Condition,Pesticide contaminated,
+Organism_Part,Digestive system,
+Organism,Spodoptera littoralis,FALSE
+MALDI_Matrix,DIUTHAME,FALSE
+Organism,Rapeseed,FALSE
+Organism_Part,germinated seed,FALSE
+Organism,rat,
+Condition,CLZ,
+Condition,Neosporin,
+Additional_Information,pqsA 200mz,
+Condition,Vaseline,
+Condition,biopsy_18-162-2,
+Condition,biopsy_016,
+Condition,biopsy_18-312-2,
+Condition,biopsy_18-342-2,
+Condition,pilot_18139,
+Condition,16gauge_020,
+Additional_Information,18-162-2,
+Organism_Part,SKin,
+Condition,SPF,
+Condition,Staph A,FALSE
+Condition,PBS,
+Condition,Germ-Free,
+Organism,bovine,FALSE
+Tissue_Modification,homogenate,FALSE
+Organism_Part,xenograft tumors,
+Organism_Part,Epithelial cells,FALSE
+Analyzer,QExactive plus,
+Organism,Fittonia argyroneura,FALSE
+Organism,Bathymodiolus brooksi,FALSE
+Condition,wild-type,
+Sample_Stabilisation,5min 4% PFA,
+MALDI_Matrix_Application, TM sprayer,
+Additional_Information,"DAN 10 MG/ML 0.07 FLOW 8 PASSES
+
+Optical image channels: darkviolet = Dapi
+",
+Additional_Information,Biopsy 2297_1 ,
+Condition,Uninfected,
+Sample_Growth_Conditions,"ARV dosing: FTC, TFV, EFV, RAL",
+Sample_Growth_Conditions,"ARV dosing: FTC, TFV, MVC, ATV",
+Sample_Stabilisation,ffpe,FALSE
+Analyzer,N/A,
+Condition,standards,
+Additional_Information,"Q Exactive HF;
+m/z 400-1500;
+flow rate: 3 uL/min;
+180 psi N2;
+S-lens 100;
+100ms IT;
+4.5 kV;
+cap temp: 310C;
+2 uscans",
+Additional_Information,"Q Exactive HF;
+m/z 70-400;
+flow rate: 3 uL/min;
+180 psi N2;
+S-lens 50;
+100ms IT;
+4.5 kV;
+cap temp: 310C;
+2 uscans",
+Organism,Leucoagaricus-Escovopsis,FALSE
+Condition,biopsy-4189,
+Condition,biopsy 4189,
+Additional_Information,"biopsy_4189_section2
+",
+Additional_Information,"biopsy_4189_section1
+",
+Organism,Leaf,FALSE
+Condition,Leaf,FALSE
+Analyzer,"E.g. FTICR, Orbitrap",
+Condition,Immortalised cell line,FALSE
+Additional_Information,CLZ handspots,
+Additional_Information,"Sample 4C, m/z range: 100-1500",FALSE
+Additional_Information,"Sample 5I replicate, m/z range 100-1500, 90:10 MeOH:H2O, 3 µl/min, N2 7bar, IT 100, S-lens 100, 5kV",FALSE
+Additional_Information,"Sample 5G replicate, m/z range 75-500, 90:10 MeOH:H2O, 3 µl/min, N2 7bar, IT 100, S-lens 100, 5kV",FALSE
+Additional_Information,"Sample 5H replicate, m/z range 75-500, 90:10 MeOH:H2O, 3 µl/min, N2 7bar, IT 100, S-lens 100, 5kV",FALSE
+Organism_Part,standards,FALSE
+Sample_Growth_Conditions,agar,FALSE
+Organism,n/a,FALSE
+Condition,s_2006_002250,
+Sample_Growth_Conditions,MSgg agar,FALSE
+Additional_Information,Wiederaufbau 2021,
+Additional_Information,"Sample S1D positive ion mode, m/z 70-400
+MeOH/H2O 95:5, 1.0uL/min, 4.5kV, S-Lens 50, 150ms IT,
+4.5bar N2, 70deg angle",
+Condition,pqsA,
+MALDI_Matrix,"DHB, CHCA",
+Condition,PAO1,
+Additional_Information,PAO1 200mz,
+Condition,Not Infected,
+Additional_Information,NC 200mz,
+Condition,HemO TM,
+Additional_Information,HemO TM 200mz,
+Condition,HemO QM,
+Additional_Information,HemO QM 200mz,
+Condition,HemO,
+Additional_Information,HemO 200mz,
+Additional_Information,"Sample S1C negative ion mode, m/z 350-1300
+MeOH/H2O 95:5, 1.0uL/min, 4.5kV, S-Lens 100, 150ms IT,
+4.5bar N2, 70deg angle",
+Additional_Information,"Sample S1C negative ion mode, m/z 70-400
+MeOH/H2O 95:5, 1.0uL/min, 4.5kV, S-Lens 50, 150ms IT,
+4.5bar N2, 70deg angle",
+Additional_Information,"Wiederaufbau 2021
+Wiederholungsmessung",
+Condition,biopsy 16 gauge-test,
+Additional_Information,"Wiederaufbau 2021
+Zweiter Versuch, nachdem der erste nur wenig Lipidsignale hatte",
+Condition,biopsy 17-635-005,
+Additional_Information,"Spectroglyph sorce on 21T : biopsy 17-635-005,
+recalibrated by Will using annotations metaspace has already made for this dataset 
+",
+Additional_Information,"Spectroglyph sorce on 21T : biopsy 17-635-005,
+recalibrated by Will
+",
+Sample_Growth_Conditions,Sham Control: TCA,
+Additional_Information,"Sample S1A negative ion mode, m/z 70-400
+MeOH/H2O 95:5, 1.5uL/min, 4.5kV, S-Lens 50, 150ms IT",
+Additional_Information,"Sample S1A positive ion mode, m/z 350-1300
+MeOH/H2O 95:5, 1.5uL/min, 4.5kV, S-Lens 100, 150ms IT",
+Additional_Information,"Sample S1A negative ion mode, m/z 350-1300
+MeOH/H2O 95:5, 1.5uL/min, 4.5kV, S-Lens 100, 150ms IT",
+Additional_Information,"Sample S1A positive ion mode, m/z 70-400
+MeOH/H2O 95:5, 1.5uL/min, 4.5kV, S-Lens 50, 150ms IT",
+Sample_Stabilisation,fixed,
+Additional_Information,h2o wash,
+Additional_Information,TFA vapour exposure,
+Organism_Part,Mesenchymal cells,
+Additional_Information,added TFA,
+Sample_Growth_Conditions,Hippocampus,
+MALDI_Matrix,"2′,6′-Dihydroxyacetophenone (DHAP)",
+Additional_Information,"Spectroglyph sorce on 21T : biopsy 17-635-005
+",
+Organism_Part,Root/soil,FALSE
+Additional_Information,RMS normalization,
+Additional_Information,"Wiederaufbau 2021
+Problem bei Matrixauftragung",
+Organism_Part,Larynx,
+Sample_Growth_Conditions,Human specimen,
+Additional_Information,"A 74-year-old human larynx was obtained at autopsy with approval of the University of Wisconsin Health Sciences Institutional Review Board. The larynx contained advanced polypoid degeneration (Reinke's edema) as well as a supraglottic mucus retention cyst.
+
+The specimen was fixed in 4% paraformaldehyde, paraffin embedded, and sectioned in the axial plane. We performed MALDI-MSI proteomic analysis on a glottic section containing the polypoid degeneration lesion, and MALDI-MSI glycomic analysis on a section containing the mucus retention cyst.  
+
+Sections were deparaffinized and processed for antigen retrieval. For glycomic analysis, PNGase F was sprayed onto tissue sections using a TM-Sprayer to release glycans. For proteomic analysis, trypsin was sprayed onto tissue sections. DHB was used as the MALDI matrix.
+
+MALDI-MS experiments were conducted using a MALDI-LTQ-Orbitrap XL mass spectrometer equipped with a 60 Hz 337 nm N2 laser. MS data were collected in the positive ion mode with a mass range of 100-3000 mass-to-charge ratio (m/z), mass resolution of 60K, raster step size of 75 µm, and laser energy of 20 µJ.",
+Condition,6PostV,
+Additional_Information,"25 um res, 800 shots, small molecule",
+Additional_Information,"25 um res, 800 shots, 500 mz",
+Additional_Information,"25 um res, 800 shots, 400 mz",
+Condition,6PostN,
+Condition,5PostV,
+Condition,5PostN,
+Condition,4PostV,
+Additional_Information,"25 um res, 800 shots, 500mz",
+Additional_Information,"25 um res, 800 shots, 400mz",
+Additional_Information,hpmc used as embedding method,
+Organism,Symbiodiniaceae,FALSE
+Condition,ambient or elevated temperatures,
+Sample_Stabilisation,Fresh,
+Additional_Information,DIOS,FALSE
+Additional_Information,agarose used as embedding method,
+Organism,Drosophila trrWT,FALSE
+Organism_Part,Embryo,
+Condition,Apples,FALSE
+Tissue_Modification,Spotted with standards,
+Additional_Information,"Slide F, Cluster 3",
+Organism,Drosophila trrCA,FALSE
+Additional_Information,"Slide H, Cluster 3",
+Condition,Regular,
+Additional_Information,"Slide D, Cluster 3",
+Additional_Information,"Slide B, Cluster 3",
+Condition,axenic,
+Additional_Information,"Slide G, Cluster 3",
+Additional_Information,"Slide E, Cluster 3",
+Sample_Growth_Conditions,Regular,
+Additional_Information,"Slide C, Cluster 3",
+Additional_Information,"Slide A, Cluster 3",
+Sample_Growth_Conditions,marine ambient,
+Additional_Information,HPMC-PVP used as embedding method,
+Condition,biopsy _4769_#8,
+Condition,biopsy _4769_#7,
+Condition,biopsy _4769_#6,
+Condition,biopsy _4769_#4,
+Sample_Growth_Conditions,MCLR ,
+Additional_Information,NEDC - 10MGML 8PASSES 0.06 FLOW,
+Condition,SPD,
+Sample_Growth_Conditions,SD0,
+Additional_Information,"SPD, SD0, 25 um res, 800 shots, small molecule",
+Additional_Information,"SPD, SD0, 25 um res, 800 shots, 500 mz",
+Additional_Information,"SPD, SD0, 25 um res, 800 shots, 400 mz",
+Additional_Information,"SA, SD0, 25 um res, 800 shots, small molecule",
+Additional_Information,"SA, SD0, 25 um res, 800 shots, 500 mz",
+Additional_Information,"SA, SD0, 25 um res, 800 shots, 400 mz",
+Additional_Information,"PBS, SD0, 25 um res, 800 shots, small molecule",
+Additional_Information,"PBS, SD0, 25 um res, 800 shots, 500 mz",
+Additional_Information,"PBS, SD0, 25 um res, 800 shots, 400 mz",
+Additional_Information,"GF, SD0, 25 um res, 800 shots, small molecule",
+Additional_Information,"GF, SD0, 25 um res, 800 shots, 500 mz",
+Additional_Information,"GF, SD0, 25 um res, 800 shots, 400 mz",
+Sample_Growth_Conditions,BL,
+Additional_Information,"SPF, BL, 25 um res, 800 shots, small molecule",
+Additional_Information,"SPF, BL, 25 um res, 800 shots, 500 mz",
+Additional_Information,"SPF, BL, 25 um res, 800 shots, 400 mz",
+Additional_Information,"SA, BL, 25 um res, 800 shots, small molecule",
+Additional_Information,"SA, BL, 25 um res, 800 shots, 500 mz",
+Additional_Information,"SA, BL, 25 um res, 800 shots, 400 mz",
+Additional_Information,"PBS, BL, 25 um res, 800 shots, small molecule",
+Additional_Information,"PBS, BL, 25 um res, 800 shots, 500 mz",
+Additional_Information,"PBS, BL, 25 um res, 800 shots, 400 mz",
+Additional_Information,"GF, BL, 25 um res, 800 shots, small molecule",
+Additional_Information,"GF, BL, 25 um res, 800 shots, 500mz",
+Additional_Information,"GF, BL, 25 um res, 800 shots, 400mz",
+Additional_Information,A PEN slide was used for this experiment.,
+Organism_Part,Liver and kidney,
+Tissue_Modification,UV-C treatment,
+Additional_Information,"UV-C decontamination was performed using the build-in low pressure mercury arc lamp of a CM1950 cryostat (Leica, Nussloch, Germany). The germicidal emission maximum of the lamp is at wavelength 253.7 nm. To perform controlled and reproducible irradiation experiments, the effects of the pre-programmed 30- and 180-min decontamination cycles on the tissue metabolome were evaluated.
+The sample groups are arranged as followed: 
+Left: 180 min irradiation under Argon
+Middle: Control (No irradiation)
+Right: 180 min irradiation (normal atmosphere)",
+Additional_Information,"UV-C decontamination was performed using the build-in low pressure mercury arc lamp of a CM1950 cryostat (Leica, Nussloch, Germany). The germicidal emission maximum of the lamp is at wavelength 253.7 nm. To perform controlled and reproducible irradiation experiments, the effects of the pre-programmed 30- and 180-min decontamination cycles on the tissue metabolome were evaluated.
+The sample groups are arranged as followed: 
+Left: 30 min irradiation
+Middle: Control (No irradiation)
+Right: 180 min irradiation",
+Organism_Part,Kidney and Liver,
+Tissue_Modification,UV-C irradiation,
+Organism_Part,Bone marrow,
+Sample_Growth_Conditions,2D culture,FALSE
+Organism_Part,kidney ,
+Additional_Information,"0.2 mg/mlPNGaseF, 15 cycles, 2h of incubation
+",
+MALDI_Matrix_Application,TransMIT Sprayer,
+Additional_Information,"PBS, 25 um res, 800 shots, 400mz",
+Additional_Information,"PBS, 25 um res, 800 shots, 500mz",
+Additional_Information,"PBS, 25 um res, 800 shots, small molecule",
+Additional_Information,"SA, 25 um res, 800 shots, small molecule",
+Additional_Information,"SA, 25 um res, 800 shots, 500mz",
+Additional_Information,"SA, 25 um res, 800 shots, 400mz",
+Additional_Information,A Polysine slide was used for this experiment.,
+Additional_Information,HFBA added,
+Additional_Information,Ammonium acetate wash,
+Additional_Information,Ammonium Acetate wash,
+Additional_Information,A DIRECTORs slide was used for this experiment.,
+Additional_Information,TFA added,
+Additional_Information,A PEN-coated slide was used for this experiment.,
+Additional_Information,"SPF, 15 um res, 800 shots, 500 mz",
+Condition,Germ Free,
+Additional_Information,"GF, 15 um res, 800 shots, 500 mz",
+Additional_Information,"nedc 10mg/ml   7 passes 0.06 flow 70% acn
+",
+Additional_Information,"SPF, 15 um res, 800 shots, 400 mz",
+Additional_Information,"SPF, 15 um res, 800 shots, 100 mz",
+Additional_Information,"Germ Free, 15 um res, 800 shots, 100 mz",
+Additional_Information,"Germ Free, 15 um res, 800 shots, 400 mz",
+Additional_Information,"nedc 10mg/ml   7 passes 0.05 flow 70% acn
+",
+Organism,Methyloprofundus sedimentii WF1,FALSE
+MALDI_Matrix_Application,Dried Droplet,FALSE
+Condition,Telogen,
+Additional_Information,"Telogen, 10 um res, 800 shots, 100 mz, 150 Funnel RF Amplitude",
+Condition,Anagen,
+Additional_Information,"Anagen, 10 um res, 800 shots, 100 mz, 150 Funnel RF Amplitude",
+Condition,Wtype TEST,
+Sample_Growth_Conditions,TEST,FALSE
+Organism_Part,Brain Hippocampus,
+Additional_Information,"Telogen, 10 um res, 800 shots, 400 mz",
+Additional_Information,"Anagen, 10 um res, 800 shots, 400 mz",
+Additional_Information,"Telogen, 10 um res, 800 shots, 500 mz",
+Additional_Information,"Anagen, 10 um res, 800 shots, 500 mz",
+Additional_Information,"Telogen, 10 um res, 800 shots, 300 mz",
+Additional_Information,"Anagen, 10 um res, 800 shots, 300 mz",
+Additional_Information,"Anagen, 10 um res, 800 shots, 200 mz",
+Additional_Information,"Telogen, 10 um res, 800 shots, 200 mz",
+Additional_Information,"Cryo section of one of a cannabis leaf. In the section there is both midrib and a vein.
+",FALSE
+Sample_Stabilisation,Freeze,
+Organism,Acropora millipora,FALSE
+Condition,APO,
+Condition,SYM,
+Organism_Part,rhizome,FALSE
+Additional_Information,"Slide number not legible, glyphosate treated embryos.",
+Additional_Information,Mix of maleic hydrazide treated and DAPI stained embryos,
+Additional_Information,"Cluster of several embryos, treated with DAPI or maleic hydrazide.",
+Additional_Information,6x D9 A33 150x150 stitched together,
+Organism,Capitella teleta,FALSE
+Sample_Stabilisation,Glutaraldehyde/Gelatine,
+Additional_Information,"Cryo section of one of the oldest leaves of a Rauwolfia tetraphylla. In the section there is both midrib and a vein.
+",
+Additional_Information,"Cryo section of one of the oldest leaves of a Rauwolfia tetraphylla.
+",
+Additional_Information,17-635-005,
+Additional_Information,17-635-004,
+Additional_Information,17-635-001,
+Condition,Null,
+Additional_Information,"8h of incubation_with PNGaseF
+
+",FALSE
+Additional_Information,17-635-002,
+Organism,marinobacter,FALSE
+Condition,interactions,
+Additional_Information,"marinobacter-3-2
+
+",FALSE
+Organism_Part,Semi mature barry,
+Additional_Information,"Cryo section of a semi mature Rauwolfia tetraphylla berry.
+",
+Organism_Part,Osteosarcoma,
+Additional_Information,control 3D,
+Condition,PAO1 Infected,
+Additional_Information,PAO1 Infected Replicate 1,
+Organism,Branchipolynoe seepensis,FALSE
+Sample_Growth_Conditions,sampled in situ,
+Sample_Stabilisation,CMC embedded in field,
+Condition,HemO QM Infected,
+Additional_Information,HemO QM Infected Replicate 1,FALSE
+Condition,HemO TM Infected,
+Additional_Information,HemO TM Infected Replicate 1,
+Condition,HemO Infected,
+Additional_Information,HemO Infected Replicate 1,
+Sample_Stabilisation,10 % Gelatine + 5 % CMC,
+Additional_Information,"Cryo section of a young Rauwolfia tetraphylla leaf.
+Sample stabilization was done with a mix of gelatine and CMC, which was solid at room temperature. Thus, it was applied luke warm to the sample and thn frozen.",
+Additional_Information,"
+
+",
+Organism_Part,n/a,
+Condition,n/a,
+Sample_Growth_Conditions,n/a,
+Additional_Information,"m/z 75-750, positive mode, whole slide 
+for some obscure reason, stage decided to do double offset in y (I certainly set it correctly). Image area was meant to be 50x25mm.",
+Additional_Information,"m/z 75-750, negative mode, whole slide ",
+Additional_Information,"Sample Description: xenograft, same tumour type as xenograft_1_90um
+Expected Molecules: small metabolites",
+Additional_Information,"Sample Description: xenograft, same tumour type as xenograft_1_90um and Xenograft_2_125um
+Expected Molecules: small metabolites",
+Additional_Information,"Sample Description: xenograft, same tumour type as CT-26 S20 and testrow002 (can you rename to xenograft CT26 S1?)
+Expected Molecules: small metabolites",
+Additional_Information,CRC_Tumor,
+Additional_Information,"Sample Description: CT26 tumours, Slide 20
+(set of different tumour levels)
+Expected Molecules: small metabolites",
+Additional_Information,"Sample Description: rat testis
+same animal as submitted during alpha testing
+Expected Molecules: small metabolites",
+Additional_Information,"Sample Description: xenograft
+Expected Molecules: small metabolites",
+Additional_Information,"Sample Description: CT26 tumours, Slide 1
+(set of different tumour levels)
+Expected Molecules: small metabolites",
+Condition,"Cancer, xenograft dosed",
+Additional_Information,"Image_reconstruction_with_ScilsLab_2016a_from_2_separate_MSI_acquisitions_(anterior_and_posterior_parts_of_the_rat)_on_a_Bruker_SolariX_FTICR
+Sample Description: Whole-body_male_Wistar_rat_section
+Sample Preparation: cryosectionning_on_LEICA_3600_XP,_thickness_20_µm,_collected_on_conductive_carbon_tape,_spray_coated_with_DHB_with_Suncollect",
+Tissue_Modification,Derivatization FMPTs,FALSE
+Additional_Information,"Pseudomonas RW10S2 vs 722
+
+MALDI5, 45 micron pixel size, 256x928 pixels, 3D mode on
+
+200-1400 m/z",FALSE
+Organism_Part,Epididymis,
+Additional_Information,200124_q10_q4_3,
+Additional_Information,200123_t3_t2_3,
+Additional_Information,low resolution lung scan,
+Additional_Information,high resolution lung scan,
+Organism,Staph aureus,FALSE
+Organism_Part,culture,FALSE
+Condition,monoculture,FALSE
+Organism,Pseudomonas aeruginosa,FALSE
+Organism_Part,Culture,FALSE
+Condition,PAO1 ,
+Additional_Information,200123_t5_t2_5,
+Additional_Information,200124_q9_q4_2,
+Sample_Stabilisation,Tape,
+Organism,Cyano+moss,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2018-09-03_IMS_P._putida_RW10S2_vs_P._savastanoi_722_#7,FALSE
+Condition,Drug treated Cancer and Cancer control ,
+Additional_Information,Hpv0509,
+Organism,Pseudomonas putida RW10S2 | Pseudomonas savastanoi 722,FALSE
+Sample_Growth_Conditions,Unknown,
+Additional_Information,"17-365-005
+
+",
+Organism_Part,Roots,FALSE
+Condition,Stressed,
+Sample_Growth_Conditions,"In vitro, on glass",
+Organism,Lumbricus rubellus,FALSE
+Organism_Part,whole organism,
+Organism,"S. coelicolor, S. griseus, S. lividans, S. roseolilacinus, P. putida, P. savastanoi, B. subtilis, R. erythropolis, R. opacus, S. mobraensis",FALSE
+Additional_Information,"S. griseus     //  B. subtilis
+P. savastanoi  //  S. coelicolor
+S. lividans    //  R. erythropolis
+R. opacus      //  S. roseolilacinus
+S. mobraensis  //  P. putida",FALSE
+Additional_Information,"18-312-2
+
+",
+Additional_Information,"18-31-2
+
+",
+Organism,"S. coelicolor, S. griseus, S. lividans, S. roseolilacinus, P. putida, P. savastanoi, B. subtilis",FALSE
+Additional_Information,"S. coelicolor, S. griseus, S. lividans, S. roseolilacinus, P. putida, P. savastanoi, B. subtilis",FALSE
+Organism,Streptomyces coelicolor,FALSE
+Analyzer,Synapt XS,
+Additional_Information,"Test run, two whole embryos in ROI. Mounted on double-adherent tape.",
+Additional_Information,D012-LUL_19A2. Embedded in CMC,
+Organism,S Pombe,FALSE
+Organism_Part,Whole Cells,FALSE
+MALDI_Matrix_Application,Manual,FALSE
+Organism,Streptomyces lividans,FALSE
+Additional_Information,"P. putida RW10S2
+P. savastanoi 722",FALSE
+Additional_Information,trail treated ,
+Organism,"Pseudomonas, bacillus, actinos",FALSE
+Additional_Information,"P. putida RW10S2
+P. savastanoi 722
+S. lividans
+S. griseus
+S. roseolilacinus
+R. erythropolis
+R. opacus
+S. coelicolor
+s. mobaraensis",FALSE
+Sample_Stabilisation,CMC (2 %),
+Additional_Information,Cryo section of a young Rauwolfia tetraphylla leaf.,
+Additional_Information,Cetuximab treated ,
+Additional_Information,"10um sections, 40um apart. Control.",
+Additional_Information,LCM and H2O,
+Organism,Pseudomonas and actinomycetes,FALSE
+Additional_Information,2019-11-16_DDN_50_328x666_Pseudomonas_Actino_#1,FALSE
+Organism_Part,Wddm,
+MALDI_Matrix,"1,8-bis(dimethylamino)naphthalene (DMAN)",FALSE
+Organism,Lipid standards,FALSE
+Organism,Pseudomonas putida,FALSE
+Additional_Information,"Sample Description: Bacterial interaction of P. putida and P. savastanoi.
+Sample Preparation: Samples were grown on TSB agar at 30C, excised and placed on a glass slide, and coated with universal matrix (Sigma) using a TM Sprayer spraying robot.",FALSE
+Condition,28 days,
+Organism,Bacteria,FALSE
+MALDI_Matrix_Application,Airbrush,
+Organism_Part,Artetry,
+Condition,treated with plant extract,
+Sample_Stabilisation,Pressed on Teflon,FALSE
+Condition,nude mouse,
+Organism,Hordeum vulgare,FALSE
+Organism,Rat Wistar - Male,
+Organism,Pseudomonas savastanoi,FALSE
+Additional_Information,Pseudomonas savastanoi 722,FALSE
+Sample_Growth_Conditions,Spotted standards,FALSE
+Additional_Information,"Membrane was spotted (See dataset 2019-09-19_DDN_DHB_TLC_spotter_test_#2_normal_membrane).  Membrane was then cleaned in water and isopropanol.  MALDI was performed to determine if lefterover lipid standards still remain.  
+
+From previous spotting -- Supplementary: From bottom going upwards Row 1: class: sterol // molecule: cholesterol Row 2: class: sphingolipid // molecule: sphingosine Row 3: class: acylglycerol // molecule: diglyceride Row 4: class: free fatty acid // molecule: heneicosanoic acid Row 5: empty Row 6: empty Rows 7-12: repeat of rows 1-6",
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2018-07-23_DDN_Pputida_vs_Psavastanoi_Pos_250x500_100x100_Univ001,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2018-07-04_DDN_Pputida_vs_Psavastanoi_Pos_250x500_100x100_Univ001,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2018-08-15_DDN_Pputida_vs_Psavastanoi_Pos_250x500_100x100_Univ001,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2018-08-22_IMS_P._putida_RW10S2_vs_P._savastanoi_722_#6,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2018-09-10_IMS_P._putida_RW10S2_vs_P._savastanoi_722_#9_okay,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2017-03-21_DDN_Pputida-vs-Psavastanoi_Pos_100x210_200x200_Univ001,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2017-04-18_DDN_Pputida_vs_Psavastanoi_Phenotype_1_Pos_200x500_100x100_Univ001,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2019-02-08_DDN_RW10S2_722_#13,FALSE
+Additional_Information,D:\Alexandrov_Team\Projects\5_Pputida_vs_Psavastanoi_IMS\2019-02-21_DDN_RW10S2_722_#14,FALSE
+MALDI_Matrix_Application,Giessen Sprayer,
+Additional_Information,D:\Alexandrov_Team\Projects\15_Giessen_visit,FALSE
+Additional_Information,"Row 1: Class: Sterol // Molecule: Cholesterol
+Row 2: Class: Sphingolipid // Molecule: Sphingosine
+Row 3: Class: Acylglycerol // Molecule: Diglyceride 
+Row 4: Class: Free fatty acid // Molecule: Heneicosanoic acid
+Row 5: Empty
+Row 6: Empty
+Rows 7-12: repeat of rows 1-6",
+Additional_Information,AP-SMALDI10,
+Sample_Stabilisation,Dehydrated,FALSE
+Additional_Information,"5.0 pixel/s; QExactive HF; AP-SMALDI10
+Sample Preparation: AP-SMALDI5 AF ",
+MALDI_Matrix_Application,Spraying,
+Additional_Information,"
+ Auto recal {'polarity': 'Positive', 'organ': 'Brain', 'source': 'MALDI', 'database': 'HMDB-v2.5'}
+Publication DOI: http://pubs.rsc.org/en/content/articlelanding/2017/cc/c7cc02325a#!divAbstract",
+Additional_Information,not embedded in CMC,
+Sample_Stabilisation,Pressed on slide,
+Organism_Part,Extract,FALSE
+Organism,Corn,FALSE
+Condition,B73,
+Tissue_Modification,AFL,
+Additional_Information,A methanolic extract,FALSE
+Additional_Information,"pilot sample 18-142-2
+
+",
+Sample_Growth_Conditions,1 day old,
+Additional_Information,"Sample Description: 1 day old mouse pup
+Sample Preparation: 25 micron thick sagittal section analyzed at 150 micron spatial resolution ",
+Additional_Information,"100 X 100 um spatial resolution 
+Sample Description: Mouse brain dosed with erlotinib
+Sample Preparation: 10 um thick section 
+Expected Molecules: erlotinib|doxorubicin|duanorubicin",
+Organism,Bacterial Isolate,FALSE
+Sample_Stabilisation,Embedded in CMC,
+Additional_Information,Slides have been desalted after drying by dipping in cold MQ Water.,
+Organism,Bathymodiolus heckerae,FALSE
+Condition,wounded_middle,
+Condition,wounded,
+Additional_Information,18-142-2,
+Organism,Mytilus edulis,FALSE
+Organism_Part,Muscle,
+Condition,Wildtype - Injured,
+Sample_Growth_Conditions,Caught,
+Organism,Berry,FALSE
+MALDI_Matrix,THAP,FALSE
+Organism_Part,Berry,FALSE
+Condition,biopsy_18-142-2,
+Additional_Information,"18-142-2
+testing optimal RSM conditions: 0.010ml/min, 1300mm/min, T=80C, 23 cycles, 46% MeOH. ",
+Additional_Information,KPMP,
+Organism,Methyloprofundus sedimenti WF1 and Vibrio fischeri,FALSE
+Organism_Part,Cell Pellet,FALSE
+Sample_Growth_Conditions,Methane / Methanol,
+Additional_Information,"Top row: WF1 Methane, WF1 MeOH, Chitobiose standard
+Middle row: WF1 Methane, WF1 MeOH, Chitobiose standard
+Bottom row: Vibrio fischeri ",
+Organism_Part,Foot,
+Organism,Fenugreek,FALSE
+Sample_Stabilisation,CMC on-board,
+Additional_Information,UTHSA,
+Organism,Paper,FALSE
+Sample_Growth_Conditions,treated,
+Additional_Information,Without CMC embedding,
+Additional_Information,pilot sample 18-162-2,
+Additional_Information,pilot sample 18-142-2,
+Condition,control and infected,
+Additional_Information,II biological replicate_IImeasurement,
+Organism,Shipworm,FALSE
+Organism,Clematis vitalba,FALSE
+Organism,Corylus avellana,FALSE
+Organism,Theobroma cacao,FALSE
+Sample_Growth_Conditions,fermentation,
+Additional_Information,Various metabolites dissolved in H2O. 1 ul of different concentrations spotted.,FALSE
+MALDI_Matrix,"1,5-diaminonaphthalene (DAN) | DHB",FALSE
+Additional_Information,"18-162-2
+testing temeperature influence: 80C
+",
+Additional_Information,"18-162-2
+testing temeperature influence: 30C
+",
+Additional_Information,KPMP ,
+Additional_Information,II biological replicate,
+Organism,Wheat,FALSE
+Condition,Stroke (top) and Healthy (bottom),
+Sample_Stabilisation,Flash-frozen,
+Additional_Information,"1 laser shot (1.3 mJ per pulse)
+1.5 uL/min flow rat
+0.2% formic acid as solvent
+spot-to-spot spacing is 150 um for x and y ",
+Sample_Stabilisation,PVDF membrane,FALSE
+Sample_Growth_Conditions,treated with ebastine for 21 days,
+Additional_Information,"Polarity 		Negative
+Lock mass		609.14603
+Ressolution 		Ultrahigh
+Microscans 		1
+Injec time 		250ms
+AGC target 		High dynamic range 
+Pixel size		0.15mm
+
+Spray Volatge 		5kV
+Capillary temp		250C
+Capillary voltage	-45V
+Tube lens voltage	-185V
+Skimmer voltage 	-46
+
+Distance of sprayer to sample 			1.5mm	
+Distance of sprayer to MS inlet capillary	13mm
+Angel of sprayer 				95 deg
+
+Solvent flow 		5 microL\min
+Solvent MeOH\H2O+Rutin 	90\10+100ng\mL",
+Condition,Stroke,
+Additional_Information,"1 laser shot (1.3 mJ per pulse)
+1.5 uL/min flow rat
+0.2% formic acid as solvent
+spot-to-spot spacing is 150 um fro x and y ",
+Condition,Cancer control ,
+Additional_Information,KPMP biopsy,
+Additional_Information,KPMP pilot sample (UTHSCSA),
+Additional_Information,KPMP(UTHSA Internal mice Kidney),
+Additional_Information,KPMP (UTHSA Internal mice Kidney),
+Additional_Information,18-142,
+Additional_Information,"MeOH H2O 90 10 1.5 microL min 250ms ultrahigh 12mm 2mm
+",
+Organism,Paracatenula,FALSE
+Additional_Information,"Paracatenula 1 min in MeOH, embedded in CMC",
+Additional_Information,KPMP_17-635-002 (UTHSA Internal Human Kidney Biopsy),
+Sample_Growth_Conditions,Acetamiprid 10ng/HB,
+MALDI_Matrix,DIOS,FALSE
+Additional_Information,"Tissue was cut to the mid-saggital plane, where 8um thick tissue sections were collected using a modified Kawamoto's film method (2003). Frozen sections were mounted onto n-type electrohcemically etched and silanized porous silicon wafers. Tissue was imaged directly post dessication, using a manually adjusted laser power to directly ablate through the 8um thick tissue. Spectra were acquired at a spatial resolution of 50um. ",
+Additional_Information,Mimetic Tissue,FALSE
+Organism,Dog,FALSE
+Additional_Information,"MeOH H2O 90 10 1.5 microL min 50ms High 12mm 2mm
+Row 01-16: 1kV
+Row 17-31: 2kV
+Row 32-46: 3kV
+Row 47-61: 4kV
+Row 62-76: 5kV",
+Additional_Information,Kan man se det her,
+Additional_Information,MeOH H2O 90 10 1.5 microL min 250ms UltraHigh 12mm 2mm,
+Additional_Information,MeOH/H2O 90/10 2.5µL/min 12mm & 2mm,
+Additional_Information, MeOH H2O 90 10 1.5 microL min 50ms High 12mm 2mm,
+Additional_Information,MeOH H2O 90 10 1.5 microL min 100ms UltraHigh 12mm 2mm,
+Condition,Cancer treated with ebastine 21 days,
+Additional_Information,MeOH H2O 90 10 1.5 microL min 250ms UltraHigh 12mm 2mm ,
+Additional_Information,MeOH H2O 90 10 1.5 microL min 250ms UltraHigh ??mm 2mm,
+Organism,Macropus giganteus (kangaroo),FALSE
+Additional_Information,"20190325_VS_ABC_direction_test_px100x100_xy_25x30_mz_200-600_pos
+test",FALSE
+Organism,Porcine,FALSE
+MALDI_Matrix_Application,Spotting,FALSE
+Additional_Information,"20190321_VS_metabolite_std_test_1_DHB_px150x150_xy100x120_mz50x300_pos
+Testing metabolite detection by DHB in pos mode
+Expt1
+
+Acetylcholine,  L-Ornithine,  L-Glutamate;
+Amino Acid Mix (undiluted),  L-Aspartate,  L-Alanine;
+Amino Acid Mix (1:10 dilution), L-Arginine, D-Glucose-6-Phosphate;
+-,  Uridine,  Isocitric Acid
+
+AA mix: https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma-Aldrich/Datasheet/1/a9906dat.pdf",FALSE
+Organism,Anopheles stephensii ,FALSE
+Condition,"infected, Plasmodium berghei ",
+Sample_Stabilisation,SCEM,FALSE
+MALDI_Matrix,"1,8-Bis-(l-pyrrolidinyl)naphthalene",FALSE
+Condition,18142,
+Sample_Growth_Conditions,biopsy,
+Additional_Information,18-142-2 pilot sample,
+Condition,18162,
+Additional_Information,18-162-2 pilot sample,
+Additional_Information,KPMP 17-1606,
+Organism,dipartite (Bacterium and algae),FALSE
+Additional_Information,18-162-2.,
+Condition,environmental,
+Organism,Olavius algarvensis,FALSE
+Organism_Part,Cross section,
+Additional_Information,KPMP 18-142,
+Additional_Information,internal_Yale sample,
+Organism_Part,tongue,
+Condition,test,
+Sample_Growth_Conditions,Farmed,
+Additional_Information,Foot tissue of blue mussel 10 µm cryosection. Weight of animal 16.35 g. ,FALSE
+Sample_Growth_Conditions,With inoculated fungi,
+Additional_Information,Muscle tissue of blue mussel 10 µm cryosection. Weight of animal 16.35 g. ,FALSE
+Additional_Information,Gill tissue of blue mussel 10 µm cryosection. Weight of animal 16.35 g. ,FALSE
+Organism_Part,Mantle,
+Additional_Information,Mantle tissue of blue mussel 10 µm cryosection. Weight of animal 16.35 g. ,FALSE
+Organism,Pinus teada,FALSE
+Organism,Crassostrea gigas  ,FALSE
+Additional_Information,Muscle tissue of oyster 10 µm cryosection. Weight of animal 127.06 g. ,FALSE
+Additional_Information,Gill tissue of oyster 10 µm cryosection. Weight of animal 127.06 g. ,FALSE
+Additional_Information,Mantle tissue of oyster 10 µm cryosection. Weight of animal 127.06 g. ,FALSE
+Organism,Pinus sp,FALSE
+Additional_Information,"This is sample from Yale
+
+",
+Sample_Growth_Conditions,microfluidic channel,FALSE
+Organism,Black bream,FALSE
+Additional_Information,Modified Kawamoto Tape Transfer method,
+Organism_Part,Soft tissue with endometriosis,
+Condition,Endometriosis,
+Organism_Part,Ovary with endometriosis,
+Organism_Part,Fallopian tube with endometriosis,
+Additional_Information,"18-142-2 for RSM
+T=55C
+Fr=0.105 ml/min
+SV=950 mm/min
+15 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=55C
+Fr=0.105 ml/min
+SV=600 mm/min
+15 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=55C
+Fr=0.105 ml/min
+SV=1300 mm/min
+15 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=55C
+Fr=0.01 ml/min
+SV=950 mm/min
+15 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=55C
+Fr=0.2 ml/min
+SV=950 mm/min
+15 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=30C
+Fr=0.105 ml/min
+SV=950 mm/min
+15 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=80C
+Fr=0.105 ml/min
+SV=950 mm/min
+15 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=42.5C
+Fr=0.152 ml/min
+SV=775 mm/min
+8 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=42.5C
+Fr=0.152 ml/min
+SV=1125 mm/min
+22 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=42.5C
+Fr=0.057 ml/min
+SV=775 mm/min
+22 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=42.5C
+Fr=0.057 ml/min
+SV=1125 mm/min
+8 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=55 C
+Fr=0.105 ml/min
+SV=950 mm/min
+15 cycles
+
+",
+Organism,Salix alba,FALSE
+Condition,polluted,
+Sample_Growth_Conditions,polluted,
+Additional_Information,"18-142-2 for RSM
+T=55 C
+Fr=0.105 ml/min
+SV=950 mm/min
+1 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=55 C
+Fr=0.105 ml/min
+SV=950 mm/min
+29 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=67.5C
+Fr=0.057ml/min
+SV=775 mm/min
+8 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=67.5C
+Fr=0.057ml/min
+SV=1125 mm/min
+22 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=67.5C
+Fr=0.152ml/min
+SV=1125 mm/min
+8 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=42.5C
+Fr=0.057ml/min
+SV=775 mm/min
+8 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=42.5C
+Fr=0.057ml/min
+SV=1125 mm/min
+22 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=42.5C
+Fr=0.152ml/min
+SV=775 mm/min
+22 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=42.5C
+Fr=0.152ml/min
+SV=1125 mm/min
+8 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=67.5C
+Fr=0.057ml/min
+SV=775 mm/min
+22 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=67.5C
+Fr=0.057ml/min
+SV=1125 mm/min
+8 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=67.5C
+Fr=0.152ml/min
+SV=775 mm/min
+8 cycles
+
+",
+Additional_Information,"18-142-2 for RSM
+T=67.5C
+Fr=0.152ml/min
+SV=1125 mm/min
+22 cycles
+
+",
+Additional_Information,100um spatial resolution,
+Sample_Growth_Conditions,In soil,FALSE
+Organism,Soil microorganisms,FALSE
+Sample_Growth_Conditions,soilbox,FALSE
+Organism_Part,Carotid,
+Condition,Control_Day14_03,
+Condition,Control_Day14_02,
+Condition,Control_Day14_01,
+Condition,Control_Day07_03,
+Condition,Control_Day07_02,
+Condition,Control_Day07_01,
+Condition,Control_Day03_03,
+Condition,Control_Day03_02,
+Condition,Control_Day03_01,
+Condition,Injured_Day14_03,
+Condition,Injured_Day14_02,
+Condition,Injured_Day14_01,
+Condition,Injured_Day07_03,
+Condition,Injured_Day07_02,
+Condition,Injured_Day07_01,
+Condition,Injured_Day03_03,
+Condition,Injured_Day03_02,
+Condition,Injured_Day03_01,
+Organism,aspen wood,FALSE
+Organism_Part,wafer,FALSE
+Additional_Information,KPMP 18-312,
+Additional_Information,KPMP 18-162,
+Additional_Information,"pilot sample 18-342-2
+
+",
+Additional_Information,"pilot sample 18-312-2
+
+",
+Additional_Information,"pilot sample 18-142-2
+CASI
+",
+Additional_Information,"pilot sample 18-342-2
+",
+Additional_Information,"pilot sample 18-312-2
+",
+Additional_Information,"pilot sample 18-162-2
+CASI mode",
+Additional_Information,"pilot sample 18-142-2
+CASI mode",
+Additional_Information,"pilot sample 18-142-2
+CASI was used here",
+Additional_Information,"pilot sample 18-162-2
+CASI was used here",
+Sample_Growth_Conditions,Ambient,
+Additional_Information,WashingtonU Sample K572,
+Condition,none,
+Additional_Information,WashingtonU Sample K512,
+Additional_Information,WashingtonU Sample K315,
+Organism,Euprymna sp.,FALSE
+Organism,pig (KVL),FALSE
+Additional_Information,No external calibration,
+Additional_Information,Raw data was externally calibrated,
+Additional_Information,No external calibration done to the raw data,
+Additional_Information,"pilot sample:18-162-2
+sample was no thaw mounted on ITO slide.",
+Organism,Candida albicans | Pseudomonas aeruginosa,FALSE
+Organism,LYD pig,FALSE
+Condition,scraped from fungus,FALSE
+Additional_Information,200um spatial_resolution,
+Sample_Stabilisation,fresh-frozen,
+Additional_Information,"50um spatial_resolution
+Sample Description: 18-162-2",
+Additional_Information,"75um spatial_resolution
+Sample Description: 18-162-2",
+Organism,Undisclosed,FALSE
+Condition,Wildtipe,
+Sample_Stabilisation,Isopentane,
+Sample_Stabilisation,N2,
+Sample_Stabilisation,LiquidN2,
+Organism_Part,Blood vessel,
+Additional_Information,AP-SMALDI 10,
+Additional_Information,QExactive HF,
+Condition,Lean/treated,
+Sample_Stabilisation,Native,
+Tissue_Modification,Native,
+MALDI_Matrix_Application,spraying with 100% Ethanol,
+Additional_Information,"Sample Preparation: , AP-SMALDI10",
+Organism,Sus scrofa (mini pig),FALSE
+Sample_Growth_Conditions,See study plan,
+Additional_Information,"QExactive HF; AP-SMALDI10
+Sample Preparation: AP-SMALDI10",
+Condition,Obese,
+MALDI_Matrix_Application,spraying with 100% ACN,
+Additional_Information,"Sample Description: Q-E Plus
+Sample Preparation: AP-SMALDI10",
+Organism,Pseudonocardia bacteria,FALSE
+Additional_Information,Sample Preparation: LTQ Orbitrap,
+Condition,In vitro,
+MALDI_Matrix_Application,-,
+Sample_Growth_Conditions,Test rhodamine,FALSE
+Organism_Part,Retina,
+Condition,biopsy_18-139-2,
+Additional_Information,"75um spatial_resolution
+Sample Description: 18-139-2",
+Additional_Information,"50um spatial_resolution
+Sample Description: 18-139-2",
+Organism_Part,Necrosis,
+Organism_Part,Abdomen,
+Additional_Information,Sample Description: Testing iMZML conversion of NanoDESI data ,
+Additional_Information,"Spatial Resolution 50 um
+Sample Description: KPMP Kidney Pilot Study",
+Condition,scarped,
+Additional_Information,"50 um spatial resolution
+Sample Description: 18-162-2",
+Additional_Information,"75 um spatial resolution
+Sample Description: 18-162-2",
+Organism,pig,FALSE
+Additional_Information,"35 um spatial resolution
+Sample Description: 18-162-2",
+Organism_Part,Amoeba,FALSE
+Tissue_Modification,Homogenization,FALSE
+Sample_Stabilisation,NC membrane,FALSE
+Condition,18-162-2,
+Additional_Information,"50um spatial resolution
+Sample Description: biopsy 18-162-2",
+Additional_Information,"Spatial Resolution 30 um
+Sample Description: KPMP Kidney Pilot Study",
+Additional_Information,"Spatial Resolution 20 um
+Sample Description: KPMP Kidney Pilot Study",
+Additional_Information,Sample Description: KPMP Kidney Pilot Study,
+Condition,17-1606-2,
+Additional_Information,"25um spatial resolution
+Sample Description: 17-1606-2",
+Additional_Information,"75um
+Sample Description: 17-1606-2",
+Condition,18-139-2,
+Additional_Information,"50um spatial resolution
+Sample Description: biopsy 18-139-2",
+Condition,18-142-2,
+Additional_Information,"50um spatial resolution
+Sample Description: biopsy 18-142-2",
+Organism,Pinus,FALSE
+Additional_Information,Alan Race generated imzml files,
+Sample_Growth_Conditions,No phosphorus,
+Additional_Information,Sample Description: 18-139-2,
+Sample_Growth_Conditions,"in vitro, on glass",
+Organism,bacteria,FALSE
+MALDI_Matrix,norhramne,
+Additional_Information,"Sample Description: 50uM treated spheroid group,PI stained",
+Additional_Information,Sample Description: KPMP Kidney,
+Additional_Information,Sample Description: 50uM treated spheroid group,
+Additional_Information,Sample Description: 100uM treated spheroid group,
+Additional_Information,Sample Description: untreated spheroid group,
+Tissue_Modification,Glutaraldehyde,
+Organism,Setaria,FALSE
+Organism,Ciliate,FALSE
+Sample_Stabilisation,Methanol,
+MALDI_Matrix_Application,TmSprayer,
+Condition,TCEA positive,
+Tissue_Modification,"Substrate covered, Protease Inhibitor Mixture covered",FALSE
+Additional_Information,"Sample Description: mouse stomach, developing stomach cancer
+Sample Preparation: Samples were prepared for endogenous activity analysis by applying tracer peptide and incubate at 37°C, 95% humidity for 30 min. This sample was additionally covered with protease inhibitor mixture
+Expected Molecules: Substance p",
+Tissue_Modification,Substrate covered,FALSE
+Additional_Information,"Sample Description: mouse stomach, developing stomach cancer
+Sample Preparation: Samples were prepared for endogenous activity analysis by applying tracer peptide and incubate at 37°C, 95% humidity for 30 min. This sample was not covered with an inhibitor
+Expected Molecules: Substance p",
+Tissue_Modification,"Substrate covered, Protease Inhibitor Mix covered",FALSE
+Additional_Information,"Sample Description: wild-type mouse stomach
+Sample Preparation: Samples were prepared for endogenous activity analysis by applying tracer peptide and incubate at 37°C, 95% humidity for 30 min. This sample was additionally covered with an protease inhibitor mixture
+Expected Molecules: Substance p",
+Additional_Information,"Sample Description: wild-type mouse stomach
+Sample Preparation: Samples were prepared for endogenous activity analysis by applying tracer peptide and incubate at 37°C, 95% humidity for 30 min. This sample was not covered with an inhibitor
+Expected Molecules: Substance p",
+Organism_Part,Dorsal root ganglion,FALSE
+Organism,Schistosoma mansoni,FALSE
+Sample_Growth_Conditions,Bisexual infection,
+Additional_Information,Sample Preparation: Surface measurement,
+Additional_Information,Sample Preparation: Homogenate,FALSE
+MALDI_Matrix,,
+MALDI_Matrix_Application,,
+Additional_Information,Sample Description: KPMP CMC Protocol,
+Organism,Intestinal lipids,FALSE
+Organism,"Tripartite:bacteria, fungus, plant",FALSE
+Sample_Growth_Conditions,different N2 concentration,
+Sample_Growth_Conditions,nitrogen10mL,
+Sample_Growth_Conditions,nitrogen5mL,
+Organism,Canis familiaris,FALSE
+Organism,Human (2),
+Organism_Part,tissue homogenate,FALSE
+Organism_Part,Whole_Organism,
+Organism,A. mollis,FALSE
+Organism,Alaskan Plant,FALSE
+Additional_Information,Sample Description: Root tissue. Nuemann User proposal ,
+Additional_Information,Sample Description: KPMP FFPE,
+Organism,Microbial,FALSE
+Tissue_Modification,Nonea,
+MALDI_Matrix_Application,HDA,
+Additional_Information,Publication DOI: N/A,
+Tissue_Modification,Freeze dried,
+Additional_Information,Sample Description: Just a test,
+MALDI_Matrix,trans-2-[3-(4-tert-Butylphenyl)-2-methyl-2-propenylidene] malononitrile (DCTB),FALSE
+Organism,Asclepias curassavica,FALSE
+Organism,Hela,FALSE
+Sample_Growth_Conditions,Cell monolayer,FALSE
+MALDI_Matrix,"1,5-diaminonaphthalene (DAN), DHB",FALSE
+Additional_Information,"Sample Description: Testing automatic acquisition with an offset
+Four combinations of matrix-solvent compared on same cells
+Sample Preparation: multiple matrices: DHB, DAN
+multiple solvents: 70% ACN, 70% MeOH",
+Additional_Information,"AP-SMALDI5 AF
+Sample Preparation: Tissue section (micro embedding)",
+Organism_Part,Cervix | Muscle,
+Condition,Coculture Human HELA with Mouse NIH3T3,FALSE
+Condition,Mouse NIH3T3,FALSE
+Condition,Human HeLa,FALSE
+Organism,Greek plant,FALSE
+MALDI_Matrix,DHP,FALSE
+Organism,Test,FALSE
+Additional_Information,"test
+Sample Description: testing multiwell acquisition, with an offset
+Sample Preparation: multiple matrices: DHB, DAN, 9AA, NEDC,
+contaminated throughout with proton sponge, I think
+Expected Molecules: test",
+Organism,Cyano+moss+fungus,FALSE
+Sample_Stabilisation,Dried,
+Additional_Information,"created multi image in SCiLS. 
+Sample Description: Cyano + Moss + Fungus under three different nitrogen media conditions Day 7",
+Additional_Information,"test
+Sample Description: test of imaging artifact
+Sample Preparation: test
+Expected Molecules: test",
+Additional_Information,"created multi image in METASPACE. resubmitted
+Sample Description: Cyano + Moss under three different nitrogen media conditions Day 7",
+Additional_Information,"test
+
+Sample Description: testing multiwell acquisition, with an offset
+
+Sample Preparation: multiple matrices: DHB, DAN, 9AA, NEDC,
+
+contaminated throughout with proton sponge, I think
+Expected Molecules: test
+",
+Additional_Information,"test
+Sample Description: testing multiwell acquisition
+Sample Preparation: multiple matrices: DHB, DAN, 9AA, NEDC,
+contaminated throughout with proton sponge, I think
+Expected Molecules: test",
+Organism_Part,External tissues,
+Condition,Waste water,
+Sample_Growth_Conditions,Soil,FALSE
+Organism_Part,Vascular tissues,
+Additional_Information,Sample Description: Cyano + Moss under three different nitrogen media conditions Day 7,
+Sample_Growth_Conditions,Soilbox,FALSE
+Additional_Information,Sample Description: FUCCI : mAG-Geminin(1-110)  and mKO2-Cdt1(30-120),
+MALDI_Matrix_Application,Spotted,FALSE
+Condition,Died,
+MALDI_Matrix_Application,sprayed,
+Additional_Information,Sample Description: Mouse Brain 2nd series,
+Tissue_Modification,Extract,FALSE
+MALDI_Matrix,"1,8,9-anthracenetriol (Dithranol)",FALSE
+Sample_Growth_Conditions,Ad lib,
+Organism_Part,PSM,
+Condition,High-grade serous tumor,
+Additional_Information,Publication DOI: doi: 10.1158/0008-5472.CAN-16-1545,
+Organism,Earthworm,FALSE
+Additional_Information,Sample Description: Rat Kidney with sublimated DHB matrix,
+Tissue_Modification,HHQ spotted molecule 100 attomol/µl,FALSE
+Additional_Information,"Sample Description: Mouse Brain with spotted HHQ molecule
+Sample Preparation: 100 attomol/µl HHQ molecule spotted (0.5µl)
+Expected Molecules: HHQ molecule (m/z [M+H+] = 244,169591) ",
+Organism,Lucilia sericata,FALSE
+Sample_Growth_Conditions,Not grown,
+Additional_Information,Sample Description: Penmark,FALSE
+Organism,Candida albicans | Escherichia coli,FALSE
+Tissue_Modification,Ammonium Acetate wash,
+Additional_Information,"Sample Description: Mouse Brain 2nd series
+Sample Preparation: Wash condition n°2 : ammonium acetate pH = 6.7",
+Additional_Information,"Sample Description: Mouse Brain 2nd series
+Sample Preparation: Wash condition n°1 : ammonium formate pH = 6.4",
+Organism,Candida albicans,FALSE
+Tissue_Modification,HHQ spotted molecule 1 picomol/µl,FALSE
+Additional_Information,"Sample Description: Mouse Brain with spotted HHQ molecule
+Sample Preparation: 1 picomol/µl HHQ molecule spotted (0.5µl)
+Expected Molecules: HHQ molecule (m/z [M+H+] = 244,169591) ",
+Tissue_Modification,HHQ spotted molecule 10picomol/µl,FALSE
+Additional_Information,"Sample Description: Mouse Brain with spotted HHQ molecule
+Sample Preparation: 10 picomol/µl HHQ molecule spotted (0.5µl)
+Expected Molecules: HHQ molecule (m/z [M+H+] = 244,169591) ",
+Organism_Part,Somite,
+Tissue_Modification,HHQ spotted molecule 10 femtomol/µl,FALSE
+Additional_Information,"Sample Description: Mouse Brain with spotted HHQ molecule
+Sample Preparation: 10 femtomol/µl HHQ molecule spotted (0.5µl)
+Expected Molecules: HHQ molecule (m/z [M+H+] = 244,169591) ",
+Condition,"Cancer, serous tumor, borderline",
+Additional_Information,Sample Description: Epididymis project of Karolina Modzelewska,
+Additional_Information,Sample Description: HepaRG + LPS 16hrs Non stained,
+Condition,"Cancer, primary",
+Condition,AD,
+Additional_Information,Sample Description: 100 x 100 um pixel size,
+Sample_Growth_Conditions,Culture 3D,
+Organism,Non-human primate,FALSE
+Additional_Information,"Sample Description: Jejunum
+Sample Preparation: Jejunum opened and rolled to increase analysis length, embedded in CMC and sectioned at 10 um.
+Expected Molecules: Lipids and metabolites
+Publication DOI: Not yet",
+Organism,Sponge,FALSE
+Organism_Part,Solid tumor,
+Additional_Information,"Sample Description: Solid tumor from LCC6 cell line orthotopically implanted
+Sample Preparation: 10 um thick section ",
+Organism_Part,Buccal mucosa,
+Sample_Growth_Conditions,Wild,
+Additional_Information,"Sample Description: Spleen from mouse model with LCC6 cell line orthotopically implanted
+Sample Preparation: 10 um thick section ",
+Additional_Information,"Sample Description: Liver from mouse model with LCC6 cell line orthotopically implanted
+Sample Preparation: 10 um thick section ",
+Additional_Information,"Sample Description: dried_droplet, standards",FALSE
+Additional_Information,"Sample Description: dried_droplet, standards
+Expected Molecules: https://docs.google.com/spreadsheets/d/18SH1VkvNPvrWoZMR7P6cJ0cbqa1piDUxI9zUO5SeqD8/edit#gid=1035583681",FALSE
+Organism,Escherichia coli,FALSE
+Additional_Information,"Sample Preparation: 10mg DMAN dissolved in 200ul MeOH, dried in sublimation chanmber and applied on sample",
+Organism,Coleus,FALSE
+Organism_Part,Jejunum,
+Additional_Information,Sample Description: Ovarian tissue,
+Organism_Part,Mammary gland,
+Sample_Growth_Conditions,Dosed,
+Organism_Part,Tail,
+Condition,Reaggregates,
+Organism,Cavia porcellus (guinea pig),FALSE
+Organism_Part,Gastrocnemius,
+Organism,Penmark,FALSE
+Additional_Information,"Sample Description: Ovarian tissues were obtained from age-matched healthy and
+cancerous C-strain white leghorn commercial egg laying hens. Birds were managed in accordance with the Institute for Laboratory Animal Research Guide, and all husbandry practices were approved by North Carolina State University Institutional Animal Care and Use Committee (IACUC). 
+Sample Preparation: Tissues were flash frozen in isopentane chilled in a liquid nitrogen bath, and stored at −80 °C until the time of the experiment. The tissues were sectioned into 10 μm-thick sections at −20 °C using a Leica CM1950 cryostat (Buffalo Grove, IL, USA). The tissue sections were thaw mounted onto pre-cleaned glass microscope slides, and were analyzed right away.
+Publication DOI: 10.1039/c5an01513h",
+Organism,Macaca mulatta,FALSE
+Additional_Information,"Sample Description: One healthy male rhesus macaque (Macaca mulatta) was given
+7 daily oral doses of 200 mg of efavirenz (EFV). This dose of EFV equates to roughly 60 mg/kg and is consistent with standard treatment doses for SIV. The animal was euthanized by pentobarbital overdose 24 h after the final dose of EFV, and necropsy was performed by the pathology staff at the California National Primate Research Center.
+Sample Preparation: Tissue samples were snap-frozen on dry ice and stored at 80°C until analysis. Ten micron sections of each tissue (dosed
+and nondosed) were sliced and thaw mounted on a single glass
+microscope slide uniformly coated with internal standards.  
+Publication DOI: 10.1128/AAC.04952-14",
+Additional_Information,"Imaging conducted at 10 pixels per second (MS scan time 0.086s- interscan time 0.014s). Pixel dimensions 100 micron x 100 micron, therefore stage x-speed 1mm/s. 
+Total acquisition time ~30 minutes
+Publication DOI: Not yet",
+Additional_Information,"Sample Preparation: 20mg DMAN dissolved in 200ul MeOH, dried in sublimation chanmber and applied on sample, 30att, no 10% filter
+
+PFA 2% 5min",
+Additional_Information,"Sample Preparation: 20mg DMAN dissolved in 200ul MeOH, dried in sublimation chanmber and applied on sample, 25att, no 10% filter
+
+PFA 2% 5min",
+Additional_Information,"Sample Description: HepaRG + LPS 16hrs Stained
+Sample Preparation: Spray robot: DHB
+- flow: 0.05mg/ml
+- conc: 10mg/ml
+- passages: 20
+- matrix density: 0.00417 mg/mm2",FALSE
+Additional_Information,"Sample Description: Human cervical tissues were obtained from the University of North Carolina Tissue Procurement Facility through UNC IRB #09-0921. 
+
+Sample Preparation: The tissues were prepared and incubated in FTC, TFV, and RAL at a concentration of 100 μg/mL as previously described [49].Tissues were cryosectioned using a Leica CM1950 cryomicrotome (Buffalo Grove, IL, USA) to a thickness of 10 μm.
+Publication DOI: 10.1007/s00216-014-8220-y",
+Tissue_Modification,Paraformaldehyde,
+Additional_Information,"dede
+Sample Description: degt
+Sample Preparation: frefqre
+Expected Molecules: fwer",
+Sample_Stabilisation,Dehydration,
+Sample_Stabilisation,Fresh_Frozen,
+MALDI_Matrix,4-Phenyl-alpha-cyanocinnamic acid amide,FALSE
+Condition,Diabetic,
+Additional_Information,"NA
+Sample Description: NA
+Sample Preparation: NA
+Expected Molecules: NA
+Publication DOI: NA",
+Additional_Information,"Colorectal adenoma
+From the paper Oetjen et al. (2015) GigaScience, doi:10.1186/s13742-015-0059-4
+Data from http://www.ebi.ac.uk/metabolights/MTBLS176",
+Condition,NASH,
+Sample_Stabilisation,Flat,
+Organism_Part,GEMM Tumor,
+Condition,Dosed vs. vehicle,
+Additional_Information,"NA
+Sample Description: NA
+Sample Preparation: NA
+Expected Molecules: Tryptophan Metabolism Pathway
+Publication DOI: NA",
+Additional_Information,AP-SMALDI10 Q-E Plus,
+Condition,Lean,
+MALDI_Matrix_Application,spraying with 100% EtOH,
+Additional_Information,"NA
+Sample Preparation: NA
+Expected Molecules: tryptophan pathway
+Publication DOI: NA",
+Condition,Bacteria,FALSE
+Sample_Growth_Conditions,Pot,
+Condition,Fungi,FALSE
+Additional_Information,"Sample Description: Breast tissue
+Sample Preparation: See MetaboLights repository MTBLS273
+Publication DOI: 10.1158/0008-5472.can-14-2258",
+Additional_Information,"Sample Preparation: See MetaboLights repository MTBLS289
+Publication DOI: 10.1007/s00216-012-5841-x",
+Additional_Information,Publication DOI: http://dx.doi.org/10.1039/C3CC48927B,
+Additional_Information,"Sample Description: Breast_tissue
+Sample Preparation: See_MetaboLights_repository_MTBLS273
+Publication DOI: http://www.ebi.ac.uk/metabolights/MTBLS273",
+Tissue_Modification,PBS,
+Organism,Acromyrmex echinatior,FALSE
+Organism_Part,Thorax exoskeleton,
+Organism,Acromyrmex octospinosus,FALSE
+Condition,"Infected, Escovopsis - no Pseudonocardia bacteria",
+Condition,"Infected, Trichoderma",
+Tissue_Modification,Sch,
+Additional_Information,Sample Description: 100um x 100um,
+Organism,Apple,FALSE
+Additional_Information,"Sample Preparation: , QExactive+",
+Organism,Control,FALSE
+Organism_Part,Control,FALSE
+Additional_Information,"Sample Description: tape
+Sample Preparation: AP-SMALDI10",
+Condition,Healthy and Diabetic,
+MALDI_Matrix_Application,tm sprayer,
+Additional_Information,synapt,
+Organism_Part,EMT6 Tumors,
+Additional_Information,Sample Preparation: AP-SMALDI5 AF ,
+Organism,Barley,FALSE
+Additional_Information,"Expected Molecules: [[""PC(13:0/13:0)"", """", ""C34H68NO8P""],  [""PE(12:0/12:0)"", """", ""C29H58NO8P""],  [""PG(12:0/12:0)"", """", ""C30H59O10P""],  [""PS(12:0/12:0)"", """", ""C30H58NO10P""],  [""PA(12:0/12:0)"", """", ""C27H53O8P""],  [""Ceramide (d18:1/12:0)"", """", ""C30H59NO3""],  [""lyso PC(13:0)"", """", ""C21H44NO7P""],  [""Sitosterol"", """", ""C29H50O""],  [""lyso PE(13:0)"", """", ""C18H38NO7P""],  [""lyso PG(13:0)"", """", ""C19H39O9P""],  [""GlcCer(d18:1/12:0)"", """", ""C36H69NO8""],  [""Cardiolipin(56:0)"", """", ""C65H124Na2O17P2""],  [""TAG(17:0/17:1/17:0)"", """", ""C54H97D5O6""],  [""lyso PS(13:0)"", """", ""C19H38NO9P""],  [""lyso PI(13:0)"", """", ""C22H43O12P""],  [""ganglioside"", """", ""C73H130N3NaO31""]]",
+Organism,Danio rerio,FALSE
+Organism,Olavius ilvae,FALSE
+Additional_Information,"Sample Description: Streamline MetaSpace to Metabolights
+Sample Preparation: Specific DHB preparation of epididymis sections",
+Tissue_Modification,Homogenisation,FALSE
+Additional_Information,Mimetic tissue: matrix optimization,FALSE
+Additional_Information,Mimetic tissue: protocol optimization,FALSE
+Organism_Part,MLN,
+Sample_Growth_Conditions,Enviromental,
+Additional_Information,"Mimetic tissue: matrix optimization
+Expected Molecules: ATP",FALSE
+MALDI_Matrix_Application,spotting,FALSE
+Additional_Information,"Sample Description: ATP standard 5 mM to 0.5 nM with 9-AA blank
+Sample Preparation: 50:50 MeOH/water solution* dried at RT
+*Samples with high concentration are a suspension rather than a solution.
+Spots applied to the metal plate pre-cooled on regular ice to minimize solvent evaporation during sample prep.
+All work done in nitrogen atmosphere to avoid air moisture condensation on the cold metal plate.",FALSE
+Additional_Information,"Sample Description: ATP standard 5 mM to 0.5 nM with a DHB blank
+Sample Preparation: 50:50 MeOH/water solution dried at RT.
+Spots applied to the metal plate pre-cooled on regular ice to minimize solvent evaporation during sample prep.
+All work done in nitrogen atmosphere to avoid air moisture condensation on the cold metal plate.
+Expected Molecules: ATP",FALSE
+Organism,Xiphidium caeruleum,FALSE
+Condition,Necrotic lesion,
+Additional_Information,"Mimetic tissue: matrix optimization
+Sample Description: ATP standard 100 mM
+Expected Molecules: ATP",FALSE
+Additional_Information,"Mimetic tissue: matrix optimization
+Sample Description: ATP standard 5 mM to 0.5 nM with a DHB blank
+Sample Preparation: 50:50 MeOH/water solution dried at RT
+Expected Molecules: ATP",FALSE
+Additional_Information,"Mimetic tissue: matrix optimization
+Sample Description: ATP standard 100 mM, 10 mM, blank
+Expected Molecules: ATP",FALSE
+Additional_Information,"Sample Description: ATP-Mg2+ standard 25 mM to 250 pM with a 9AA blank
+Sample Preparation: 50:50 '95%EtOH':water solution
+Spot 2 microliters on metal plate on regular ice to prevent solvent evaporation. 
+Transfer metal plate on dry-ice+ACN (~ -40oC) to quickly freeze the spots.
+Dessicate sample from frozen.
+All work carried out in nitrogen atmosphere to avoid any air moisture condensation on metal plate, which ruins it.
+Expected Molecules: ATP",FALSE
+Additional_Information,"Mimetic tissue: ATP detection
+Sample Description: ATP standard 100 mM to 0.5 nM with a blank
+Expected Molecules: ATP",FALSE
+Sample_Growth_Conditions,Environmetal,
+Additional_Information,Mimetic tissue: different organs,FALSE
+Condition,"Cancer, primary, GIST",
+Additional_Information,"Mimetic tissue: different organs
+Sample Description: [[Liver, Heart, Muscle], [Lung, Kidney, Brain]]",FALSE
+Additional_Information,Cellzome standards,FALSE
+MALDI_Matrix_Application,IMatrixSpray,
+Additional_Information,"Mimetic tissue: different organs
+Sample Description: [[Liver, heart, muscle], [Lung, kidney, brain]]",FALSE
+Additional_Information,"Sample Description: Standards: [10-3, 10-4, 10-5]
+Sample Preparation: 0.5 μL standards dilution + 0.5 μl DHB matrix",FALSE
+Additional_Information,"https://www.ebi.ac.uk/metabolights/MTBLS313
+Publication DOI: 10.1038/nmeth.4072",
+Sample_Growth_Conditions,Dmem,
+Additional_Information,"Sample Description: ATP standard 100 mM to 10 nM with a blank
+[10 mM, 100 mM, blanck], [10 μM, 100 μM, 1 mM]. [10 nm, 100 nm, 1 μM]
+Expected Molecules: ATP",FALSE
+Additional_Information,"Mimetic tissue: ATP detection
+Sample Description: ATP standard 100 mM to 10 nM with a blank
+[10 mM, 100 mM, blanck], [10 μM, 100 μM, 1 mM]. [10 nm, 100 nm, 1 μM]
+Expected Molecules: ATP",FALSE
+MALDI_Matrix,DHB and DAN,FALSE
+Additional_Information,"Sample Description: Standards [1:10+DHB, 1:100+DHB], [1:10+DAN, 1:100+DAN]
+Sample Preparation: 0.5 μL standard dilution + 0.5 μL matrix
+Dilution with methanol",FALSE
+Condition,Nona,
+Additional_Information,"Mimetic tissue: ATP detection
+Sample Description: ATP [1 mM, 100µM, blank], [blank, 100 mM, 10 mM]
+Expected Molecules: ATP",FALSE
+Additional_Information,"Sample Description: ATP [10mM, 100mM, blank], [ - , 100 μL, 
+Expected Molecules: ATP",FALSE
+Additional_Information,Expected Molecules: ATP,FALSE
+Organism_Part,Peritoneum,
+Condition,Atherosclerosis plaque,
+Additional_Information,Mimetic tissue,FALSE
+Additional_Information,Brain section,
+Organism,Leptosphaeria maculans,FALSE
+Additional_Information,"Sample Description: The imaging data sets are produced on MALDI LTQ Orbitrap XL . They are measurements of Wild type mice liver tissues. The aim is to compare two groups of these liver tissues (control and fasting) regarding their lipids/ metabolites content.
+
+Tissues are scanned in a horizontal raster mode with a lateral resolution of 100 µm in a meandering pattern with a laser beam size of 80 µm×60 µm. Full scan mass spectra were registered in positive ion mode averaging 2 microscans per step at m/z 200–1500 Da mass range, and a mass resolution of 60000 was used on the FT MS analyzer.
+Sample Preparation: LTQ Orbitrap",
+Organism_Part,Colony,FALSE
+Sample_Growth_Conditions,Microchanel,
+Organism_Part,Leaves,FALSE
+Organism,Worm,FALSE
+Condition,Control and resistance,
+MALDI_Matrix_Application,Sieving,FALSE
+Additional_Information,primary cells,FALSE
+Organism_Part,Spreadout,
+Organism_Part,T84 cells Gut,FALSE
+Condition,K12,
+Organism_Part,Tripartite,
+Additional_Information,Sample Description: primary cells,FALSE
+MALDI_Matrix,DHB/Fe3O4,FALSE
+MALDI_Matrix,Pt,FALSE
+MALDI_Matrix,Ti,FALSE
+MALDI_Matrix,Cu,FALSE
+MALDI_Matrix,Ni,FALSE
+Additional_Information,"-
+Sample Description: rat liver control before treating with Donepezil
+Sample Preparation: section 10µm; matrix application with SunCollect sprayer
+Expected Molecules: -
+Publication DOI: -",
+Additional_Information,"-
+Sample Description: rat brain 
+drug dosed animal
+Sample Preparation: section 10µm; matrix application with SunCollect sprayer
+Expected Molecules: -
+Publication DOI: -",
+Additional_Information,"-
+Sample Description: rat liver treated with 30 mg Donepezil
+Sample Preparation: section 10µm; matrix application with SunCollect sprayer
+Expected Molecules: -
+Publication DOI: -",
+Condition,Wildtype and knock out,
+Condition,"Cancer, gastric model",
+Additional_Information,Publication DOI: https://doi.org/10.1016/j.neo.2016.07.002,
+Additional_Information,Publication DOI: https://doi.org/10.1016/j.bbadis.2017.04.006,
+MALDI_Matrix,"2,5-dihydroxybenzoic acid (DHB)/Fe3O4 binary mix",FALSE
+Additional_Information,"Sample Description: Rat Prostate cancer 
+Sample Preparation: Specific DCTB preparation for Chlordecone detection
+Expected Molecules: Chlordecone : C10Cl10O2H2",
+Organism,Chenopodium quinoa,FALSE
+Organism,Thapsia garganica,FALSE
+Additional_Information,Sample Description: Sample is analyzed by LESA imaging after we performed MALDI imaging. ,
+Sample_Growth_Conditions,Other,
+Additional_Information,"Sample Description: Rat Prostate cancer 
+Sample Preparation: Specific DCTB preparation for Chlordecone detection",
+Organism,Trifolium repens,FALSE
+Additional_Information,QExactive HF; AP-SMALDI5 AF,
+Organism,Sal,FALSE
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB standard method",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB standard method but 0.5 bar",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB standard method with MeOH recrystallization",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB MeOH/H2O",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB prewash MeOH",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB-MeOH prewash MeOH",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB_standard",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB_standard + prespray MeOH",
+Organism,Laccaria bicolor and pseudotsuga menziesii,FALSE
+Organism_Part,"Root, hyphae",FALSE
+MALDI_Matrix_Application,manual,FALSE
+Tissue_Modification,HHQ spotted molecule 1 femtomol/µl,FALSE
+MALDI_Matrix_Application,Spray_Robot,
+Additional_Information,"Sample Description: Mouse Brain with spotted HHQ molecule
+Sample Preparation: 1 femtomol/µl HHQ molecule spotted (0.5µl)
+Expected Molecules: HHQ molecule (m/z [M+H+] = 244,169591) ",
+Additional_Information,"Sample Preparation: 12 um sections, sagattial plane, thaw mounted on ITO",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHB_standard + Gelatine",
+Additional_Information,Sample Description: MTBLS273; recalibrated imzML file,
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: LDI",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: DHBstandard_Gelatine",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: 300µl_5mg/ml_7/3EtOH/H2O
+Gelatine",
+Additional_Information,"QExactive HF; AP-SMALDI5 AF
+Sample Preparation: 300µl_20mg/ml_1/1EtOH/H2O
+Gelatine",
+MALDI_Matrix_Application,Spray coating,
+Additional_Information,"Method (will be) published in Chemistry and Physics of Lipids.
+AP-SMALDI 10
+Sample Description: Four textile swatches combined in one image. Lard was applied to swatches, which were washed with lipase containing laundry detergent. 
+Sample Preparation: Method (will be) published in Chemistry and Physics of Lipids.
+Expected Molecules: TGAs, DGAs, MGAs and FFAs.",
+Organism,Strigeidida,FALSE
+Additional_Information,AP-SMALDI5 AF,
+Organism,Aconitum lycoctonum,FALSE
+Organism_Part,Intestinal mucus,
+Organism_Part,Stomach mucus,
+Organism,Grape berries,FALSE
+Additional_Information,Sample Description: MTBLS385; recalibrated imzML file,
+Organism_Part,Plantlet,
+Condition,Wild type VS mutant,
+Organism,Bellis perennis,FALSE
+Organism,Paramecium caudatum,FALSE
+Additional_Information,"AP-SMALDI10
+Sample Preparation: AP-SMALDI10",
+Additional_Information,"3.8 pixel/s; QExactive HF; AP-SMALDI10
+Sample Preparation: AP-SMALDI5 AF ",
+Additional_Information,"QExactive HF; AP-SMALDI10
+Sample Preparation: AP-SMALDI5 AF ",
+Additional_Information,"Smartpixel; QExactive HF; AP-SMALDI10
+Sample Preparation: AP-SMALDI5 AF ",
+Condition,Early,
+Condition,Ripe,FALSE
+Condition,Late,
+Organism,2 € coin,FALSE
+Organism_Part,Kidney | Muscle,
+Condition,Coculture Human HEK293T with Mouse NIH/3T3,FALSE
+Condition,Atherosclerosis,
+Organism,Spruce,FALSE
+Condition,Control obese,
+Additional_Information,Publication DOI: 10.1017/S1551929516000018,
+MALDI_Matrix_Application,Bruker Sprayer,
+Additional_Information,Data from 2013,
+Organism,Caco-2,FALSE
+Condition,Wt,
+Additional_Information,"Sample Description: sagittal mouse brain section 10µm section, DHB sprayed, measured by solariX 2XR
+Sample Preparation: HTX M3 for DHB spray",
+MALDI_Matrix,5-chloro-2-Mercaptobenzothiazole (CMBT),
+Sample_Growth_Conditions,CO2,
+Organism_Part,Aorta,
+Organism,Acromyrmex octospinosus | Pseudonocardia bacteria,FALSE
+Organism,Acromyrmex echinatior | Pseudonocardia bacteria,FALSE
+Condition,"Infected, Escovopsis; Trichoderma; Metarhizium - pesudo-free",
+Condition,Control and Escovopsis-infected,
+Organism,Gallus domesticus (chicken) and sus scrofa domesticus (pig),FALSE
+Organism_Part,Muscle and liver,
+Additional_Information,"QExactive+
+AP-SMALDI 10",
+Organism_Part,Liver_PA,
+Condition,Store bought,FALSE
+Sample_Stabilisation,Liquid N2,
+Sample_Stabilisation,Al foil +liquid N2,
+Additional_Information,"Sample Description: Sublimation of serial section 
+Sample Preparation: Sublimation then recrystallization 80C 0.5% AcOH 3.5 min",
+Organism,Fish,FALSE
+Organism,Populus nigra,FALSE
+Condition,ZRV,
+Sample_Growth_Conditions,Environment,
+Additional_Information,"AP-SMALDI 10
+Sample Description: Clinical Glioma #1382FF m/z610-880",
+Additional_Information,"AP-SMALDI 10
+Sample Description: Clinical Glioma m/z145-155",
+Additional_Information,"AP-SMALDI 10
+Sample Description: Clinical Glioma m/z610-880",
+Additional_Information,"
+ Auto recal {'polarity': 'Negative', 'organ': 'Brain', 'source': 'MALDI', 'database': 'HMDB'}
+Sample Preparation: LTQ Orbitrap",
+Additional_Information,"KPMP
+Sample Description: Fresh Frozen in Liquid N2 without Al, from UTHSA",
+Sample_Growth_Conditions,Cf,
+Additional_Information,"
+ Auto recal {'polarity': 'Positive', 'organ': 'Kidney', 'source': 'MALDI', 'database': 'HMDB-v2.5'}",
+Additional_Information,"
+ Auto recal {'polarity': 'Positive', 'organ': 'Kidney', 'source': 'MALDI', 'database': 'HMDB'}",
